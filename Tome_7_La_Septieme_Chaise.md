@@ -1006,3 +1006,160 @@ Clara appela Samir, une fois seule dans le couloir désert, pour lui annoncer ce
 — Je sais, dit-il simplement, avec cette résignation tendre qu'elle lui connaissait depuis le tout premier soir de leur histoire commune. Je te connais depuis assez longtemps pour reconnaître, dans ta voix, quand une enquête cesse d'être un dossier pour devenir quelque chose de plus personnel. Fais ce que tu dois faire, Clara. Je t'attendrai. Comme toujours. »
 
 Dehors, la première neige de la saison commença à tomber sur les eaux du lac du Bourget, silencieuse et patiente, comme pour rappeler à Clara que le temps, dans cette affaire plus que dans aucune autre de sa carrière, ne travaillait décidément pas en sa faveur — et que quelque part, dans un lieu qu'elle ne pouvait encore ni nommer ni imaginer, un homme sans passé vérifiable continuait, avec la même patience qu'il avait déjà démontrée pendant onze années entières, à préparer la prochaine pièce de son échiquier.
+
+
+## Chapitre 13 — Ce que le dossier taisait
+
+Le dépôt central des archives judiciaires du Rhône occupait, au bout d'une rue sans nom véritable — la voirie l'appelait simplement « voie 14 », comme on numérote un quai de gare —, un bâtiment de béton brut élevé en 1974, à l'époque où l'on croyait encore que la mémoire de la justice tiendrait dans quatre étages de rayonnages métalliques et un système de ventilation qui n'avait jamais très bien fonctionné. La façade, grise, striée de coulures de pluie devenues permanentes, ne portait aucun nom, aucun sigle, rien qui pût indiquer au passant que s'y trouvaient entassées, dans l'obscurité tiède, des dizaines de milliers de vies interrompues, jugées, classées, puis oubliées avec la même application administrative que celle qui avait présidé à leur mise en carton.
+
+Clara connut, en descendant du véhicule, une sensation qu'elle ne sut nommer que plus tard, dans la soirée, en tentant d'en rendre compte à Ferrière : celle de revenir, non pas sur les lieux d'un crime, mais sur les lieux d'un âge. Elle avait vingt-quatre ans en 2014. Elle en avait trente-cinq à présent. Onze années — le chiffre, elle le savait désormais par cœur, elle l'avait retourné dans tous les sens depuis Chambéry — s'étaient écoulées entre la jeune inspectrice stagiaire qui avait un jour désigné, sur un rapport dactylographié, une empreinte partielle comme suffisante, et la commissaire qui remontait ce matin les marches du dépôt central, un ordre de réquisition plié dans la poche intérieure de son manteau.
+
+« Ça va ? demanda Ferrière, qui l'observait depuis le trottoir avec cette discrétion particulière qu'il réservait aux jours où il jugeait préférable de ne pas insister.
+
+— Ça ira », dit-elle. Ce qui n'était, elle le savait, une réponse à aucune des deux acceptions possibles de la question.
+
+Le capitaine Ambrosini les rejoignit en dernier, un carton de gobelets de café encore fumants calé contre la hanche, la mine de quelqu'un qui a dormi dans un train et qui s'apprête à le regretter toute la journée. Il avait insisté pour venir. « Une paire d'yeux de plus dans un dossier de onze ans, avait-il dit à Farge la veille, ça ne se refuse jamais », formule dont personne n'avait relevé, sur le moment, la charge involontairement prophétique.
+
+L'archiviste qui les reçut se présenta comme monsieur Vasco, un homme d'une soixantaine d'années au cardigan couleur de muraille, dont la voix semblait elle-même avoir pris, à force de silence, la texture feutrée du papier vieilli. Il consulta la réquisition avec une lenteur qui n'avait rien d'hostile — c'était simplement le tempo naturel d'un lieu où le temps ne se mesurait plus en heures mais en cotes d'archivage — puis hocha la tête.
+
+« Chambon, Aurélie. Instruction 2014, cour d'assises du Rhône, 2015. Je vous préviens tout de suite : c'est au sous-sol. On n'a pas encore numérisé cette période-là. »
+
+Le sous-sol. Clara songea, sans le dire, que l'expression convenait à peu près à tout ce qui concernait cette affaire : elle avait toujours vécu, en elle, à un niveau inférieur à celui qu'elle montrait au jour.
+
+L'escalier qui y menait était en béton nu, éclairé par des tubes fluorescents dont l'un, au deuxième palier, clignotait avec une régularité d'insecte agonisant. L'air, en bas, changeait de nature : plus dense, plus âcre, chargé d'une odeur de carton humide et de colle ancienne qui prenait à la gorge dès les premières marches. Des rangées de rayonnages compacts, montés sur rails, s'étendaient à perte de vue sous des plafonds bas, striés de gaines électriques ; on aurait dit, songea Ferrière, la cale d'un navire échoué depuis des décennies, chargée d'une cargaison que personne n'avait le courage de jeter par-dessus bord ni la mémoire suffisante pour s'en souvenir précisément.
+
+« C'est là », dit Vasco, en actionnant la manivelle qui écartait deux blocs de rayonnages.
+
+L'année 2014 tenait, pour l'affaire Chambon, en quatre boîtes Cauchard, de ce carton gris-vert qu'on ne fabrique plus, fermées par des sangles de coton élimées et scellées d'une étiquette dactylographiée sur laquelle l'encre avait viré au brun. INSTRUCTION N° 2014/0447 — CHAMBON A. — HOMICIDE VOLONTAIRE — RUE SAINTE-HÉLÈNE, LYON 2E.
+
+Clara posa la main sur le carton le plus proche. Il était froid, sous les doigts, avec cette froideur particulière des matières qui ont longtemps séjourné dans l'obscurité et n'en gardent, en surface, aucune trace visible.
+
+C'est à cet instant précis, comme pour rappeler à la scène qu'elle ne pouvait décemment demeurer tout à fait solennelle plus de quelques minutes, qu'Ambrosini éternua.
+
+Le bruit, dans le silence minéral du sous-sol, eut la brutalité d'un coup de feu. Vasco sursauta ; Ferrière porta la main à sa ceinture par pur réflexe avant de se rendre compte, avec un temps de retard qui l'agaça lui-même, qu'aucune arme n'était en cause, seulement la poussière accumulée depuis 1974 sur des rayonnages que personne n'essuyait plus depuis l'ère Mitterrand.
+
+« Pardon », dit Ambrosini, la voix étranglée, avant d'éternuer une deuxième fois, puis une troisième, avec une violence croissante qui le fit ployer en deux.
+
+« Vous êtes allergique ? demanda Vasco, plus intrigué qu'inquiet.
+
+— Aux acariens. Et visiblement aux archives », répondit Ambrosini, d'une voix nasillarde, en cherchant dans sa poche un mouchoir qu'il ne trouva pas.
+
+Il recula d'un pas pour se dégager d'une bouffée particulièrement dense soulevée par le déplacement des rayonnages — et c'est ce pas, ce simple pas en arrière exécuté sans regarder, qui le fit heurter la pile de cartons entreposée, en attente de reclassement, contre le montant du rayonnage voisin. La pile, haute d'une douzaine de boîtes qu'aucune sangle ne retenait plus, hésita une seconde entière — assez longtemps pour que chacun comprît ce qui allait suivre sans pouvoir l'empêcher — puis s'effondra dans un fracas de carton et de poussière qui remplit le couloir d'un nuage jaunâtre et fit rouler jusqu'aux pieds de Clara trois dossiers d'un divorce contentieux de 1988 totalement étranger à l'affaire.
+
+Le silence qui suivit fut d'abord total. Puis Ambrosini, couvert de poussière des épaules aux chaussures, un dossier de succession coincé sous le bras sans qu'il sût comment il était arrivé là, articula, avec la dignité désespérée d'un homme qui sait que l'incident le suivra pendant des mois dans les couloirs de la gendarmerie de Savoie :
+
+« Je vais ranger ça. »
+
+Ferrière ne put retenir un rire bref, presque honteux, aussitôt réprimé — non par respect du lieu, mais parce qu'il avait surpris, sur le visage de Clara, quelque chose qui n'était ni de l'amusement ni de l'agacement, mais une forme d'épuisement soulagé de trouver, au milieu de tout cela, un motif de sourire aussi minuscule fût-il. Vasco, lui, considérait la scène avec la placidité résignée d'un homme qui en avait vu d'autres, et qui se contenta de dire, en désignant un balai appuyé contre le mur : « Il y a une pelle, là-bas », avant de retourner s'occuper des quatre boîtes Cauchard, comme si rien ne s'était produit.
+
+Il fallut vingt minutes pour tout remettre en ordre. Vingt minutes durant lesquelles la gravité du moment, un instant suspendue, se reforma peu à peu autour d'eux, ainsi qu'un liquide qui reprend sa surface après qu'on y a jeté une pierre.
+
+Puis on ouvrit le dossier Chambon.
+
+*
+
+Ils l'installèrent sur une table métallique poussée contre le mur, sous un plafonnier dont la lumière blanche accentuait, plutôt qu'elle ne l'atténuait, la vétusté de tout ce qui les entourait. Ferrière disposa les quatre boîtes dans l'ordre de leur numérotation ; Clara, elle, resta un instant debout, immobile, devant la première, comme si le simple fait de dénouer la sangle constituait un acte qu'elle devait s'autoriser avant de le poser.
+
+Elle finit par le faire.
+
+Le premier document qui apparut fut le procès-verbal de constatation, daté du 14 mars 2014, rédigé d'une écriture qu'elle reconnut aussitôt : celle du brigadier-chef qui l'avait encadrée à l'époque, un homme mort d'un cancer du pancréas en 2019, dont elle avait, pendant des années, oublié jusqu'au nom, et qui lui revint pourtant intact — Marchetti — au moment précis où ses yeux tombèrent sur la signature en bas de page.
+
+« Rue Sainte-Hélène, dit-elle à voix basse, davantage pour elle-même que pour Ferrière. Deuxième étage. Il pleuvait. »
+
+Elle n'avait besoin, pour se souvenir, d'aucun document. C'était même, songea-t-elle, tout le problème : la mémoire, chez elle, avait ceci de tyrannique qu'elle ne demandait jamais la permission de revenir.
+
+Ferrière, à côté d'elle, feuilletait les photographies avec une prudence de chirurgien, comme si le papier lui-même risquait, en s'effritant, de rouvrir une plaie qui n'était pas la sienne mais dont il se sentait, par proximité, comptable. Il connaissait cette affaire par ce que Clara en avait dit, en onze ans, à trois reprises seulement, et toujours de manière elliptique, comme on évoque un pays où l'on a vécu une guerre sans jamais vouloir en détailler les batailles.
+
+« C'est étrange, dit-il au bout d'un moment.
+
+— Quoi donc ?
+
+— De vous voir lire ça comme n'importe quel dossier. Avec les mains. »
+
+Clara ne répondit pas tout de suite. Elle tenait entre ses doigts un cliché en couleur, légèrement passé, montrant la chambre d'Aurélie Chambon telle qu'on l'avait trouvée : le lit défait, la fenêtre entrouverte sur la cour intérieure, l'étagère surchargée de livres de lycée et de peluches qu'une jeune femme de dix-neuf ans n'avait pas encore eu le cœur de jeter.
+
+« Je crois, dit-elle enfin, qu'on ne relit jamais un dossier avec les mains. On le relit toujours avec ce qu'on était le jour où on l'a écrit. »
+
+Ambrosini, qui avait entrepris, avec une componction excessive destinée à faire oublier l'incident des cartons, de recenser méthodiquement le contenu de la troisième boîte selon le bordereau de cotation, leva soudain la tête.
+
+« Commissaire. Il manque des pièces. »
+
+*
+
+Le bordereau, document dressé à la clôture de l'instruction, listait deux cent quatorze pièces cotées de 1 à 214, chacune correspondant à un procès-verbal, un rapport d'expertise, un cliché ou une audition. Ambrosini, en cochant une à une les pièces retrouvées dans les boîtes, était arrivé à la pièce 86 — un rapport de police technique et scientifique sur les prélèvements effectués sous les ongles de la victime — lorsqu'il avait constaté que la suivante référencée dans le classeur n'était pas la pièce 87, mais directement la pièce 95.
+
+Huit pièces manquaient. Toutes situées dans la même plage : de 87 à 94.
+
+Clara sentit un poids se déposer, très exactement, à la base du sternum. Elle demanda le bordereau, le parcourut elle-même, ligne par ligne, comme si son propre regard pouvait accomplir ce que celui d'Ambrosini n'avait pas su faire — les faire réapparaître par la seule force de l'insistance.
+
+« Qu'est-ce que c'était, ces pièces-là ? demanda Ferrière.
+
+— Les photographies complémentaires de la scène, dit Clara, sans avoir besoin de relire l'intitulé. Celles qu'on avait prises le lendemain, en lumière naturelle, quand on est retournés sur place avec l'identité judiciaire pour un second passage. »
+
+Vasco, appelé, examina la boîte avec l'air d'un homme confronté à une anomalie qu'il jugeait à la fois rare et, professionnellement, presque intéressante. Il vérifia le registre de communication du dossier — la fiche interne sur laquelle chaque consultation, depuis la clôture de l'instruction, devait en principe être notée, avec la date, l'identité du demandeur, le motif et la signature du magistrat autorisant l'accès.
+
+Le registre comportait cinq lignes en onze ans. La première correspondait au recours en appel de 2015. La deuxième, à une demande de la défense de Thomas Reiller déposée en 2019, dans le cadre d'une tentative — restée sans suite — de révision. Les trois suivantes étaient des vérifications administratives sans lien avec le fond du dossier.
+
+Aucune ne mentionnait de retrait de pièces. Aucune ne mentionnait, en particulier, la boîte contenant les pièces 87 à 94.
+
+Mais en tournant la fiche, Clara remarqua ce que Vasco, occupé à compulser le registre principal, n'avait pas vu : au dos du dernier feuillet, sur la ligne réservée à un usage interne — « case remise en rayon, contrôlée par » — figurait une signature, apposée à l'encre bleue plus récente que le reste du document, dont le nom avait été rayé d'un trait unique, appliqué, presque calligraphique, de sorte qu'on ne pouvait plus lire que la première lettre, un P majuscule aux boucles nettes, et la date : 12 avril 2016.
+
+Personne, dans la pièce, ne dit rien pendant plusieurs secondes.
+
+« 2016, répéta enfin Ferrière. Deux ans après la clôture. Un an après l'appel. »
+
+« Et sept ans avant Reiller », dit Clara, d'une voix qu'elle entendit elle-même, avec une sorte de détachement clinique, trembler très légèrement sur le dernier mot.
+
+Elle pensa à l'article de 2014, celui que le docteur Prieur avait signé alors même qu'aucune trace de son existence administrative n'apparaissait dans les registres publics avant cette année-là. Elle pensa au fait que cet article avait été publié avant même le procès, avant l'arrêt de la cour d'assises, à un moment où seuls les enquêteurs et les magistrats disposaient des détails qu'il y révélait. Et voilà qu'un homme — un P, un simple P, réduit à une initiale par un trait de plume appliqué avec un soin presque désinvolte — était revenu deux ans plus tard, en personne, consulter physiquement ce dossier au sous-sol d'un bâtiment de béton anonyme, sans laisser dans le registre officiel la moindre trace régulière de son passage.
+
+« Ce n'est pas une preuve, dit Ambrosini, prudent.
+
+— Non, dit Clara. Ce n'est pas une preuve. C'est une présence. »
+
+*
+
+Ils remontèrent au rez-de-chaussée un peu avant treize heures, laissant Vasco entamer, avec une visible délectation professionnelle, une recherche approfondie sur l'identité du signataire disparu — recherche qu'il jugeait, en son for intérieur, la première anomalie sérieuse de sa carrière depuis la découverte, en 2009, d'un dossier de vol à main armée classé par erreur au rayon des successions.
+
+Dans la voiture, sur le parking gris du dépôt central, Ferrière déplia la carte routière qu'il conservait par habitude, malgré le GPS, une manie que Clara avait fini par trouver rassurante plutôt qu'anachronique.
+
+« On fait quoi de Delcasse ? » demanda-t-il.
+
+Le commissaire Yvon Delcasse. Le supérieur hiérarchique de Clara en 2014. L'homme qui avait, à l'époque, exprimé des réserves — consignées, elles, noir sur blanc, dans une note de synthèse que Clara venait tout juste de retrouver dans la boîte numéro deux — sur la portée qu'il convenait d'accorder à une empreinte partielle. Des réserves qu'une jeune inspectrice stagiaire, pressée de conclure, avait fini par emporter dans le sens contraire de la prudence.
+
+« On y va, dit Clara. Aujourd'hui, si possible.
+
+— Il vit à Décines, si je me souviens bien de son dossier de retraite. »
+
+« Alors on va à Décines. »
+
+Elle referma la portière, resta un instant le regard fixé sur la façade grise du dépôt central, sur ses quatre étages muets, sur cette architecture des années soixante-dix qui avait été conçue, en son temps, pour donner à la mémoire de la justice une forme durable, incorruptible — et qui n'avait su, en définitive, offrir à cette mémoire qu'une case vide entre les pièces 86 et 95, et un nom réduit à sa première lettre par la main de quelqu'un qui avait su, dès 2016, exactement où chercher et comment ne laisser presque aucune trace.
+
+« Il a fallu onze ans, dit-elle enfin, pour qu'on remarque que quelqu'un était venu ici avant nous.
+
+— Dix ans, corrigea Ferrière doucement. 2016, ce n'est pas 2014.
+
+— Deux ans après la clôture, dit Clara. Ce qui veut dire qu'il n'a pas eu besoin d'attendre le procès pour savoir ce qu'il cherchait. Il savait déjà. »
+
+*
+
+Ce fut au moment où Ferrière démarrait le moteur que Clara, qui avait emporté avec elle, glissée dans une pochette plastique, une copie qu'Ambrosini avait pris soin de photographier avant leur départ — l'une des rares photographies subsistantes de la chambre d'Aurélie Chambon, une vue large prise depuis le seuil de la porte —, la ressortit pour la regarder une dernière fois, sans raison précise, par ce réflexe qu'ont les enquêteurs de ne jamais tout à fait quitter une pièce des yeux avant de la ranger.
+
+Elle avait déjà vu ce cliché onze ans plus tôt. Elle l'avait revu ce matin même, au sous-sol, sans qu'il ne lui inspirât rien de particulier — un lit défait, une fenêtre entrouverte, une étagère de lycéenne.
+
+Mais la lumière du parking, plus franche que celle du plafonnier fluorescent du dépôt central, révélait à présent, sur cette même étagère, entre une pile de manuels de terminale et un ours en peluche au pelage aplati par l'usage, un petit objet sombre qu'elle avait, la première fois, pris pour un bouchon de parfum ou une babiole sans conséquence — et qu'elle distinguait à présent, avec une netteté qui lui coupa le souffle, comme une silhouette étroite, à la base carrée, surmontée d'une forme travaillée qu'elle connaissait par cœur pour l'avoir tenue, trois semaines plus tôt, dans un sachet scellé de la police scientifique, à la villa Bellerive.
+
+Un cavalier.
+
+Elle chercha, dans l'inventaire des scellés dressé en 2014, la moindre mention de cet objet. Elle ne trouva rien. Aucune cote. Aucune ligne. Rien qu'une formule générique, tapée machinalement par quelqu'un qui n'y avait manifestement accordé aucune attention particulière, quelque part au bas d'un procès-verbal annexe :
+
+« Divers objets personnels sans lien apparent avec les faits, laissés en l'état. »
+
+« Ferrière, dit-elle, d'une voix qu'elle s'efforça de maintenir plate, arrêtez la voiture. »
+
+Il obéit sans discuter. Elle lui tendit la photographie, le doigt posé sur l'étagère, sans un mot.
+
+Il mit quelques secondes à comprendre ce qu'elle lui montrait. Puis son visage, dans le rétroviseur qu'elle observait sans le vouloir, se figea de la même manière que le sien avait dû le faire, une minute plus tôt, lorsqu'elle avait compris à son tour qu'un objet identique à celui que tenait un mannequin vêtu d'une réplique de ses propres vêtements, vingt-trois jours plus tôt, au bord du lac du Bourget, se trouvait déjà là, en 2014, dans la chambre d'une jeune femme assassinée à Lyon — onze années avant que quiconque n'ait entendu prononcer, pour la première fois, le nom du docteur Nathanaël Prieur.
+
+Personne, à l'époque, n'avait jugé utile de le photographier de plus près. Personne n'avait jugé utile de le coter, de le saisir, de seulement le nommer.
+
+Il était resté là, sur cette étagère, tout ce temps — visible sur un cliché archivé au sous-sol d'un bâtiment gris, entre deux boîtes de carton scellées, attendant, avec une patience qui n'appartenait à aucune loi connue de la physique des objets inertes, que quelqu'un consentît enfin à le regarder.
