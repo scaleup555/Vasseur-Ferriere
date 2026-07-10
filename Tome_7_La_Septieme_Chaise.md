@@ -1489,3 +1489,122 @@ Ferrière la rejoignit dans le couloir, une tasse de café tiède dans chaque ma
 — Ça fait beaucoup de monde autour d'un seul homme.
 
 — C'est bien ce qui m'inquiète », dit-elle, et elle regarda par la fenêtre du couloir la masse noire du Grand Colombier qui achevait de se fondre dans la nuit, comme un animal patient attendant, immobile, que quelque chose vienne enfin rompre son silence. Un homme acculé de tous côtés ne devient pas prudent. Il devient imprévisible. Et de tout ce qu'elle avait appris sur Nathanaël Prieur depuis dix-sept jours, c'était bien la seule certitude qui ne demandait aucune analyse graphologique pour s'imposer : un homme comme lui, pris entre deux feux, ne fuirait pas indéfiniment. Il choisirait, tôt ou tard, de frapper le premier.
+
+
+## Chapitre 16 — Le Relieur
+
+Le mot avait mis deux jours à devenir un nom, et Clara trouvait cela juste, presque décent : il fallait bien laisser aux morts le temps qu'exige la vérité, avant de la leur devoir.
+
+Le brouillon retrouvé dans le téléphone d'Osmont — six mots inachevés, une phrase que la mort avait coupée avant le verbe — avait été confié au groupe lyonnais qui traquait, depuis des années et avec une patience de bénédictin, les faussaires de la région. On y archivait tout : les surnoms qui circulaient sur les forums fermés, les techniques de gravure, les watermarks contrefaits, les échecs autant que les réussites. Chastagner avait passé la nuit du lundi à croiser l'indicatif 04, les créneaux d'appels, les zones de bornage, avec une liste de soixante-treize individus fichés pour falsification documentaire dans le département du Rhône et ses abords. Il en restait un, au matin, quand le jour s'était levé sur le lac gris et immobile comme une paupière mal fermée. Un seul nom que tout désignait à la fois : Rémi Castaing, cinquante-trois ans, ancien graveur-imprimeur d'un atelier familial repris en 2003, mis en cause en 2011 dans une affaire de faux passeports qui n'avait jamais abouti, faute — déjà — de preuves matérielles suffisantes. Le surnom qui courait alors dans les dossiers de renseignement, personne n'avait su à l'époque lui donner un sens. Aujourd'hui, il en avait un : Relieur, parce qu'un homme qui fabrique de fausses vies commence toujours, disait-on dans le métier, par en relier les pages.
+
+« On ne l'arrête pas au hasard, avait dit Clara à l'équipe réunie dans la salle de la caserne. On l'arrête parce qu'un travail de recoupement, fait dans les règles, nous y mène. Je veux que ça reste vrai jusqu'au bout. »
+
+Ambrosini avait hoché la tête avec le sérieux d'un homme qui approuve un principe sans être certain de l'appliquer, et Lanvin avait vérifié deux fois le chargeur de son arme, geste rituel qu'il accomplissait avant chaque intervention comme d'autres se signent avant d'entrer dans une église.
+
+L'atelier de Castaing se trouvait à Saint-Fons, dans une rue qui longeait d'anciens entrepôts de tannerie reconvertis en garde-meubles, en carrosseries, en rien du tout. La façade ne payait pas de mine : un rideau de fer maculé de rouille orangée, une porte latérale en bois peinte d'un bleu qu'on devinait avoir été vif quarante ans plus tôt, une enseigne effacée où l'on pouvait encore lire, en lettres fantômes, Castaing & Fils — Imprimerie — Gravure. L'endroit sentait, de la rue déjà, l'encre grasse et le solvant, cette odeur âcre et sucrée à la fois qui prend à la gorge et ne la quitte plus de la journée, mêlée aux relents de vase que le Rhône, tout proche, poussait sur la ville certains matins d'été.
+
+À l'intérieur — Chastagner avait obtenu le mandat de perquisition la veille au soir, signé par une juge lyonnaise qui n'avait posé qu'une question, combien de temps ça peut attendre, et à qui la réponse aucun avait suffi — l'atelier se révélait plus vaste qu'il ne le laissait supposer, un long couloir de machines alignées comme des bêtes de trait au repos : une presse offset des années soixante-dix, entretenue avec un soin presque filial, ses rouleaux encore luisants d'une encre noire fraîche ; une massicot dont la lame, à elle seule, aurait pu couper un homme en deux ; des étagères entières de papiers de sécurité, de hologrammes découpés en rouleaux, de tampons encreurs rangés par ordre alphabétique dans des tiroirs à casiers qu'on aurait dits venus d'une pharmacie du siècle dernier.
+
+Ce fut Lanvin, en tête du groupe d'intervention, qui vit le premier la silhouette de Castaing détaler vers le fond de l'atelier au moment où la porte cédait sous la masse. L'homme était petit, râblé, les cheveux gris coupés court, et il courait avec une vivacité que son âge ne laissait pas prévoir, en direction d'un classeur métallique posé contre le mur du fond, près d'une petite fenêtre à barreaux qui donnait sur une cour intérieure.
+
+« Police ! Ne touchez pas à ça ! » cria Lanvin, mais Castaing avait déjà la main sur une bonbonne de gaz reliée par un tuyau de cuisine bricolé à un briquet fixé au sommet du classeur — un système grossier, presque artisanal, pensé pour un seul usage et depuis longtemps préparé, un incendiaire de fortune posé là comme on pose un fusil chargé derrière une porte, en priant de ne jamais s'en servir et en sachant qu'un jour, peut-être, il faudrait.
+
+Le briquet cracha une flamme, le tuyau prit feu avec un souffle sourd, et en une seconde le classeur métallique fut cerné d'une gerbe orange qui montait vers le plafond bas, léchant déjà les étagères de papiers voisines — des kilos de pâte de cellulose sèche, l'aliment rêvé du feu.
+
+« Extincteur ! » hurla Clara, entrée à son tour, et ce fut Ambrosini, dont on aurait pu croire, à le voir d'ordinaire, qu'il ne courait jamais, qui traversa l'atelier en trois enjambées pour arracher l'extincteur fixé près de la presse offset et le décharger sur le foyer avec une constance méthodique, comme s'il repeignait un mur, la mousse blanche noyant les flammes en un temps que Clara jugea, sur le moment, à la fois interminable et miraculeusement court.
+
+Castaing, lui, profitant de la confusion, avait filé vers la fenêtre à barreaux — dont l'un, disjoint depuis des années sans doute pour servir précisément à cet usage, pivotait sur un gond mal fixé — et s'était glissé dans la cour, puis dans une ruelle qui longeait l'arrière des entrepôts. Lanvin le rattrapa au bout de quarante mètres, entre deux bennes à ordures et un vélo abandonné depuis si longtemps que le lierre avait commencé à en coloniser le cadre, et le plaqua contre le mur de brique avec une fermeté qui n'avait rien de brutal mais ne laissait aucune place à la discussion.
+
+« On ne saute pas par les fenêtres à cinquante-trois ans, dit Lanvin en lui passant les menottes, le souffle court. C'est mauvais pour les genoux. »
+
+Castaing ne répondit rien. Il regardait, par-dessus l'épaule du brigadier, la fumée blanche et grasse qui s'échappait encore par la porte de son atelier, et quelque chose dans son visage — la peur passée laissait place à un affaissement — disait qu'il savait déjà, en cet instant précis, que le classeur n'avait pas brûlé assez.
+
+Il ne fallut à Chastagner que le reste de la matinée pour confirmer que le classeur, sauvé à temps par Ambrosini et son extincteur, ainsi qu'un serveur informatique dissimulé sous un plancher amovible dans l'arrière-boutique — que Castaing n'avait pas eu le temps d'atteindre —, contenaient l'essentiel d'une œuvre de vingt années : des centaines de gabarits d'identité, de matrices de cartes nationales, de modèles de passeports diplomatiques d'une qualité que même les services spécialisés, dans leur rapport préliminaire, qualifièrent de « supérieure aux standards habituels de la contrefaçon organisée ».
+
+C'est au troisième interrogatoire, non pas au premier, ni même au deuxième, que Castaing consentit à parler, et il le fit avec la lenteur calculée d'un homme qui négocie chaque mot comme une marchandise.
+
+« Je veux que ce soit clair dans le procès-verbal, dit-il, les mains posées à plat sur la table, tranquilles, presque professionnelles. Je collabore. Entièrement. Et je veux qu'on en tienne compte. »
+
+Clara le laissa dire. Ferrière, à côté d'elle, ne notait rien encore ; il regardait l'homme avec cette attention égale, sans jugement apparent, qui finissait toujours par faire parler les taiseux mieux que n'importe quelle pression.
+
+« Le Relieur, c'est vous, dit Clara.
+
+— C'est moi. Ça fait vingt-cinq ans que ça me suit, ce surnom-là, comme une étiquette qu'on n'arrive plus à décoller. Je n'ai jamais cherché à le porter, remarquez. On me l'a donné. Un client, au tout début, qui trouvait que je "reliais" les identités comme on relie un livre — la couverture, les pages, le fil qui tient tout ensemble. J'ai trouvé ça prétentieux sur le moment. Après, ça m'a plu. »
+
+Il parla ensuite de 2014, de l'automne, d'un homme qu'il n'avait jamais vu, jamais rencontré en personne, dont il ne connaissait ni le vrai visage ni le vrai nom, et qui l'avait contacté par l'intermédiaire d'un tiers déjà connu de lui pour des transactions plus modestes.
+
+« Un dossier complet. Naissance, scolarité, diplômes de médecine, tout. Ça prend du temps, un travail comme ça, si on veut que ça tienne. Il ne s'agissait pas de faire un passeport pour passer une frontière un soir et le jeter le lendemain. Il fallait une vie entière. Une vie qui résiste à vingt ans de vérifications de routine, à des recoupements administratifs, à des collègues curieux. »
+
+« Et vous saviez pour qui vous travailliez ? demanda Ferrière.
+
+— Je savais qu'il payait bien. Je savais qu'il payait régulièrement, années après années — un entretien, disons, une mise à jour du personnage. Pour le reste, on ne pose pas de questions dans mon métier. On pose des questions, on finit par en connaître les réponses, et connaître les réponses, dans mon métier, ça raccourcit l'espérance de vie. »
+
+Il donna, sans qu'on eût à le lui arracher, le nom de la structure par laquelle les paiements avaient transité depuis dix ans : une société luxembourgeoise de gestion patrimoniale, désignée dans ses propres carnets par un sigle qu'il avait fini par reconnaître, au fil des relevés, comme appartenant au même réseau financier qui apparaissait, dans les documents saisis chez maître Vergnes, en lien avec Alderney Participations.
+
+Ferrière échangea un regard avec Clara. C'était le genre de coïncidence qui, dans un rapport, ressemble à une preuve, et qui n'en est pas une — pas encore.
+
+« Ça ne veut pas dire qu'ils se connaissent, dit Clara plus tard, dans le couloir, en repensant à voix haute devant Farge qui venait d'arriver de Savoie. Vergnes et Prieur n'ont sans doute jamais échangé un mot de leur vie. Kratos avait ses circuits, ses sociétés-écrans, ses intermédiaires de complaisance, et tout ce petit monde — Castaing compris — passait par les mêmes tuyaux parce que c'étaient les seuls tuyaux disponibles pour ce genre d'argent sale. Deux affaires distinctes, deux logiques distinctes, qui se sont mises, à un moment, à couler dans le même conduit. Ce n'est pas une conspiration. C'est de la plomberie.
+
+— Une plomberie qui va coûter cher à Vergnes, dit Farge.
+
+— Une plomberie qui va coûter cher à Vergnes », confirma Clara.
+
+Le mandat fut délivré le lendemain matin, pour des faits de blanchiment aggravé et de complicité dans un trafic organisé de faux documents administratifs — des faits solides, documentés, mais soigneusement circonscrits : rien, dans le dossier transmis au parquet, ne reliait Solange Vergnes aux meurtres de la villa Bellerive, dont la responsabilité, tout indiquait, demeurait entière et solitaire chez Nathanaël Prieur.
+
+Elle fut interpellée à son cabinet, dans le huitième arrondissement de Lyon, un lundi en fin de matinée, entre deux rendez-vous, tandis qu'une cliente attendait encore dans le petit salon capitonné de gris. Elle ne protesta pas. Elle demanda simplement, avec une politesse mesurée, le temps d'appeler son associé, et regarda les deux policiers venus l'escorter avec l'expression un peu lasse d'une femme habituée depuis longtemps à négocier, y compris sa propre déchéance.
+
+« Vous savez, dit-elle à Clara sur le seuil, tandis qu'on lui présentait ses droits, dans ce métier, on finit toujours par répondre des dettes des autres. C'est une question de temps. Je pensais avoir plus de temps. »
+
+Il n'y avait, dans sa voix, ni peur véritable ni repentir, seulement cette forme d'ironie froide que portent certains vaincus, comme un dernier vêtement qu'on refuse d'ôter devant témoin.
+
+L'anomalie que Chastagner découvrit dans les archives numériques sauvées de l'incendie changea, en un après-midi, la nature de la traque.
+
+Castaing, en 2014, générait ses numéros de sécurité sociale factices selon un algorithme maison, une méthode qu'il avait mise au point lui-même dans les années 2000 et jamais modifiée depuis, par flemme ou par superstition d'artisan — une clé de contrôle légèrement décalée par rapport à la formule officielle, un décalage d'une unité qui ne se voyait jamais à l'œil nu, sauf lorsqu'on le cherchait précisément. Recoupé avec les bases actuelles de l'assurance maladie, ce décalage produisait, pour tous les faux numéros issus de son atelier, une signature technique reconnaissable — une empreinte digitale du faussaire lui-même, invisible pendant vingt ans, et soudain lisible comme un filigrane sous une lampe adaptée.
+
+« Ça veut dire, dit Chastagner en posant le tableau devant Clara et Ferrière, qu'on peut désormais identifier tous les autres numéros fabriqués par Castaing sur la même période. Pas seulement celui de Prieur. Tous les autres. »
+
+Ils étaient sept, en tout, générés entre 2013 et 2015, attribués à sept identités différentes, dont quatre correspondaient déjà à des dossiers classés, des morts naturelles, des existences éteintes sans bruit. Il en restait trois, actives, dont l'une appartenait officiellement à un certain Antoine Reversat, cinquante et un ans, domicilié — selon les fichiers les plus récents — dans une petite commune du Haut-Bugey.
+
+« Ce n'est peut-être rien, dit Ferrière.
+
+— Ou ce n'est peut-être pas rien », dit Clara, et elle mesura, pour la première fois depuis dix-neuf jours, que la légende de Prieur, qu'on avait crue parfaite, indéchiffrable, imprenable comme une forteresse bâtie sur du roc, portait en réalité, quelque part dans ses fondations, une fissure du même métal que celles qui fendent le granit sous la gelée : minuscule, invisible, et suffisante.
+
+Ce fut au moment précis où Chastagner énonçait ce chiffre — sept identités, trois vivantes — que le téléphone d'Ambrosini se mit à sonner, avec la sonnerie particulière qu'il réservait, sans qu'on sût pourquoi, aux appels personnels : les premières mesures, jouées en boucle et un ton trop aigu, d'un standard de variété italienne des années soixante.
+
+« Nicolas, dit-il en décrochant, on est en pleine réunion, là.
+
+— Je sais, je sais, dit la voix de Nicolas, assez fort pour que tout le monde dans la pièce l'entende. Mais j'ai fait des tartes. Aux mirabelles. Enfin, pas tout à fait aux mirabelles, il m'en manquait, alors j'ai mis moitié mirabelles moitié quetsches, et je me disais, comme vous êtes tous à Lyon en ce moment...
+
+— On est en pleine perquisition d'un faussaire, Nicolas.
+
+— Justement, on ne travaille jamais aussi bien le ventre vide. Je peux être là dans quarante minutes. »
+
+Ambrosini regarda le téléphone comme s'il contenait, littéralement, la réponse à une question métaphysique, puis regarda Clara, qui haussa un sourcil sans un mot, ce qui suffit à clore le débat.
+
+« Pas aujourd'hui, Nicolas. Peut-être demain.
+
+— Elles se congèlent très bien, tu sais.
+
+— Demain. »
+
+Ambrosini raccrocha, et un silence flotta un instant dans la pièce — le genre de silence qui suit une absurdité si parfaitement placée qu'on hésite à savoir si l'on doit rire ou reprendre son sérieux, jusqu'à ce que Farge, sans lever les yeux de son dossier, murmurât : « Moi je les aurais bien mangées, ses tartes », et que cela suffît à détendre, pour une poignée de secondes, une pièce qui n'avait plus ri depuis dix-neuf jours.
+
+Le sourire s'effaça vite. Le téléphone de Clara vibra à son tour, un message court venu du dispositif de protection rapprochée qui veillait, depuis des mois, sur Renaud Castellan — l'un des deux témoins de l'affaire Vallier, relogé sous identité protégée dans un pavillon anonyme des faubourgs de Chambéry.
+
+Un véhicule inconnu avait été repéré, à deux reprises en trois jours, garé à distance raisonnable du pavillon, moteur éteint, sans qu'aucun occupant n'en descende jamais avant de repartir au bout d'une vingtaine de minutes. La plaque, relevée par l'un des agents en faction, correspondait à un véhicule loué sous un nom d'emprunt, dans une agence lyonnaise, par un homme dont la description — corpulence, allure, façon de marcher légèrement voûtée — évoquait un profil déjà croisé dans les dossiers résiduels de Kratos, un exécutant de second rang, de ceux qu'on envoie repérer avant d'envoyer frapper.
+
+« Ils veulent nettoyer derrière eux, dit Ferrière quand Clara lui montra le message. Vallier est tombé, l'organisation agonise, et les derniers qui restent debout font ce que font les bêtes blessées : ils essaient d'effacer ce qui pourrait encore parler contre eux avant de crever tout à fait.
+
+— Castellan n'a rien vu, rien remarqué. C'est le dispositif qui a repéré la voiture, pas lui.
+
+— C'est déjà ça. »
+
+La décision fut prise dans l'heure : Castellan et Élise Cordier, la seconde témoin, jusqu'alors surveillés séparément selon un protocole standard, furent transférés le soir même vers un site de protection renforcée, dont l'adresse ne figurerait plus, à partir de cet instant, que dans trois dossiers physiques conservés hors réseau. Aucun contact n'avait eu lieu, aucune approche directe, aucun coup de feu — seulement une voiture garée deux fois de trop, et la vigilance ordinaire d'un homme en faction qui avait fait, ce jour-là, tout simplement son travail. Le dossier, épais depuis un tome entier, fut refermé avec la sobriété administrative des choses bien faites : un tampon, une date, une ligne dans un rapport que personne, sans doute, ne relirait jamais avec l'attention qu'elle méritait.
+
+Restait Prieur. Restait cette faille minuscule dans le granit de sa légende, ce numéro décalé d'une unité qui portait désormais un nom — Antoine Reversat — et une adresse dans le Haut-Bugey.
+
+Le soir, en reprenant le dossier saisi chez Castaing, Chastagner tomba sur une facture ancienne, froissée, coincée depuis des années entre deux gabarits de cartes grises, adressée non pas à Castaing lui-même mais réglée par lui, pour le compte d'un client dont l'identité de commande correspondait, une fois encore, au numéro décalé. Une facture de travaux de couverture, datée de 2015, pour la réfection d'une toiture — et l'adresse des travaux, tracée à l'encre presque effacée, ne correspondait à aucun des domiciles connus de Nathanaël Prieur, ni à aucun de ceux qu'on avait, en dix-neuf jours d'enquête, réussi à lui prêter.
+
+Clara regarda longuement ce bout de papier jauni, cette trace comptable oubliée d'un homme qui avait cru pouvoir tout effacer, sauf, apparemment, une toiture qu'il avait fallu payer un jour d'automne. Dehors, la nuit lyonnaise s'étendait sur les toits de tuile, indifférente, et quelque part sous l'un de ces toits, ou sous un autre, à des kilomètres de là, un homme traqué par deux mondes à la fois dormait peut-être, ou ne dormait pas, en attendant de savoir lequel des deux le trouverait le premier.
+
+« Demain, dit-elle à Ferrière, on va voir à quoi ressemble cette maison. »
