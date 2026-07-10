@@ -1608,3 +1608,172 @@ Le soir, en reprenant le dossier saisi chez Castaing, Chastagner tomba sur une f
 Clara regarda longuement ce bout de papier jauni, cette trace comptable oubliée d'un homme qui avait cru pouvoir tout effacer, sauf, apparemment, une toiture qu'il avait fallu payer un jour d'automne. Dehors, la nuit lyonnaise s'étendait sur les toits de tuile, indifférente, et quelque part sous l'un de ces toits, ou sous un autre, à des kilomètres de là, un homme traqué par deux mondes à la fois dormait peut-être, ou ne dormait pas, en attendant de savoir lequel des deux le trouverait le premier.
 
 « Demain, dit-elle à Ferrière, on va voir à quoi ressemble cette maison. »
+
+
+## Chapitre 17 — Le deuxième cahier
+
+Le Haut-Bugey, au matin, ressemblait à un pays qu'on aurait plié trop de fois : des crêtes boisées se succédaient sans logique apparente, séparées par des combes étroites où la brume stagnait encore à neuf heures, comme si le jour hésitait à y descendre tout à fait. Le convoi — deux véhicules de la gendarmerie de l'Ain réquisitionnés par Farge, la voiture banalisée de Clara et Ferrière, et le fourgon de Lanvin, chargé d'un matériel dont il avait, la veille au soir, dressé l'inventaire complet à voix haute pour le seul plaisir de l'exhaustivité — grimpait depuis une demi-heure une route départementale qui rétrécissait à chaque virage, bordée d'épicéas noirs et de murets de pierre sèche que plus personne, visiblement, ne réparait.
+
+Le hameau s'appelait les Fontanettes. Cinq maisons, une croix de mission érodée par deux siècles de gel, une fontaine qui ne coulait plus. Personne n'y vivait à l'année, hormis un couple de retraités et un chien qui aboya deux fois, sans conviction, avant de renoncer.
+
+La maison de Vincent Aubanel se tenait à l'écart, à quatre cents mètres du dernier toit habité, au bout d'un chemin de terre qu'une haie de noisetiers avait presque refermé. Bâtisse basse, en moellons calcaires du pays, toiture à deux pans couverte de tuiles plates dont beaucoup, à l'œil nu, semblaient d'origine — un siècle, peut-être davantage. Les volets, en bois plein, étaient tous fermés, verrouillés de l'intérieur par des barres qu'on devinait au jeu qu'elles imposaient dans leurs gonds. Rien, à première vue, ne distinguait cette maison d'une centaine d'autres laissées à l'abandon dans cette région où l'exode rural avait vidé les hameaux un à un depuis les années soixante.
+
+Sauf que les gouttières, en zinc, ne portaient pas une seule feuille morte. Sauf que la boîte aux lettres, en tôle peinte, vide de tout courrier, avait un couvercle qui s'ouvrait sans grincer, huilé, entretenu. Sauf que le gravier de l'allée, sous la mousse qui commençait à le recoloniser, avait été récemment ratissé — on en voyait les stries, à peine effacées par la dernière pluie.
+
+« Une maison qu'on veut faire passer pour morte, dit Ferrière, planté devant le portail rouillé de propos délibéré, en tenant machinalement le dossier de la commission rogatoire contre sa poitrine. Mais qu'on n'a pas eu le cœur, ou l'envie, de laisser vraiment mourir. »
+
+Clara ne répondit pas tout de suite. Elle regardait la façade avec cette attention particulière qu'on porte aux visages qui mentent bien — celle qu'on apprend à force d'en avoir trop cru.
+
+« Personne n'habite ici, dit-elle enfin. On ne vit pas dans une maison dont on ferme les volets tous les jours de l'année. Mais quelqu'un vient ici. Régulièrement. Pour travailler. »
+
+Le magistrat de permanence avait signé le mandat à sept heures du matin, après un appel de Clara passé la veille à vingt-trois heures, un appel bref et sans détour dans lequel elle avait posé sur la table tout ce que l'enquête tenait — la facture de toiture, le décalage de Castaing, le nom d'Aubanel — sans en dissimuler la moindre fragilité. Le magistrat avait écouté, posé deux questions, et signé. Certains matins, la justice allait plus vite que la peur.
+
+Farge avait fait mobiliser six gendarmes du groupement de l'Ain, dont un artificier de la cellule NRBC de Lyon qu'elle avait convaincu, contre l'avis mesuré de sa hiérarchie, de faire le déplacement « au cas où » — une prudence que Clara, ce matin-là, ne mit jamais en doute, bien qu'elle pesât sur son emploi du temps comme une contrainte administrative de plus.
+
+« On entre en trois temps, dit-elle à l'équipe rassemblée devant le portail. Périmètre, contrôle structurel, puis fouille. Personne n'ouvre un tiroir, un placard, une porte, sans que ce soit décidé collectivement. Cet homme construit des pièges depuis vingt ans pour d'autres. Je n'ai aucune raison de croire qu'il n'en construit pas pour nous. »
+
+Lanvin hocha la tête avec le sérieux d'un élève qui a compris la consigne et la respectera scrupuleusement — jusqu'au moment, deux heures plus tard, où il ne la respecterait plus.
+
+***
+
+La porte d'entrée céda sans effraction : elle n'était pas verrouillée, ce qui, en soi, disait déjà quelque chose de l'homme qui l'avait quittée pour la dernière fois — un homme pressé, ou un homme certain que la serrure ne protégeait rien d'essentiel.
+
+À l'intérieur, l'air sentait la poussière froide, le bois sec, et sous ces deux odeurs ordinaires, une troisième, plus fine, que Ferrière identifia le premier : de l'encre, du papier neuf, et quelque chose comme du vernis à maquette, cette odeur légèrement chimique qu'on associe d'ordinaire aux ateliers de modélisme.
+
+Le rez-de-chaussée était vide, ou presque : une cuisine sommaire, jamais vraiment utilisée, une chambre au lit fait au carré, militaire, sans un objet personnel. C'est l'escalier qui menait au premier étage, un escalier de bois raide et sonore sous chaque pas, qui les conduisit à la pièce qui donnait son sens à toute la maison.
+
+Elle occupait la totalité de l'étage, les cloisons intérieures ayant été abattues — un ancien grenier reconverti en un long atelier baigné d'une lumière blanche tombant de quatre velux, seules ouvertures que les volets extérieurs, aveuglément clos, ne couvraient pas. Et les murs, sur toute leur surface, disaient ce que la maison, dehors, s'était appliquée à taire.
+
+Des plans. Des dizaines de plans punaisés, dessinés à la main d'un trait précis, presque architectural — des schémas de pièces vues de dessus, avec des annotations en marge dans une écriture serrée, régulière, celle d'un homme qui n'écrivait jamais vite. Des croquis de mises en scène : une table dressée, comptée place par place, une potence esquissée dans les moindres proportions, une alcôve avec un fauteuil et une silhouette assise, de trois quarts, tenant sur les genoux un objet que Clara reconnut avant même de s'approcher — un cavalier d'échecs, dessiné avec un soin d'ébéniste.
+
+Et sur une longue table posée contre le mur du fond, des maquettes. Sept, huit, peut-être davantage, réduites au dixième, en bois balsa et carton peint, minutieuses jusqu'au grain du plancher figuré. L'une représentait une salle à manger provençale, six couverts et une septième place à l'écart : Roquemarine, esquissée dans le plâtre bien avant que le sang n'ait coulé sur la vraie table. Une autre reproduisait un salon au bord d'un lac, cinq figurines allongées et un fauteuil tourné vers une fenêtre bleue : la villa Bellerive, construite en modèle réduit avec une exactitude qui glaça l'équipe entière d'un silence qu'aucun mot, sur le moment, ne vint rompre.
+
+Ferrière prit une maquette entre ses doigts avec une délicatesse presque déplacée, comme s'il craignait qu'un geste trop brusque ne la fasse parler.
+
+« Regardez la date, dit-il en désignant un petit cartouche au crayon, sous le socle. Elle n'est pas récente. »
+
+Elle indiquait une année antérieure de plusieurs années à la mort des Vidalenc.
+
+« Il ne les a pas imaginées après, dit Clara, la voix étrangement plate, comme une constatation qu'on énonce pour ne pas avoir à la ressentir tout de suite. Il les a imaginées avant. Longtemps avant. Roquemarine, Bellerive — ce n'étaient pas des improvisations nées d'un contrat avec Vallier ou d'une occasion saisie au vol. C'étaient des devoirs qu'il gardait dans un tiroir, en attendant le bon élève, ou la bonne saison, pour les faire exister. »
+
+Personne, dans la pièce, ne trouva rien à ajouter à cela.
+
+Le long des autres murs s'alignaient des classeurs, des chemises cartonnées, des dossiers de recherche méticuleusement étiquetés : des affaires criminelles anciennes, non résolues, glanées à travers toute la France — une disparition dans le Cantal en 1987, un triple homicide jamais élucidé près de Metz en 1996, une série de noyades suspectes dans le Morbihan étalées sur une décennie. Chaque dossier contenait des coupures de presse jaunies, des relevés de dates, des annotations manuscrites qui ne portaient aucun jugement, seulement une curiosité clinique, presque tendre, pour la manière dont d'autres, avant lui, avaient composé.
+
+« Ce n'est pas un repaire, dit Farge en refermant lentement l'un des dossiers, avec une précaution qu'un bruit trop fort aurait suffi à trahir. C'est une bibliothèque. »
+
+C'est sur le bureau, au centre exact de la pièce, sous les quatre velux, que Chastagner — resté en bas jusque-là pour cadrer la scène et qui venait de monter — découvrit le classeur.
+
+Relié à la main, en cuir sombre patiné, épais de plusieurs centimètres, il portait sur sa couverture un titre calligraphié à l'encre noire, d'une écriture appliquée qui trahissait, dans chaque empattement, des heures de soin :
+
+*La grammaire du théâtre criminel — Cours avancé, deuxième cahier.*
+
+Clara l'ouvrit avec des gants, sur la première page, retenant son souffle sans s'en apercevoir vraiment. Ce n'était ni une préface ni un sommaire. C'était une dédicace, tracée d'une encre plus ancienne, un peu passée, dans une main différente de celle de la couverture — plus anguleuse, plus rapide :
+
+*Pour N., qui a si vite dépassé le maître. — A.L.*
+
+Ferrière lut par-dessus son épaule. Il ne dit rien pendant un long moment.
+
+« N., dit-il enfin.
+
+— Nathanaël. »
+
+« A.L. » Clara répéta les deux initiales à voix basse, deux fois, comme pour voir si elles finiraient par se transformer en quelque chose de connu. Elles ne le firent pas.
+
+« Il n'a pas inventé sa méthode tout seul, dit Ferrière. Il l'a apprise. »
+
+« Auprès de quelqu'un qui savait déjà, avant lui, dessiner ce genre de choses. » Clara referma le classeur avec un soin presque religieux, et le glissa dans une pochette scellée, sans y répondre davantage — parce qu'il n'y avait, à cet instant, aucune réponse à donner, seulement une question de plus posée sur une pile qui, depuis dix-neuf jours, ne cessait de s'élever.
+
+***
+
+C'est Lanvin qui repéra le placard.
+
+Encastré dans le mur du fond, entre deux étagères de dossiers, à peine plus large qu'une porte de communication, il était fermé par une serrure simple, du genre qu'on trouve dans n'importe quelle quincaillerie de village. Rien, en apparence, ne le distinguait des autres rangements de la pièce, sinon qu'il était le seul, dans tout l'étage, à être verrouillé.
+
+« Attendez l'artificier, dit Farge depuis l'autre bout de la pièce, où elle inventoriait les dossiers avec Ambrosini. Il termine le rez-de-chaussée. »
+
+Lanvin, accroupi devant le placard, un tournevis fin déjà glissé dans la serrure — un geste de routine, celui d'un homme qui avait crocheté plus de portes qu'il n'avait ouvert de boîtes aux lettres — répondit qu'il connaissait ce genre de serrure, qu'il en avait ouvert des dizaines, que ce n'était rien.
+
+« Théo, dit Clara, sans élever la voix mais avec une fermeté qui aurait dû suffire. On attend. »
+
+Il l'entendit. Ce fut, plus tard, ce qu'il répéterait le plus, à l'hôpital d'Oyonnax, avec une contrition sincère et un début de sourire honteux : qu'il l'avait entendue, et que le pêne avait cédé sous le tournevis exactement au moment où il se redressait pour lui répondre qu'il arrêtait, qu'il attendait, comme elle le demandait.
+
+Le battant s'ouvrit de trois centimètres.
+
+Il y eut d'abord un souffle, sec, presque anodin, comme celui d'un briquet qu'on approche trop près d'un bec de gaz. Puis, en une fraction de seconde, une gerbe de flamme jaillit du fond du placard avec un grondement sourd qui fit trembler l'air de la pièce entière, une chaleur brutale qui frappa les visages avant même que le bruit n'ait fini de résonner contre les poutres. Un accélérant — de l'essence à briquet ou un solvant proche, mêlé à des feuilles de papier traitées pour brûler vite et net — s'était embrasé d'un coup, alimenté par l'oxygène que l'ouverture venait de lui offrir, et la flamme monta jusqu'au plafond bas avant de retomber en un rideau orange qui dévorait déjà les dossiers rangés sur l'étagère voisine.
+
+Lanvin, projeté en arrière par le souffle, poussa un cri bref, plus de surprise que de douleur d'abord, la douleur venant ensuite, une seconde plus tard, quand la manche de sa veste, roussie, colla à la peau de son avant-bras. Il roula au sol, instinctivement, en frappant son bras contre le plancher avec une énergie que la panique décuplait.
+
+« À terre ! Tout le monde dehors ! » cria Farge, déjà en mouvement.
+
+Ambrosini, qui avait suivi de près, sans réfléchir, empoigna Lanvin par le col et le tira loin du foyer avec une force que son gabarit ne laissait jamais deviner, tandis que Chastagner arrachait des mains d'un gendarme l'extincteur monté sur le mur de l'escalier et le braquait sur le placard, dont les flammes commençaient déjà, sous l'effet de sa propre violence, à s'essouffler faute d'un combustible suffisant pour durer.
+
+L'incendie ne dura, en tout, guère plus de quarante secondes. Il parut à chacun durer dix fois plus longtemps.
+
+La fumée noire, épaisse, âcre, emplit l'étage en quelques instants, poussant l'équipe entière vers l'escalier dans une confusion ordonnée — personne ne courait vraiment, mais personne ne marchait non plus. Dehors, dans la cour, sous le ciel d'un bleu presque insolent qui contrastait avec ce qu'ils venaient de vivre, l'artificier de la cellule NRBC, remontant en courant du rez-de-chaussée, examina en une poignée de secondes le bras de Lanvin, la manche fondue par endroits sur une brûlure au deuxième degré qui courait sur près de dix centimètres, avant de faire signe à un gendarme d'appeler les secours.
+
+« Brûlure sérieuse, pas engageant le pronostic vital, dit-il à Clara, blanche, accroupie près de Lanvin qui grimaçait, allongé sur l'herbe humide. Il faut l'évacuer sur Oyonnax, mais il va s'en sortir. »
+
+Lanvin, la mâchoire crispée, le bras déjà enveloppé d'un pansement stérile qu'un gendarme secouriste appliquait avec des gestes rapides, appris et répétés, trouva malgré tout la force de tourner la tête vers Clara.
+
+« Corneille qui se brûle les ailes, commissaire. Il y a sûrement un titre de chapitre là-dedans. »
+
+Personne ne rit tout de suite. Puis Farge, penchée au-dessus de lui pour vérifier le pansement, laissa échapper un souffle qui ressemblait à un rire contenu depuis trop longtemps.
+
+« Vous vous rattraperez sur les blagues quand vous serez sur pied, Lanvin. Pour l'instant, taisez-vous et laissez faire les professionnels. »
+
+« Elle a raison, dit Ambrosini en s'accroupissant à son tour, la mine grave sous un début de sourire qu'il ne parvenait pas tout à fait à réprimer. La dernière fois qu'un collègue m'a fait de l'humour sur un brancard, c'était moi, à Roquemarine, et personne n'a ri non plus. »
+
+« Ça n'a jamais été drôle, Ambrosini, dit Farge.
+
+— Justement. C'est pour ça que ça se transmet. »
+
+Lanvin fut évacué vingt minutes plus tard vers le centre hospitalier d'Oyonnax, conscient, stable, la brûlure pansée, un sourire vaguement penaud accroché aux lèvres tandis que le brancard basculait dans l'ambulance — l'expression d'un homme qui savait déjà qu'il aurait, au sein de l'équipe, un stock de plaisanteries à son sujet suffisant pour les six mois à venir, et qui, visiblement, en avait déjà accepté le prix.
+
+***
+
+Il fallut deux heures pour que la fumée se dissipe assez pour permettre à l'équipe de remonter, masques respiratoires sur le visage, inspecter les dégâts sous la supervision de l'artificier.
+
+Le bilan, une fois établi, surprit Clara plus que l'incendie lui-même.
+
+Le placard était entièrement détruit, son contenu réduit à un magma noirci qu'aucune expertise ne rendrait jamais lisible. Mais le reste de la pièce — les murs de plans, les maquettes, les dossiers d'affaires anciennes, le bureau et le classeur relié qu'on en avait retiré à temps — n'avait presque rien souffert. Une fine pellicule de suie recouvrait les surfaces les plus proches du foyer. C'était tout.
+
+« Un seul dispositif, dit l'artificier, accroupi devant les vestiges calcinés du placard, examinant ce qui restait d'un mécanisme de mise à feu relié à la charnière du battant. Un système simple, un frottement qui déclenche une étincelle au contact de l'air, couplé à un accélérant concentré dans un espace confiné. Efficace pour ce qu'il visait — détruire vite, sur une petite surface, et dissuader quiconque irait fouiller plus loin. Mais un seul placard. Pas la pièce entière. »
+
+« Il n'a pas eu le temps, dit Ferrière, debout au centre de l'atelier noirci par endroits, en balayant du regard les murs presque intacts. Ou alors il n'a équipé que ce qu'il jugeait suffisant, en pariant qu'on n'irait jamais jusqu'ici. »
+
+« Ou les deux, dit Clara. Regardez cette pièce. Les maquettes de Roquemarine et de Bellerive sont debout. Le classeur est entre nos mains. Sept dossiers d'affaires anciennes que personne, avant nous, n'avait songé à relier à lui. Un homme qui contrôle vraiment tout ne laisse pas la moitié de son œuvre lisible derrière lui. »
+
+Elle laissa la phrase se poser dans l'air enfumé, entre les poutres noircies, comme on pose enfin un objet qu'on portait depuis trop longtemps.
+
+« Il croit tout prévoir, reprit-elle. Il a prévu un placard. Il n'a pas prévu que nous prendrions le reste. C'est la première fois, depuis le début de cette traque, qu'il rate quelque chose. »
+
+Farge, qui inspectait à son tour les rayonnages épargnés, hocha la tête sans quitter des yeux les dossiers alignés. « Un homme pressé, dit-elle. Ou un homme qui n'a jamais vraiment cru qu'on remonterait jusqu'ici. Les deux sont de bonnes nouvelles pour nous. »
+
+***
+
+Ce fut Chastagner, en fin d'après-midi, alors que l'équipe achevait le catalogage méthodique de la pièce sous l'œil vigilant de l'artificier — chaque tiroir désormais ouvert un à un, à distance, avec une prudence redoublée par ce que le placard venait de leur coûter — qui tomba sur le tiroir du bas, à gauche du bureau, celui-là même que personne n'avait songé piégé parce qu'il ne contenait, en apparence, qu'une chemise cartonnée banale parmi tant d'autres.
+
+Il ne l'était pas. Piégé, veut-on dire. Chastagner l'ouvrit sans incident, avec les gants réglementaires, et referma aussitôt la bouche sur ce qu'il venait d'y voir, avant d'appeler Clara d'une voix qu'elle ne lui connaissait pas.
+
+La chemise contenait des photographies. Une douzaine, prises au téléphone, à des distances variables, sans mise en scène apparente, avec la banalité inquiétante des clichés qu'on prend sans se cacher, parce qu'on sait qu'on ne sera jamais soupçonné de regarder. Clara devant le commissariat, un matin de pluie, un gobelet de café à la main. Clara sortant d'une boulangerie de son quartier lyonnais, un sac en papier sous le bras. Clara et Ferrière, de dos, traversant un parking. Une photographie plus ancienne, floue, prise depuis une fenêtre d'immeuble, de l'appartement parisien qu'elle partageait avec Samir.
+
+Sous les photographies, une feuille dactylographiée répertoriait, sans commentaire, sans jugement, avec la même froideur clinique que les dossiers d'affaires anciennes accrochés aux murs, des horaires : ses trajets habituels, ses jours de repos approximatifs, l'heure à laquelle elle sortait généralement courir, le nom du café où elle prenait parfois un déjeuner rapide avec Ferrière. Rien qui ressemblât à une menace formulée. Tout, pourtant, qui en portait le poids.
+
+Et au fond de la chemise, une enveloppe. Blanche, épaisse, cachetée à la cire — un geste presque anachronique, presque théâtral, qui n'étonna personne dans cette pièce tant il portait, à lui seul, toute la signature de l'homme qu'ils traquaient. Sur le rabat, une seule ligne, calligraphiée de la même main appliquée que le titre du classeur :
+
+*Pour Clara Vasseur. Elle seule.*
+
+Personne ne dit rien pendant un moment qui parut, à chacun, disproportionné par rapport à sa durée réelle.
+
+« Il savait, dit enfin Ferrière. Il savait qu'on remonterait jusqu'ici. Il l'a préparée à l'avance, cette enveloppe. Il vous attendait, vous, précisément, dans cette pièce. »
+
+Clara prit l'enveloppe entre ses mains gantées, la soupesa, sentit sous ses doigts l'épaisseur d'une ou deux feuilles pliées, peut-être davantage. Elle pouvait l'ouvrir là, devant l'équipe, sous la lumière blanche des velux, avec Farge et Ambrosini et Chastagner qui attendaient, sans un mot, le résultat de son geste.
+
+Elle ne le fit pas.
+
+« Pas ici, dit-elle en glissant l'enveloppe, avec un soin qui n'appartenait qu'à elle, dans une pochette scellée qu'elle referma elle-même. Pas maintenant. »
+
+Dehors, le soleil déclinait sur les crêtes du Haut-Bugey, dorant les toits de tuile du hameau des Fontanettes d'une lumière presque indifférente à ce que la maison, derrière ses volets rouverts pour la première fois depuis des années, venait de livrer. Dans la voiture qui la ramenait vers Lyon, l'enveloppe posée sur ses genoux comme un objet trop lourd pour son propre poids, Clara songea que Prieur, en la laissant là, n'avait pas seulement voulu qu'on la trouve.
+
+Il avait voulu qu'elle sache, avant même d'en lire un mot, qu'il avait pensé, depuis le début, à ce moment précis où elle la tiendrait entre ses mains.

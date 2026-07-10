@@ -5,7 +5,7 @@
 - Tomes 1 à 4 : mentionnés comme déjà écrits (non présents dans ce dépôt — à ajouter si les fichiers sources sont fournis).
 - Tome 5 — *La Treizième Passagère* : texte de référence intégral sauvegardé dans `reference/Tome_5_La_Treizieme_Passagere.txt` (≈47 200 mots, 24 chapitres) pour assurer la continuité narrative des tomes suivants.
 - Tome 6 — *Le Sixième Couvert* : **TERMINÉ ET FINALISÉ.** 24 chapitres, ≈ 73 000 mots, relu sur trois cycles. Noté 6,5/10 puis 7/10 par des agents indépendants successifs (jamais atteint le 9/10 visé — écart jugé structurel, voir détail plus bas) ; **finalisation validée explicitement par l'utilisateur à cette note**, sans exiger la réécriture structurelle qui aurait été nécessaire pour viser 9/10. Fichier source `Tome_6_Le_Sixieme_Couvert.md` ; export final `export/Tome_6_Le_Sixieme_Couvert.docx` (5,5×8,5", Times New Roman 12, interligne 1,15, titres centrés, alinéas), committé dans le dépôt et envoyé à l'utilisateur en pièce jointe.
-- **Tome 7 — *La Septième Chaise* : EN COURS.** 12 / 24 chapitres écrits (≈ 32 600 mots / 76 800 visés) lors de cette session. Ouvre directement sur la scène choc des toutes dernières lignes du tome 6 (nouvelle scène de crime à la villa Bellerive, lac du Bourget, près de Chambéry). Fichier source `Tome_7_La_Septieme_Chaise.md`. Reste à écrire : chapitres 13 à 24 lors d'une prochaine session, puis relecture ligne par ligne, notation indépendante ≥ 9/10, export Word. Voir section détaillée plus bas.
+- **Tome 7 — *La Septième Chaise* : EN COURS.** 17 / 24 chapitres écrits (≈ 45 900 mots / 76 800 visés) à ce stade. Ouvre directement sur la scène choc des toutes dernières lignes du tome 6 (nouvelle scène de crime à la villa Bellerive, lac du Bourget, près de Chambéry). Fichier source `Tome_7_La_Septieme_Chaise.md`. Reste à écrire : chapitres 18 à 24, puis relecture ligne par ligne, notation indépendante ≥ 9/10, export Word. Voir section détaillée plus bas.
 
 ## Tome 7 — La Septième Chaise
 
@@ -29,10 +29,24 @@ Objectif du tome : 24 chapitres, ~3 200 mots chacun, ~76 800 mots au total.
 | 10 | La chambre 214 | ~2 370 |
 | 11 | La chaise vide | ~2 290 |
 | 12 | La rue Sainte-Hélène | ~2 050 |
+| 13 | Ce que le dossier taisait | ~3 060 |
+| 14 | Ce que taisait Delcasse | ~3 130 |
+| 15 | L'Œil retourné | ~2 190 |
+| 16 | Le Relieur | ~3 100 |
+| 17 | Le deuxième cahier | ~3 480 |
 
-**Total à l'issue de cette session : ≈ 32 600 mots / 76 800 visés (12 / 24 chapitres).**
+**Total à ce stade : ≈ 45 900 mots / 76 800 visés (17 / 24 chapitres).**
 
 Remarque honnête : plusieurs chapitres de cette session (8 à 12) sont en dessous de la fourchette de tolérance ±300 mots visée par `CLAUDE.md` (2 900-3 500 mots), malgré une passe de relecture et d'allongement volontaire en fin de session. Le tome n'est pas terminé — cet écart pourra être résorbé, si nécessaire, lors de la relecture finale une fois les 24 chapitres écrits, en enrichissant les chapitres les plus courts plutôt qu'en les laissant sous-développés par rapport au reste du tome.
+
+Note de session (chapitre 17, « Le deuxième cahier ») : nouveaux éléments à réutiliser à l'identique dans les chapitres suivants.
+
+- **Vincent Aubanel** (identité factice de Prieur fabriquée par Castaing, ch. 16) domicilié fictivement au hameau des Fontanettes, Haut-Bugey (Ain) : maison isolée servant d'atelier secret, jamais un domicile habituel — volets fermés mais gouttières et boîte aux lettres entretenues, gravier ratissé récemment. Perquisition menée le lendemain du ch. 16 (jour 20 du tome), mandat obtenu en urgence auprès d'un magistrat de permanence.
+- **Atelier découvert à l'étage** : murs couverts de plans et croquis de mises en scène, maquettes réduites (bois balsa/carton) représentant Roquemarine et la villa Bellerive, datées de **plusieurs années avant** les meurtres — preuve matérielle de préméditation ancienne, à réutiliser comme pièce à conviction majeure. Dossiers de recherche sur des affaires criminelles anciennes non résolues à travers la France (Cantal 1987, Metz 1996, Morbihan) — fil à exploiter ou laisser en arrière-plan selon les besoins des chapitres suivants.
+- **Classeur relié à la main, titré « La grammaire du théâtre criminel — Cours avancé, deuxième cahier »**, saisi intact. Porte en première page une dédicace manuscrite d'une main différente de celle de la couverture : **« Pour N., qui a si vite dépassé le maître. — A.L. »** Indice délibérément non expliqué à ce stade — trace d'un maître/mentor derrière la méthode de Prieur, identité de « A.L. » à réserver pour la toute fin du tome (fil à ne pas résoudre prématurément dans les chapitres 18-23).
+- **Piège pyrotechnique** : un placard verrouillé, seul rangement fermé de la pièce, contenait un dispositif incendiaire artisanal (accélérant + amorce par frottement) qui s'est déclenché quand Lanvin, ayant crocheté la serrure malgré la consigne de Clara d'attendre l'artificier, l'a ouvert. **Lanvin brûlé au deuxième degré à l'avant-bras droit** (dix centimètres environ), évacué et stabilisé au centre hospitalier d'Oyonnax, hors de danger — premier blessé sérieux nommé de l'équipe dans ce tome, aucune mort parmi les personnages récurrents. Limite concrète de Prieur explicitement énoncée par Clara : le dispositif ne couvrait qu'un seul placard, pas la pièce entière — maquettes, murs et classeur ont été épargnés, preuve qu'« un homme qui contrôle vraiment tout ne laisse pas la moitié de son œuvre lisible derrière lui ».
+- **Dossier personnel sur Clara** retrouvé dans un tiroir non piégé du bureau : photographies récentes prises à son insu (commissariat, boulangerie, appartement parisien), relevé dactylographié de ses horaires et habitudes, et une **enveloppe cachetée à la cire** portant la mention « Pour Clara Vasseur. Elle seule. » Clara ne l'a **pas** ouverte devant l'équipe (scellée et emportée) — contenu à révéler dans un chapitre ultérieur, moment fort à ne pas gâcher par une résolution rapide.
+- **Chronologie** : ce chapitre se situe le vingtième jour du tome (lendemain du ch. 16, dix-neuf jours après le début).
 
 ### Personnages et éléments introduits (à réutiliser à l'identique dans les chapitres suivants)
 
