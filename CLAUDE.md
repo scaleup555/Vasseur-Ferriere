@@ -4,7 +4,7 @@ Ce dépôt contient la série de romans policiers en français mettant en scène
 
 ## Structure d'un tome
 
-- **À partir du tome 7 inclus** : chaque tome compte **12 chapitres** d'environ **3 200 mots** chacun (±300 mots tolérés selon les besoins narratifs d'une scène), pour un total visé d'environ **38 400 mots**. (Les tomes antérieurs, dont le tome 6, suivaient le format à 24 chapitres / ~76 800 mots — ne pas réharmoniser rétroactivement les tomes déjà finalisés.)
+- Chaque tome compte **24 chapitres** d'environ **3 200 mots** chacun (±300 mots tolérés selon les besoins narratifs d'une scène), pour un total visé d'environ **76 800 mots**. Ce format ne change pas d'un tome à l'autre.
 - Le fichier de suivi `PROGRESS.md` (racine du dépôt) doit toujours refléter l'état réel : tome en cours, chapitres écrits, mots cumulés, éléments de genre déjà posés, reste à faire.
 - Le texte intégral de chaque tome achevé est conservé dans `reference/Tome_N_<titre>.txt` (ou `.md`) pour que les sessions suivantes disposent du contexte complet sans dépendre d'un nouvel envoi de fichier par l'utilisateur.
 
@@ -28,7 +28,7 @@ Chaque chapitre doit faire progresser au moins un de ces éléments ; tous ne do
 
 ## Rythme d'écriture
 
-- Par défaut, écrire **4 chapitres (~12 800 mots)** par session de travail (pour un tome à 12 chapitres, cela représente 3 sessions par tome).
+- Par défaut, écrire **12 chapitres (~38 400 mots)** par session de travail sur Claude Routine (pour un tome à 24 chapitres, cela représente 2 sessions par tome). Ce rythme de 12 chapitres/session remplace l'ancien rythme de 4 chapitres/session utilisé jusqu'au tome 6 — la structure du tome elle-même (24 chapitres, ~76 800 mots) ne change pas.
 - Mettre à jour `PROGRESS.md` après chaque session.
 
 ## Relecture et validation finale (obligatoire avant de clore un tome)
@@ -44,7 +44,7 @@ Une fois les 24 chapitres d'un tome rédigés :
 
 ## Export final : format Word obligatoire
 
-Une fois un tome finalisé (24/24 ou 12/12 chapitres selon le format applicable, relu, et sa note indépendante acceptée — voir section précédente), le manuscrit doit **toujours** être généré en un fichier **.docx** avec la mise en forme suivante, non négociable :
+Une fois un tome finalisé (24/24 chapitres, relu, et sa note indépendante acceptée — voir section précédente), le manuscrit doit **toujours** être généré en un fichier **.docx** avec la mise en forme suivante, non négociable :
 
 - **Format de page** : 5,5 × 8,5 pouces (format poche standard).
 - **Police** : Times New Roman, taille 12.
