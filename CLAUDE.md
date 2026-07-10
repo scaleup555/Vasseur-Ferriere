@@ -2,6 +2,12 @@
 
 Ce dépôt contient la série de romans policiers en français mettant en scène la commissaire Clara Vasseur et le lieutenant Ferrière. Ces instructions s'appliquent à **toute session, présente ou future**, qui continue l'écriture de la série.
 
+## À lire en tout premier, avant d'écrire la moindre ligne
+
+**Avant de rédiger le chapitre 1 d'un nouveau tome, lire intégralement la section « Leçons apprises des agents indépendants » plus bas dans ce document.** Ce n'est pas une lecture facultative ni une simple relecture a posteriori : chaque leçon qui s'y trouve doit être appliquée **dès la première phrase écrite**, pas corrigée après coup lors de la relecture finale. L'objectif explicite de l'utilisateur est qu'un tome obtienne une note **≥ 9/10 dès le premier cycle de notation indépendante**, et non au terme de plusieurs allers-retours de correction. Si une leçon apprise contredit une habitude d'écriture spontanée, c'est la leçon apprise qui doit l'emporter.
+
+En particulier, et sans que cela dispense de lire la section complète : **l'ouverture du tome (chapitre 1) doit être totalement choquante pour le lecteur** — un effet de sidération réel dès les premières pages, pas une simple mise en place. Le tome 6 (six couverts dressés pour cinq morts et un carton nominatif macabre) est le niveau minimum à égaler ou dépasser, pas un plafond. Une ouverture qui se contente d'installer une ambiance ou une inquiétude diffuse, sans choc concret et visuel dès les premières pages, est un échec de cette exigence.
+
 ## Structure d'un tome
 
 - Chaque tome compte **24 chapitres** d'environ **3 200 mots** chacun (±300 mots tolérés selon les besoins narratifs d'une scène), pour un total visé d'environ **76 800 mots**. Ce format ne change pas d'un tome à l'autre.
@@ -16,7 +22,7 @@ Le tome suivant doit **toujours** ouvrir sur la scène choc constituée par les 
 
 Chaque tome, sur l'ensemble de ses 24 chapitres, doit inclure au minimum :
 
-- Une **ouverture choc** à fort effet de surprise (« wow factor »).
+- Une **ouverture choc** à fort effet de surprise (« wow factor ») — voir l'exigence détaillée en tout début de ce document ; ce n'est pas négociable ni à doser « avec parcimonie », c'est la toute première impression du lecteur et elle doit marquer durablement.
 - Plusieurs éléments désignant de **faux suspects** (fausses pistes).
 - **2 grands retournements de situation** (twists majeurs).
 - Des **mensonges** et des **enjeux élevés** tout au long de l'intrigue.
@@ -37,7 +43,7 @@ Une fois les 24 chapitres d'un tome rédigés :
 
 1. **Relecture ligne par ligne** par la session principale : corriger incohérences, anachronismes, fuites de spoiler, trous logiques, doublons de noms/détails.
 2. **Notation indépendante obligatoire** : la note finale sur 10 ne doit **jamais** être auto-attribuée par la session qui a écrit le livre. Elle doit être produite par un **agent indépendant** (outil `Agent`, lancé sans le biais de la session d'écriture — lui fournir uniquement le manuscrit compilé, sans le contexte de rédaction), chargé d'évaluer honnêtement le tome comme le ferait un jury de prix littéraire policier : qualité de l'intrigue, respect des exigences de genre ci-dessus, cohérence, qualité d'écriture, rythme, satisfaction du twist final.
-3. Si la note est **inférieure à 9/10** : identifier avec l'agent les faiblesses précises, corriger le manuscrit en conséquence, puis **relancer un nouvel agent indépendant** pour une nouvelle notation. Répéter jusqu'à l'obtention d'un 9/10 honnête (pas de complaisance, pas d'auto-évaluation qui contournerait cette étape). Si l'écart avec 9/10 s'avère structurel (répété sur plusieurs cycles de notation sans s'améliorer malgré des corrections réelles) plutôt que cosmétique, documenter honnêtement ce diagnostic dans `PROGRESS.md` (voir aussi la section « Leçons apprises » ci-dessous) et solliciter une décision explicite de l'utilisateur avant d'engager une réécriture structurelle lourde — ne jamais baisser silencieusement le seuil ou se contenter d'une note insuffisante sans validation de l'utilisateur.
+3. Si la note est **inférieure à 9/10** : identifier avec l'agent les faiblesses précises, corriger le manuscrit en conséquence, puis **relancer un nouvel agent indépendant** pour une nouvelle notation. Répéter jusqu'à l'obtention d'un 9/10 honnête (pas de complaisance, pas d'auto-évaluation qui contournerait cette étape). **Le but est que ce cycle de correction n'ait normalement pas lieu d'être** : si la section « Leçons apprises » a bien été appliquée dès la rédaction du chapitre 1, la première notation indépendante devrait déjà atteindre ou approcher 9/10. Une note nettement inférieure dès le premier cycle est le signe que les leçons apprises n'ont pas été correctement suivies pendant l'écriture, pas seulement un aléa à corriger après coup. Si l'écart avec 9/10 s'avère structurel (répété sur plusieurs cycles de notation sans s'améliorer malgré des corrections réelles) plutôt que cosmétique, documenter honnêtement ce diagnostic dans `PROGRESS.md` (voir aussi la section « Leçons apprises » ci-dessous) et solliciter une décision explicite de l'utilisateur avant d'engager une réécriture structurelle lourde — ne jamais baisser silencieusement le seuil ou se contenter d'une note insuffisante sans validation de l'utilisateur.
 4. Une fois la note ≥ 9/10 obtenue **ou l'utilisateur ayant explicitement validé la finalisation du tome à une note inférieure** : le tome est considéré terminé. On peut alors :
    - passer à l'écriture du tome suivant, avec la **même méthodologie** (continuité sur le cliffhanger, exigences de genre, relecture + notation indépendante) — en appliquant, dès la rédaction, les leçons de la section « Leçons apprises » ci-dessous ;
    - préparer l'export final du manuscrit (voir section suivante).
@@ -60,9 +66,9 @@ L'utilisateur demande un enregistrement du document Word final sur son poste Win
 
 à charge pour l'utilisateur de l'enregistrer lui-même à l'emplacement souhaité.
 
-## Leçons apprises des agents indépendants (à consulter avant d'écrire, à enrichir après chaque notation)
+## Leçons apprises des agents indépendants (lecture obligatoire avant d'écrire ; à enrichir après chaque notation)
 
-Cette section vit et s'enrichit d'un tome à l'autre : après chaque cycle de notation indépendante, ajouter ici les critiques structurelles récurrentes pour que les tomes suivants ne répètent pas les mêmes erreurs **dès la première rédaction**, plutôt que de les corriger après coup en relecture. Ne jamais supprimer une leçon acquise ; les compléter au fil des tomes.
+Cette section vit et s'enrichit d'un tome à l'autre : après chaque cycle de notation indépendante, ajouter ici les critiques structurelles récurrentes pour que les tomes suivants ne répètent pas les mêmes erreurs **dès la première rédaction**, plutôt que de les corriger après coup en relecture. Ne jamais supprimer une leçon acquise ; les compléter au fil des tomes. Cette liste n'est pas une lecture d'ambiance : chaque point doit se traduire en une décision concrète prise avant ou pendant l'écriture du chapitre 1 (répartition prévue des twists, moment prévu d'apparition de l'antagoniste, limites prévues des capacités de l'organisation adverse, etc.), pas en une case à cocher en fin de tome.
 
 **Leçons issues du tome 6** (noté 6,5/10 puis 7/10 par trois agents indépendants successifs — jamais atteint 9/10, faute de temps/budget pour une réécriture structurelle complète, tome néanmoins finalisé sur décision explicite de l'utilisateur) :
 
