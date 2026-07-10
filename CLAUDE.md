@@ -63,6 +63,15 @@ Chaque chapitre doit faire progresser au moins un de ces éléments ; tous ne do
 - Par défaut, écrire **12 chapitres (~38 400 mots)** par session de travail sur Claude Routine (pour un tome à 24 chapitres, cela représente 2 sessions par tome). Ce rythme de 12 chapitres/session remplace l'ancien rythme de 4 chapitres/session utilisé jusqu'au tome 6 — la structure du tome elle-même (24 chapitres, ~76 800 mots) ne change pas.
 - Mettre à jour `PROGRESS.md` après chaque session.
 
+## Contrôle indépendant intermédiaire, tous les 12 chapitres (obligatoire, distinct de la validation finale)
+
+En plus de la notation indépendante finale décrite ci-dessous (qui n'intervient qu'une fois les 24 chapitres d'un tome achevés), **un contrôle indépendant léger doit être effectué tous les 12 chapitres** — c'est-à-dire à l'issue de chaque session d'écriture au rythme normal (12 chapitres/session), et à chaque nouveau palier de 12 chapitres pour les tomes suivants (ch. 12, ch. 24, ch. 36, etc. si jamais un tome venait à dépasser 24 chapitres). Objectif : détecter tôt les incohérences (comme une erreur de chronologie interne — âge, ancienneté, date — contredisant un tome précédent) plutôt que de les laisser s'accumuler jusqu'à la relecture finale.
+
+1. Lancer un **agent indépendant** (outil `Agent`), sans le biais de la session d'écriture, en lui fournissant les chapitres concernés (le dernier bloc de 12, ou l'ensemble du tome à ce stade si plus pertinent) ainsi que le contexte minimal nécessaire à la vérification de cohérence (tomes précédents, `PROGRESS.md`).
+2. Lui demander explicitement de noter le bloc **et** de vérifier spécifiquement : la cohérence chronologique interne et inter-tomes (âges, dates, ancienneté des personnages récurrents tels que Clara, Ferrière, etc.), les collisions de noms, les doublons de paragraphes, le respect des exigences de genre déjà posées à ce stade, et le respect des leçons apprises de `CLAUDE.md`.
+3. Corriger les faiblesses et incohérences identifiées avant de poursuivre l'écriture des chapitres suivants — ne pas attendre la fin du tome pour corriger une erreur de continuité détectée à ce stade.
+4. Consigner brièvement, dans `PROGRESS.md`, le résultat de ce contrôle intermédiaire (note obtenue, corrections apportées) — sans que cela remplace la notation indépendante finale obligatoire à 24/24 chapitres, qui reste, elle, la validation qui conditionne la clôture du tome.
+
 ## Relecture et validation finale (obligatoire avant de clore un tome)
 
 Une fois les 24 chapitres d'un tome rédigés :
