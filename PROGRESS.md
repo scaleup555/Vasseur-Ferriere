@@ -5,7 +5,70 @@
 - Tomes 1 à 4 : mentionnés comme déjà écrits (non présents dans ce dépôt — à ajouter si les fichiers sources sont fournis).
 - Tome 5 — *La Treizième Passagère* : texte de référence intégral sauvegardé dans `reference/Tome_5_La_Treizieme_Passagere.txt` (≈47 200 mots, 24 chapitres) pour assurer la continuité narrative des tomes suivants.
 - Tome 6 — *Le Sixième Couvert* : **TERMINÉ ET FINALISÉ.** 24 chapitres, ≈ 73 000 mots, relu sur trois cycles. Noté 6,5/10 puis 7/10 par des agents indépendants successifs (jamais atteint le 9/10 visé — écart jugé structurel, voir détail plus bas) ; **finalisation validée explicitement par l'utilisateur à cette note**, sans exiger la réécriture structurelle qui aurait été nécessaire pour viser 9/10. Fichier source `Tome_6_Le_Sixieme_Couvert.md` ; export final `export/Tome_6_Le_Sixieme_Couvert.docx` (5,5×8,5", Times New Roman 12, interligne 1,15, titres centrés, alinéas), committé dans le dépôt et envoyé à l'utilisateur en pièce jointe.
-- **Tome 7** : à démarrer lors d'une prochaine session. Doit ouvrir directement sur la scène choc des toutes dernières lignes du tome 6 (nouvelle scène de crime au lac du Bourget, près de Chambéry — cinq corps autour d'une table dressée à l'identique de Roquemarine, carton nominatif portant cette fois le nom de Clara Vasseur elle-même) sans jamais résoudre ce cliffhanger dans un prologue. **Format inchangé : 24 chapitres, ~76 800 mots** — seul le rythme d'écriture par session change (voir `CLAUDE.md` : 12 chapitres/session sur Claude Routine au lieu de 4, soit 2 sessions pour couvrir tout le tome au lieu de 6). Avant d'écrire, consulter et appliquer dès le premier jet la section « Leçons apprises des agents indépendants » de `CLAUDE.md` (éviter la répétition du ressort indice-leurre, faire apparaître l'antagoniste principal dès le premier tiers du tome, doser l'omnipotence de l'organisation adverse, varier l'écriture des scènes de tension dès la rédaction).
+- **Tome 7 — *La Septième Chaise* : EN COURS.** 12 / 24 chapitres écrits (≈ 32 600 mots / 76 800 visés) lors de cette session. Ouvre directement sur la scène choc des toutes dernières lignes du tome 6 (nouvelle scène de crime à la villa Bellerive, lac du Bourget, près de Chambéry). Fichier source `Tome_7_La_Septieme_Chaise.md`. Reste à écrire : chapitres 13 à 24 lors d'une prochaine session, puis relecture ligne par ligne, notation indépendante ≥ 9/10, export Word. Voir section détaillée plus bas.
+
+## Tome 7 — La Septième Chaise
+
+Scène choc d'ouverture directement enchaînée sur les toutes dernières lignes du tome 6 : découverte, à la villa Bellerive au bord du lac du Bourget, de cinq corps autour d'une table dressée à l'identique de Roquemarine — avec, en plus du sixième couvert vide portant le nom de Clara Vasseur, une **septième place** à l'écart, un fauteuil ancien occupé par un mannequin habillé d'une réplique exacte d'un vêtement de Clara, tenant sur les genoux un cavalier d'échecs ancien.
+
+Objectif du tome : 24 chapitres, ~3 200 mots chacun, ~76 800 mots au total.
+
+### Chapitres écrits (session 1 — 12/24)
+
+| Chapitre | Titre | Mots (approx.) |
+|---|---|---|
+| 1 | La septième chaise | ~3 360 |
+| 2 | Ce que la presse ne savait pas encore | ~2 960 |
+| 3 | Le brigadier Lanvin | ~3 000 |
+| 4 | Le grammairien du théâtre criminel | ~2 830 |
+| 5 | L'atelier d'Annecy | ~2 970 |
+| 6 | La couturière de Bourg-en-Bresse | ~3 020 |
+| 7 | Ce que le lac a rendu | ~2 930 |
+| 8 | Ce qui frappait à la fenêtre | ~2 460 |
+| 9 | Le contrat de 2009 | ~2 300 |
+| 10 | La chambre 214 | ~2 370 |
+| 11 | La chaise vide | ~2 290 |
+| 12 | La rue Sainte-Hélène | ~2 050 |
+
+**Total à l'issue de cette session : ≈ 32 600 mots / 76 800 visés (12 / 24 chapitres).**
+
+Remarque honnête : plusieurs chapitres de cette session (8 à 12) sont en dessous de la fourchette de tolérance ±300 mots visée par `CLAUDE.md` (2 900-3 500 mots), malgré une passe de relecture et d'allongement volontaire en fin de session. Le tome n'est pas terminé — cet écart pourra être résorbé, si nécessaire, lors de la relecture finale une fois les 24 chapitres écrits, en enrichissant les chapitres les plus courts plutôt qu'en les laissant sous-développés par rapport au reste du tome.
+
+### Personnages et éléments introduits (à réutiliser à l'identique dans les chapitres suivants)
+
+- **Capitaine Lucie Farge**, groupement de gendarmerie de Savoie, cheffe d'enquête locale à Chambéry. Ancienne relation sentimentale avec Cédric Nogaret, géomètre (ch. 3).
+- **Brigadier Théo Lanvin**, chargé de la protection rapprochée de Clara, nom de code « Corneille » convenu ch. 3. Personnage comique par excès de zèle protocolaire au départ, gagnant en gravité et en compétence réelle au fil des chapitres (archives ch. 3, fléchette ch. 8) — conformément à la leçon du tome 6 sur les personnages comiques à ne pas réduire à un seul ressort.
+- **Famille Vidalenc**, victimes de la villa Bellerive : Henri (68 ans, industriel retraité), Corinne (64 ans, son épouse, liaison secrète avec Bruno Cattelan), Mathieu (37 ans, fils, faux suspect innocenté — endettement personnel, pas complicité), Anouk (34 ans, fille), et Simon Delacroix (53 ans, associé et ami de Henri). Tous morts par empoisonnement à l'aconitine, identique à Roquemarine.
+- **Louise Fantin**, gouvernante noyée dans le lac en 1994 à 19 ans, mort classée accidentelle à tort — affaire enfouie, cœur thématique du tome (mémoire, silence acheté, justice tardive).
+- **Odette Mercier**, ancienne femme de chambre, témoin oculaire de 1994 (a vu Édouard Vidalenc, le père de Henri, courir vers les communs la nuit de la noyade), a tu ce témoignage pendant 31 ans par peur.
+- **Adjudant honoraire Roger Peyssac**, a signé le rapport de clôture de 1994 en échange d'une promotion accélérée — corruption ancienne, non responsable du massacre actuel.
+- **Bruno Cattelan**, promoteur immobilier, faux suspect (motif financier + liaison avec Corinne Vidalenc), alibi solide.
+- **Antoine Reversat**, 49 ans, fils illégitime non reconnu d'Édouard Vidalenc (demi-frère de Henri), restaurateur de meubles anciens, a restauré à son insu le fauteuil de l'alcôve pour un « client masqué » — faux suspect avec mobile réel mais non coupable des meurtres ; sa mère, Marguerite Reversat, a aussi un lien immobilier ancien avec le Cabinet Argonaute Conseil de Prieur (ch. 9).
+- **Élodie Charvet**, couturière de Bourg-en-Bresse, a confectionné à l'insu la réplique de la veste de Clara pour le même client masqué.
+- **Gérard Fontclair**, gardien-jardinier de la villa Bellerive depuis 20 ans, a rencontré un « photographe » deux mois avant le massacre (carte de visite « Éditions Argonaute »), tué et mis en scène dans le lac au ch. 7 en écho à la mort de Louise Fantin.
+- **Maître Solange Vergnes** (avocate de Vallier, tome 6), venue négocier discrètement le rachat des parts de la Foncière du Bourget au nom d'Alderney Participations (Luxembourg), refusé par Henri Vidalenc — mobile financier lié au réseau Kratos/Ardennes Financial Trust, distinct de la logique personnelle du tome.
+- **Docteur Nathanaël Prieur**, psychologue criminel, auteur de *La grammaire du théâtre criminel*, consultant appelé sur l'enquête dès le ch. 4 (apparition en personne et en dialogue **dès le premier tiers du tome**, conformément à la leçon du tome 6). Antagoniste principal identifié via plusieurs fils convergents : achat d'un jeu d'échecs du même atelier lyonnais que le cavalier retrouvé ch. 1 (vingt-deux ans plus tôt) ; carte de visite « Éditions Argonaute » retrouvée chez Fontclair ; contrat de consultant de 2009 entre son « Cabinet Argonaute Conseil » et Kratos Protection International pour des prestations de « scénographie comportementale » (ch. 9) ; carnets de croquis macabres antérieurs de plusieurs années à Roquemarine, retrouvés lors d'une perquisition de sa chambre d'hôtel (ch. 10), incluant un portrait esquissé de Clara elle-même ; **aucune existence administrative documentée avant 1999** (ch. 12) ; et surtout, un article académique de 1999 démontrant un accès non autorisé au dossier confidentiel de la toute première enquête de Clara (l'affaire Aurélie Chambon, rue Sainte-Hélène à Lyon, 1998), révélant qu'il l'observe depuis vingt-sept ans. A disparu de Chambéry au ch. 11 après avoir laissé un colis contenant une reine d'échecs et un message suggérant qu'il « ne joue pas seul ».
+
+### Éléments de genre déjà en place (tome 7, ch. 1-12)
+
+- **Ouverture choc** dépassant Roquemarine : cinq morts identiques à Roquemarine, plus une **septième place** à l'écart contenant un mannequin habillé d'une réplique exacte d'un vêtement de Clara (jusqu'à l'usure d'un bouton manquant), assis dans un fauteuil tourné vers le lac, tenant un cavalier d'échecs ancien sur les genoux (ch. 1).
+- **Faux suspects** : Bruno Cattelan (ch. 2), Roger Peyssac (corruption ancienne, pas meurtre, ch. 2), Antoine Reversat (mobile réel, non coupable, ch. 4-5), Mathieu Vidalenc (empressement suspect expliqué par un endettement personnel, ch. 3 puis ch. 10).
+- **Scènes d'action/macabres** (au moins 4, comme exigé) : découverte de la scène de la villa Bellerive (ch. 1) ; incendie et fuite lors de l'arrestation de Reversat à l'atelier d'Annecy (ch. 5) ; effraction et incendie partiel des archives municipales d'Aix-les-Bains (ch. 3) ; corps de Fontclair mis en scène dans le lac (ch. 7) ; fléchette de sarbacane tirée sur la fenêtre de l'appartement protégé de Clara (ch. 8) ; course-poursuite avec un agent de Kratos venu surveiller Prieur (ch. 10).
+- **Scènes embarrassantes/drôles**, réparties entre plusieurs personnages (Lanvin, Ambrosini, Farge, le procureur, Samir, Nicolas, Sabatier) conformément à la leçon du tome 6 : gaffe du procureur en conférence de presse (ch. 2) ; nom de code « Corneille » de Lanvin (ch. 3) ; chapeau de cow-boy d'Ambrosini en visioconférence (ch. 3) ; interrogatoire embarrassant de Farge face à son ex, Nogaret (ch. 3) ; dégustation des tartes de Nicolas par Lanvin (ch. 4) ; interrogatoire protocolaire de Samir par Lanvin à son arrivée (ch. 8) ; dîner avec Nicolas et ses tartes (ch. 8) ; arrestation par méprise d'un assureur innocent par le gendarme Sabatier (ch. 10).
+- **Premier grand twist du tome (ch. 9-10)** : la mise en scène théâtrale de Roquemarine n'est pas née spontanément de Vallier — un contrat de 2009 entre Kratos Protection International et le « Cabinet Argonaute Conseil » de Nathanaël Prieur révèle que ce dernier a été engagé, seize ans plus tôt, pour concevoir la grammaire visuelle des opérations de « communication de crise » de l'organisation. Une fois Vallier arrêté (tome 6), Prieur a semble-t-il choisi de continuer, à titre personnel, l'œuvre qu'il considère comme la sienne.
+- **Fil ouvert majeur pour la suite (ch. 12, cliffhanger de session)** : un article académique de 1999 signé Prieur analyse en détail l'affaire Aurélie Chambon (Lyon, 1998), la toute première enquête de Clara comme jeune inspectrice stagiaire — avec des détails de scène de crime jamais rendus publics. Prieur n'a aucune existence administrative documentée avant 1999. Cela signifie qu'il observe, ou a même côtoyé, Clara depuis 27 ans, bien avant Roquemarine, Vallier ou Kratos. **Ce fil (identité réelle de Prieur avant 1999, lien exact avec l'affaire Chambon) doit être développé dès le chapitre 13**, sans être résolu prématurément — il constitue l'amorce du second grand twist majeur du tome, à poser dans les chapitres 13-24.
+- **Mensonges et enjeux** : liaison Cattelan/Corinne Vidalenc dissimulée par chantage silencieux (ch. 2) ; silence acheté de Peyssac en 1994 (ch. 2) ; Reversat et Charvet manipulés à leur insu par un client masqué (ch. 4-6) ; menace personnelle directe contre Clara (mannequin ch. 1, fléchette ch. 8, colis avec la reine d'échecs ch. 11) ; rivalité entre Prieur et les restes du réseau Kratos, qui le surveille lui aussi (ch. 10).
+- **Digression réflexive hugolienne** (une par tome, à un moment pivot) : méditation de Clara sur la justice, la mémoire et le silence acheté, en clôture du ch. 8, après la découverte de la fléchette.
+- **Chronologie interne** : le tome 7 s'ouvre trois semaines après la fin du tome 6 (cf. dernière ligne du ch. 24 du tome 6). Les événements des chapitres 1 à 12 se déroulent sur une période d'environ deux semaines. Toute session future doit poursuivre ce compte à partir de ce repère plutôt que de le réinventer.
+
+### Reste à faire (tome 7)
+
+- Écrire les chapitres 13 à 24 (~12 chapitres, viser ~38 400 mots, en comblant si possible l'écart de longueur observé sur les chapitres 8-12 de cette session).
+- Développer le second grand twist majeur du tome autour de l'identité réelle de Prieur avant 1999 et de son lien avec l'affaire Aurélie Chambon (1998) — à situer plutôt en deuxième moitié du tome, sans le confondre avec le premier grand twist déjà posé (ch. 9-10, le contrat Kratos/Argonaute).
+- Localiser et confronter Prieur, actuellement en fuite (disparu ch. 11).
+- Résoudre les fils ouverts : mobile financier Alderney Participations/Kratos (a-t-il un lien direct avec Prieur ou s'agit-il de deux logiques distinctes qui ont convergé par hasard sur la famille Vidalenc, comme envisagé ch. 7 ?) ; identité et sort de l'agent genevois aperçu ch. 10 ; protection de Renaud Castellan et Élise Cordier (tome 6, toujours sous protection).
+- Une fois les 24 chapitres écrits : relecture ligne par ligne, notation indépendante ≥ 9/10 (agent indépendant, sans le contexte de rédaction), export Word final (5,5×8,5", Times New Roman 12, interligne 1,15, titres centrés, alinéas) dans `export/Tome_7_La_Septieme_Chaise.docx`.
+- Fin de tome : annonce choc amorçant le tome 8, conformément à la méthodologie.
 
 ## Tome 6 — Le Sixième Couvert
 
