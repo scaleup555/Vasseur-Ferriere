@@ -4,13 +4,13 @@
 
 - Tomes 1 à 4 : mentionnés comme déjà écrits (non présents dans ce dépôt — à ajouter si les fichiers sources sont fournis).
 - Tome 5 — *La Treizième Passagère* : texte de référence intégral sauvegardé dans `reference/Tome_5_La_Treizieme_Passagere.txt` (≈47 200 mots, 24 chapitres) pour assurer la continuité narrative des tomes suivants.
-- Tome 6 — *Le Sixième Couvert* : **en cours d'écriture**, fichier `Tome_6_Le_Sixieme_Couvert.md`.
+- Tome 6 — *Le Sixième Couvert* : **24 chapitres rédigés, ~73 400 mots — rédaction terminée.** En attente de la notation indépendante (≥ 9/10) prévue par `CLAUDE.md` avant validation finale et démarrage du tome 7. Fichier `Tome_6_Le_Sixieme_Couvert.md`.
 
 ## Tome 6 — Le Sixième Couvert
 
 Scène choc d'ouverture directement enchaînée sur les toutes dernières lignes du tome 5 (appel de Ferrière à Clara au sujet d'une scène de crime dans le Var).
 
-Objectif de la série éditoriale pour ce tome : 24 chapitres, ~3 200 mots chacun, ~76 800 mots au total.
+Objectif de la série éditoriale pour ce tome : 24 chapitres, ~3 200 mots chacun, ~76 800 mots au total. **Atteint : 24/24 chapitres, ~73 400 mots** (écart total d'environ 4 % sous la cible, cohérent avec la tolérance de ±300 mots/chapitre déjà pratiquée tout au long du tome).
 
 ### Chapitres écrits
 
@@ -37,7 +37,12 @@ Objectif de la série éditoriale pour ce tome : 24 chapitres, ~3 200 mots chacu
 | 19 | Ce que Grimaldi portait seul depuis vingt-deux ans | ~2 940 |
 | 20 | Le visage du jardin | ~2 915 |
 
-**Total actuel : ≈ 60 900 mots / 76 800 (20 / 24 chapitres).**
+| 21 | La lettre que Fabrègue n'osait pas écrire | ~3 210 |
+| 22 | Ce que la fenêtre avait vu | ~3 120 |
+| 23 | L'aérodrome de Sainte-Combe | ~3 030 |
+| 24 | Ce que le jardinier avait enterré | ~3 120 |
+
+**Total final : ≈ 73 400 mots / 76 800 visés (24 / 24 chapitres). Tome rédigé dans son intégralité.**
 
 Remarque honnête : les chapitres visent ~3 200 mots mais varient de ±300 mots selon les besoins narratifs de chaque scène — un compte mot-à-mot exact briserait le rythme des scènes. Écart total acceptable à ce stade.
 
@@ -68,19 +73,19 @@ Note de session (chapitres 17-20) : **second grand twist officiel du tome posé 
 - Mensonge / enjeu (ch. 17-20) : lettre testamentaire de Fabrègue révélant le mécanisme des virements « AX-4 » via Ardennes Financial Trust (ch. 17) ; simulation par Fabrègue lui-même de sa propre disparition pour se mettre à l'abri (ch. 20) ; confession de Grimaldi sur l'accident de 2004 et le chantage subi depuis 2011 (ch. 19) ; identification d'Hugues Vallier comme bénéficiaire final de la fiducie luxembourgeoise, en pleine soirée de gala médiatisée organisée onze mois plus tôt — soit à la date du massacre de Roquemarine (ch. 20).
 - **Second grand twist majeur (chapitres 18-19)** : le piège à quatre couleurs désigne la version d'information confiée uniquement à Grimaldi. Ce n'est cependant pas une trahison délibérée : Grimaldi confesse être la cible d'un chantage vieux de quinze ans (depuis 2011), lié à l'accident mortel provoqué par son fils Thibault en 2004 et à son propre classement du dossier Vernasque en 2004. La fuite technique du mas de Salernes provient d'un carnet personnel photographié par un employé infiltré dans un restaurant où il dîne régulièrement — pas d'une trahison active. Ce rebondissement culmine, en fin de ch. 20, par l'identification d'Hugues Vallier (groupe Vallier) comme bénéficiaire final de toute l'organisation du « Jardinier ».
 
+- Suspense / action (ch. 21-24) : ambush déjouée devant la Banque Palézieux d'Avignon lors de la récupération du coffre de Fabrègue, un assaillant blessé et capturé (ch. 21) ; attentat à la voiture piégée contre Castellan à la sortie du palais de justice de Toulon, déjoué de justesse par Ferrière (ch. 22) ; assaut armé à l'aérodrome privé de Sainte-Combe lors de la tentative de fuite de Vallier en jet privé — le gendarme Bastien Ricci grièvement blessé en se jetant devant Grimaldi, un assaillant tué, Vallier arrêté (ch. 23) ; découverte macabre de la pièce secrète de trophées de la résidence de Vallier (ch. 24).
+- Moments embarrassants / drôles (ch. 21-24) : Ambrosini empêchant in extremis un attaché de presse de prononcer le nom de Vallier en pleine conférence (ch. 21) ; annonce gênée de Chastagner à propos de sa relation avec Élise, ingénieure au laboratoire de Marseille (ch. 22) ; gilet pare-balles une fois de plus trop petit pour Ambrosini à Sainte-Combe (ch. 23) ; « conférence de presse » improvisée de la nièce Chloé dans la cour de récréation, récupérée par la maîtresse et les parents d'élèves (ch. 24).
+- Mensonge / enjeu (ch. 21-24) : lettre manuscrite signée et enregistrement audio de 2015 remis par Fabrègue, preuve matérielle directe impliquant Vallier (ch. 21) ; témoignage de Nadège Isnard (née Pelloux), femme intimidée par Grimaldi en 2004, retrouvée à Six-Fours-les-Plages, confirmant la présence d'un second homme non identifié à l'époque (ch. 22) ; coopération de Marguerite Vallier (personnage du tome 5), qui révèle l'expression familiale « s'occuper du jardin » employée par leur père Robert Vallier dès les années 1970 (ch. 22) ; réquisitoire et mandat d'amener délivrés par la magistrate Sabine Orsini (ch. 22-23) ; menace proférée par Vallier en garde à vue (« vous avez arrêté un jardinier, il en reste d'autres ») (ch. 23) ; pièce secrète de la résidence d'Aix, cinquante ans d'objets macabres et correspondance père-fils confirmant une transmission générationnelle organisée du « Jardinier » (ch. 24).
+- **Dénouement final (ch. 23-24, sans valeur de troisième twist officiel)** : arrestation réussie mais coûteuse de Hugues Vallier à l'aérodrome de Sainte-Combe ; démission volontaire de Grimaldi de ses fonctions de procureur, qui choisit d'assumer les conséquences pénales et disciplinaires des faits de 2004/2013 plutôt que de conserver le poste que le procureur général lui proposait de garder.
+- **Annonce choc de fin de tome (ch. 24)**, amorçant le tome 7 : un voilier est retrouvé à la dérive au large de Bonifacio (Corse), neuf personnes attendues à bord pour une croisière privée, une seule retrouvée vivante, les huit autres disparues sans trace. Un portail stylisé est peint sur la coque sous la ligne de flottaison, accompagné de l'inscription « Le jardin a plusieurs portes », dans une écriture identique à celle des fiches manuscrites retrouvées dans la pièce secrète de Vallier. **Le tome 7 doit ouvrir directement sur cette scène (l'appel reçu par Ferrière à la préfecture maritime de Corse, dernières lignes du ch. 24), sans jamais la résoudre en prologue — conformément à la méthodologie de `CLAUDE.md`.**
+
 ### Reste à faire
 
-- Chapitres 21 à 24 (4 chapitres, ~15 900 mots) — se concentrer sur la confrontation avec Hugues Vallier (ou sa tentative d'y échapper), la sécurisation des preuves et témoignages nécessaires (Fabrègue, Castellan, la fille de Fabrègue, la femme intimidée en 2004 par Grimaldi — encore à localiser et protéger), le sort judiciaire de Grimaldi, et l'annonce choc de fin de tome amorçant le tome 7.
-- Ne plus introduire de nouveau grand twist officiel : les deux exigés par la méthodologie sont posés (ch. 8 et ch. 18-19). Les chapitres 21-24 peuvent en revanche contenir un choc final de dénouement (ex. : fuite, arrestation manquée ou réussie de Vallier, sacrifice d'un personnage) sans que cela ne compte comme un troisième twist obligatoire.
-- Localiser et protéger la femme intimidée par Grimaldi en 2004 (fil ouvert ch. 19, demande explicite du fils Thibault).
-- Sécuriser le témoignage de Renaud Castellan contre Vallier (il a vu son visage lors d'une réunion en 2004, ch. 20, mais craint pour sa vie et celle de sa famille).
-- Obtenir le témoignage complet de Fabrègue, retrouvé vivant dans le Lubéron (ch. 20), y compris ce qu'il n'a « jamais osé écrire, même dans cette lettre ».
-- Construire le lien matériel et incontestable entre Hugues Vallier et un acte criminel précis, condition posée par Grimaldi lui-même (ch. 20) pour qu'une arrestation ne se solde pas par un non-lieu retentissant.
-- Poursuivre l'équilibre humour/embarras déjà relancé aux chapitres 5-20 ; continuer à répartir régulièrement scènes comiques et scènes gênantes sur le reste du tome (voir méthodologie dans `CLAUDE.md`).
-- Relecture ligne par ligne complète une fois les 24 chapitres écrits : cohérence, anachronismes, fuites de spoiler, trous logiques.
-- Annonce choc de fin de tome, amorçant le tome 7.
-- **Validation finale par agent indépendant** (voir `CLAUDE.md`) : une fois le tome complet et relu, faire noter le manuscrit compilé par un agent lancé sans le contexte de rédaction. Ne jamais s'auto-attribuer la note. Objectif ≥ 9/10 avant de considérer le tome terminé et de démarrer le tome 7. Non applicable tant que le tome n'est pas terminé.
-- Export Word final : **non réalisable depuis cet environnement** — cette session tourne dans un conteneur cloud isolé sans accès au système de fichiers Windows local de l'utilisateur (`C:\Users\mchfalmi\...`). Le manuscrit sera fourni via le dépôt GitHub et/ou envoyé directement en pièce jointe le moment venu ; l'utilisateur devra l'enregistrer lui-même à l'emplacement souhaité sur sa machine.
+- ~~Chapitres 21 à 24~~ **Fait.** Le tome est désormais complet : 24/24 chapitres, ~73 400 mots.
+- ~~Relecture ligne par ligne~~ **Fait pour cette session** : vérification de cohérence chronologique (2004 → 2026, vingt-deux ans conformément à la confession de Grimaldi ch. 19), de la terminologie judiciaire (mandat d'amener délivré par la magistrate saisie du dossier, détention provisoire prononcée par le juge des libertés et de la détention), correction d'une fuite méta accidentelle au ch. 21 et d'une incohérence de titre (« l'ancien procureur ») au ch. 24. Aucune autre incohérence, anachronisme ou trou logique identifié entre les chapitres 21-24 et les chapitres 1-20 ni avec le tome 5.
+- **Validation finale par agent indépendant (obligatoire avant de clore le tome)** : voir `CLAUDE.md`. À faire immédiatement après cette mise à jour, avant tout export ou communication du tome comme « terminé ». Objectif ≥ 9/10 honnête ; si la note est inférieure, corriger puis renotarer jusqu'à l'obtenir.
+- Une fois la note ≥ 9/10 obtenue : le tome 6 sera considéré validé, et une session future pourra démarrer le tome 7 sur la scène du voilier de Bonifacio.
+- Export Word final : **non réalisable depuis cet environnement** — cette session tourne dans un conteneur cloud isolé sans accès au système de fichiers Windows local de l'utilisateur (`C:\Users\mchfalmi\...`). Le manuscrit est disponible dans ce dépôt (`Tome_6_Le_Sixieme_Couvert.md`) et peut être envoyé directement en pièce jointe ; l'utilisateur devra l'enregistrer lui-même à l'emplacement souhaité sur sa machine.
 
 ## Méthodologie (résumé)
 
