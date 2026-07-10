@@ -38,7 +38,12 @@ Remarque honnête : les chapitres visent ~3 200 mots mais varient de ±300 mots 
 
 - Chapitres 5 à 24 (20 chapitres, ~64 000 mots).
 - 2 twists majeurs à construire pleinement (le premier est amorcé fin chapitre 4).
+- **Scènes franchement drôles à intégrer dès les prochains chapitres** : les chapitres 1-4 posent surtout des moments *embarrassants* (lapsus, maladresses) mais pas encore de véritables scènes comiques pensées pour faire rire le lecteur — quiproquos, répliques, complicité savoureuse entre Clara et Ferrière, etc. À corriger dès le chapitre 5 et à répartir régulièrement sur le reste du tome (voir méthodologie dans `CLAUDE.md`).
 - Relecture ligne par ligne complète une fois les 24 chapitres écrits : cohérence, anachronismes, fuites de spoiler, trous logiques.
 - Annonce choc de fin de tome, amorçant le tome 7.
-- Notation honnête sur 10 avant finalisation (objectif ≥ 9/10) — non applicable tant que le tome n'est pas terminé.
+- **Validation finale par agent indépendant** (voir `CLAUDE.md`) : une fois le tome complet et relu, faire noter le manuscrit compilé par un agent lancé sans le contexte de rédaction. Ne jamais s'auto-attribuer la note. Objectif ≥ 9/10 avant de considérer le tome terminé et de démarrer le tome 7. Non applicable tant que le tome n'est pas terminé.
 - Export Word final : **non réalisable depuis cet environnement** — cette session tourne dans un conteneur cloud isolé sans accès au système de fichiers Windows local de l'utilisateur (`C:\Users\mchfalmi\...`). Le manuscrit sera fourni via le dépôt GitHub et/ou envoyé directement en pièce jointe le moment venu ; l'utilisateur devra l'enregistrer lui-même à l'emplacement souhaité sur sa machine.
+
+## Méthodologie (résumé)
+
+Voir `CLAUDE.md` à la racine du dépôt pour la méthodologie complète et durable du projet (structure des tomes, exigences de genre, rythme d'écriture, protocole de relecture et de notation indépendante, continuité entre tomes). Ce fichier `PROGRESS.md` ne fait que suivre l'état d'avancement ; les règles de fond vivent dans `CLAUDE.md`.
