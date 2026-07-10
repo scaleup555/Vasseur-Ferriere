@@ -1352,3 +1352,140 @@ Elle resta un long moment sans rien dire, le téléphone toujours dans sa main, 
 Elle ne répondit pas tout de suite. Dehors, la nuit commençait à monter des fossés, lente et patiente, comme une eau qu'on ne voit jamais venir avant qu'elle n'ait déjà tout recouvert.
 
 « Ce n'est pas qui on pensait, dit-elle enfin. »
+
+
+## Chapitre 15 — L'Œil retourné
+
+Le graphologue rappela à huit heures moins dix, alors que Clara buvait un café trop noir debout devant la fenêtre de la chambre d'hôtel, à regarder le lac se défaire lentement de sa brume. Sa voix était celle d'un homme habitué à annoncer des vérités que personne n'a envie d'entendre, posée, presque ennuyée par sa propre précision.
+
+« Nous avons pu comparer l'échantillon de 2016 à un corpus suffisant, dit-il. Des lettres saisies dans la chambre de l'hôtel Beauvivier, occupée par le docteur Prieur avant sa disparition. Carnets, notes de séance, une dédicace sur un livre. Douze points de comparaison exploitables. »
+
+Elle attendit. Il y a des silences qu'on apprend à laisser courir, parce qu'ils forcent l'autre à les remplir le premier.
+
+« Ce n'est pas lui, commissaire. La signature du registre, l'initiale P du 12 avril 2016, ne correspond pas à l'écriture du docteur Prieur. L'inclinaison, la pression, le ductus general — tout diverge. Je peux me tromper sur un point isolé. Je ne me trompe pas sur douze. »
+
+Elle raccrocha sans vraiment dire au revoir, ce qui ne lui ressemblait pas, et resta un moment le téléphone contre la poitrine, comme on tient une chose qu'on a peur de laisser tomber.
+
+Ferrière, qui finissait de nouer ses lacets assis sur le rebord du lit, leva la tête.
+
+« Alors ?
+
+— Ce n'est pas lui non plus. »
+
+Il ne comprit pas tout de suite, et elle dut répéter la phrase à voix haute pour se convaincre elle-même qu'elle l'avait bien entendue de la bouche du graphologue. Quelqu'un était entré dans les archives de la police judiciaire de Lyon en avril 2016, deux ans après la condamnation de Thomas Reiller, pour consulter un dossier fermé, et avait signé d'une initiale unique, sans laisser de nom complet dans le registre. Ce quelqu'un n'était pas le docteur Nathanaël Prieur. Restaient deux hypothèses, et aucune des deux n'était réconfortante : soit un second homme, jusque-là invisible, s'intéressait au dossier Chambon depuis dix ans avec la même patience méthodique que Prieur lui-même ; soit Prieur, déjà à cette date, disposait de quelqu'un pour agir en son nom, quelqu'un capable de se présenter à un guichet d'archives sans éveiller le moindre soupçon, muni des papiers qu'il fallait, du langage qu'il fallait. Un intermédiaire. Une main prêtée.
+
+Ferrière se leva, chercha sa veste, la trouva pendue au dossier d'une chaise.
+
+« Le message qu'on a retrouvé au chapitre — au mois dernier, corrigea-t-il, agacé contre lui-même. Celui de Bellerive. Il ne joue pas seul.
+
+— Je sais. »
+
+Elle le savait depuis le premier instant, en vérité, depuis que la phrase manuscrite avait été découpée dans le papier glacé d'un magazine et collée sur la porte du salon de la villa, entre deux corps déjà froids. Elle avait choisi, comme on choisit de ne pas regarder une plaie tant qu'elle ne saigne pas, de laisser cette phrase de côté, un fragment de mise en scène parmi d'autres, une provocation de plus dans la grammaire théâtrale de Prieur. Elle comprenait à présent qu'elle s'était trompée d'ordre de grandeur. Ce n'était pas une provocation. C'était un aveu.
+
+Son téléphone sonna de nouveau avant même qu'elle ait reposé la tasse. Farge, cette fois, la voix tendue au fil du signal qui allait et venait dans les lacets de la route.
+
+« Clara. On a un corps sur l'A41, aire de repos du Grand Colombier, sens Annecy-Chambéry. Un promeneur l'a trouvé il y a quarante minutes. Dans une voiture de location. »
+
+Clara ferma les yeux une seconde, comme pour se donner le temps d'encaisser une nouvelle qu'elle n'avait pas encore entendue.
+
+« C'est lui ?
+
+— Je ne sais pas de qui vous parlez, mais si c'est celui que je crois, il a un visage qu'on n'oublie pas facilement. On va avoir besoin de vous ici. »
+
+*
+
+L'aire de repos du Grand Colombier n'était pas de celles qu'on remarque en passant. Un parking de gravier tassé, une table de pique-nique à la peinture écaillée, une poubelle métallique renversée par le vent ou par des sangliers, et au-delà, la masse bleutée de la montagne qui donnait son nom au lieu, indifférente, posée là depuis toujours et qui le resterait longtemps après que tout le monde, dans cette histoire, aurait cessé d'exister. Les gendarmes avaient tendu un ruban bleu et blanc entre deux platanes rachitiques, et le ballet des véhicules — deux fourgons, une ambulance qui n'aurait plus rien à transporter d'urgent, la voiture de l'institut médico-légal — s'était formé en une demi-heure avec cette efficacité morne des matins de découverte macabre.
+
+La voiture de location, une Mégane grise immatriculée par une agence de Genève-Cointrin, était garée en épi contre la haie de troènes qui fermait le fond du parking, à l'écart des quelques places réservées aux poids lourds. Rien, de loin, ne distinguait ce véhicule d'un autre abandonné là pour la nuit par un routier fatigué. Il fallait s'approcher, se pencher, pour voir.
+
+L'homme était assis à la place du conducteur, ceinture bouclée, les mains posées sur les cuisses avec une symétrie qui n'appartenait à aucun geste naturel de mort. Le visage, Clara le reconnut sans hésiter, malgré les dix-sept jours écoulés depuis les images tremblées d'une caméra de surveillance genevoise : les pommettes hautes, la mâchoire un peu longue, cette maigreur particulière qui donne aux traits l'air d'avoir été taillés au couteau plutôt que sculptés. Yannick Osmont. L'homme qui, à Genève, semblait épier celui que toute la France recherchait à présent.
+
+Ses yeux étaient ouverts. Grands ouverts, fixes, tournés vers le pare-brise et, au-delà, vers rien — vers la haie de troènes, vers la montagne, vers un matin qu'il ne verrait jamais se lever tout à fait. Ce qui glaça Clara ne fut pourtant pas ce regard vide. Ce fut ce qu'on avait disposé autour de lui.
+
+Les trois rétroviseurs de la voiture — les deux extérieurs, dévissés avec un soin d'horloger, et le rétroviseur central, décroché de son support — avaient été placés dans l'habitacle de manière à converger tous vers le visage du mort. L'un calé contre le tableau de bord, l'autre posé sur le siège passager, calé par la ceinture de sécurité qui le maintenait à l'angle voulu, le troisième suspendu au pare-soleil grâce à un fil de pêche noué avec une précision presque chirurgicale. Trois surfaces réfléchissantes, trois angles savamment calculés, qui ne renvoyaient qu'une seule image, répétée, démultipliée à l'infini par le jeu des reflets croisés : les yeux ouverts d'Osmont, se regardant lui-même se regarder, pour toujours, dans un habitacle devenu chambre des miroirs.
+
+« Il l'a fait surveiller sa propre mort, dit Ambrosini, arrivé de Chambéry une heure plus tôt et qui fumait, un peu en retrait, une cigarette qu'il n'allumerait jamais tout à fait, parce que Farge le fusillait du regard chaque fois qu'il portait le briquet à sa bouche. C'est ça, l'idée ? »
+
+Clara ne répondit pas tout de suite. Elle regardait les mains d'Osmont, la ceinture bouclée, l'absence totale de trace de lutte sur le tissu du siège, la manière dont tout, dans cette mise en scène, respirait le contrôle, l'application, presque la tendresse funèbre.
+
+« L'idée, dit-elle enfin, c'est qu'il surveillait Prieur. Et que Prieur le sait. Alors il lui renvoie son propre regard. C'est une réponse. Un message adressé à ceux qui l'employaient, pas à nous. »
+
+Le légiste, une femme énergique du nom de Sabatier que Clara avait déjà croisée sur une affaire de noyade à Aix-les-Bains l'année précédente, sortit de la voiture après avoir passé vingt minutes penchée sur le corps, les gants encore luisants.
+
+« Pas de traumatisme visible, dit-elle en retirant ses gants avec ce claquement sec caractéristique. Pas de strangulation au sens classique, pas de pétéchies massives, pas de lutte. Mais regardez ça. »
+
+Elle désigna, sur le cou d'Osmont, juste sous l'oreille gauche, une marque minuscule, à peine plus grande qu'une piqûre d'ortie.
+
+« Un point d'injection. Frais, propre, presque invisible si on ne le cherche pas. Mon hypothèse, à confirmer par la toxico : un paralysant à action rapide, probablement un curarisant, suivi d'une asphyxie une fois le sujet immobilisé. Il n'a pas pu se débattre. Il n'a probablement même pas pu fermer les yeux. »
+
+Farge, arrivée derrière elle en soufflant sur ses mains gantées de latex, siffla doucement entre ses dents.
+
+« Charmant type, votre docteur.
+
+— Ce n'est plus vraiment le mien », dit Clara, et elle regretta aussitôt la formule, trop légère pour l'objet qu'elle désignait.
+
+Elle se tourna vers Farge. « Heure de la mort ?
+
+— Sabatier dit hier soir, entre vingt et une heures et minuit. Un routier a remarqué la voiture vers vingt-trois heures, garée là, sans plus d'attention, ces aires servent surtout à ça, les gens qui dorment quelques heures sur le trajet. Le corps a été trouvé ce matin par un type qui promenait son chien avant d'aller au travail. Il a d'abord cru que le conducteur dormait. Il a frappé à la vitre. » Elle laissa un silence. « Il est en état de choc, on l'a envoyé aux urgences de Chambéry par précaution. »
+
+Ambrosini, qui n'avait toujours pas allumé sa cigarette, la remit dans son paquet avec un soupir théâtral.
+
+« Vous savez ce qui m'inquiète le plus, dans toute cette histoire ? dit-il. C'est que la voiture de location, il va falloir la rendre à l'agence de Cointrin avec un rapport d'expertise, des scellés partout, et probablement six mois avant qu'ils la récupèrent. J'ai déjà entendu le genre de coup de fil qu'ils vont passer à leur assurance.
+
+— Ambrosini, dit Farge sans le regarder, on a un cadavre avec trois rétroviseurs braqués sur ses yeux morts, et vous pensez à la note d'assurance de Sixt.
+
+— Je pense à tout en même temps, capitaine. C'est ce qui fait ma valeur. » Il désigna d'un mouvement de menton la montagne au loin, calme et bleue au-dessus des sapins. « Et puis il faut bien rire un peu, sinon on finit comme lui — les yeux grands ouverts et plus personne pour nous fermer les paupières. »
+
+Farge secoua la tête, mais Clara vit, l'espace d'une seconde, le coin de sa bouche se relever malgré la fatigue de la nuit passée à trier des scellés. C'était une chose étrange, cette capacité qu'avaient certains d'entre eux à faire tenir ensemble, sans jamais choisir entre les deux, l'horreur d'un matin et la nécessité de continuer à vivre dedans.
+
+*
+
+Le technicien de l'identité judiciaire qui fouillait le véhicule millimètre par millimètre s'appelait Delorme, un homme jeune, taciturne, aux gestes d'une lenteur presque religieuse. Ce fut lui qui, vers midi, appela Clara depuis le coffre ouvert de la Mégane, une pochette plastique à la main.
+
+« Commissaire. On a un téléphone. »
+
+L'appareil, un modèle de milieu de gamme sans particularité, avait été retrouvé glissé entre le siège et la console centrale, l'écran fendu en étoile, la coque enfoncée sur un côté comme si on avait voulu, sans y parvenir tout à fait, le détruire d'un coup de talon. La batterie tenait encore, faiblement.
+
+« Il n'a pas eu le temps de le faire disparaître, ou celui qui l'a tué n'a pas jugé utile de s'en donner la peine, dit Delorme. Peut-être qu'il ne savait pas qu'il y avait quelque chose dessus qui vaille la peine d'être effacé. »
+
+Le téléphone partit dans l'après-midi vers le laboratoire de Chambéry, escorté par Chastagner qui avait fait la route depuis Aix-les-Bains pour superviser lui-même l'extraction — il avait, sur ce genre de manipulation, une réputation de minutie qui frisait l'obsession, et Clara ne s'en plaignait jamais. Ce fut lui qui rappela en fin de journée, alors que Clara relisait pour la troisième fois le rapport préliminaire de Sabatier dans une salle de la gendarmerie prêtée pour l'occasion, une pièce sans fenêtre qui sentait le café renversé et le carton d'archive.
+
+« On a récupéré quelque chose, dit Chastagner, la voix tendue par l'effort de rester méthodique alors qu'il mourait visiblement d'envie d'aller plus vite. La carte mémoire était en partie endommagée par le choc, mais la puce elle-même n'avait pas de dommage structurel majeur. On a pu extraire environ soixante pour cent des données. Pas de miracle, commissaire, un travail de fourmi, trois heures avec le labo pour reconstituer les fragments un par un.
+
+— Qu'est-ce que vous avez ?
+
+— Un brouillon de message, non envoyé, écrit à vingt-deux heures dix-sept, donc probablement dans la demi-heure qui a précédé sa mort. Il n'a jamais appuyé sur envoyer. Ou il n'en a pas eu le temps. »
+
+Il y eut un froissement de papier, Chastagner qui retrouvait ses notes.
+
+« Le texte est incomplet, la fin manque, mais voici ce qu'on a pu reconstituer : Il faut qu'on arrête ça, on n'a plus la main sur rien, si P. apprend qu'on est encore en train de —. Ça s'arrête là. »
+
+Clara ferma les yeux un instant. P. Encore cette lettre unique, cette initiale qui revenait comme une signature récurrente dans toute cette affaire, tantôt celle d'un homme, tantôt peut-être celle d'un autre, tantôt simplement celle de la peur qu'inspirait Prieur à ceux-là mêmes qui croyaient encore pouvoir le manipuler.
+
+« Le destinataire ?
+
+— C'est là que ça devient intéressant. Le message était adressé à un contact enregistré sous le nom "Relieur". Pas de nom, pas de numéro visible dans les fragments qu'on a récupérés — juste ce surnom, et un indicatif de zone qu'on a pu isoler : 04, régional lyonnais. On a aussi l'historique d'appels des trois dernières semaines, partiellement récupéré. Ce contact "Relieur" apparaît six fois, toujours des appels courts, deux à cinq minutes, jamais plus. Le dernier remonte à avant-hier. »
+
+Clara nota le mot sur son carnet, l'entoura deux fois. Un relieur. Quelqu'un qui, dans le vocabulaire feutré des faussaires et des intermédiaires de l'ombre, refait des couvertures — des identités, des papiers, des vies entières remises à neuf entre deux couvertures de faux passeport. Elle avait déjà croisé ce genre de surnom, des années plus tôt, dans une enquête sur un réseau de blanchiment lyonnais qui n'avait jamais tout à fait abouti, faute de témoin vivant assez longtemps pour témoigner.
+
+« On creuse, dit Chastagner. On croise avec les fichiers du groupe faux documents à Lyon, et avec Genève si Interpol veut bien nous répondre avant Noël. Ce n'est pas grand-chose, commissaire.
+
+— Ce n'est pas rien non plus », dit-elle, et elle le pensait vraiment. Ce n'était pas un indice laissé exprès sur un plateau, pas une carte à jouer glissée dans la manche de la mise en scène de Prieur — c'était une trace arrachée à la matière même du hasard et de la peur, un homme qui avait tenté, dans les dernières minutes de sa vie, d'alerter quelqu'un, et qui n'en avait pas eu le temps. Cela ressemblait davantage à du vrai travail de police qu'à n'importe quoi d'autre depuis le début de cette enquête.
+
+*
+
+Le fil qui reliait Osmont à Kratos Protection International se referma dans la soirée, presque banalement, par le biais le plus prosaïque qui soit : une fiche de paie retrouvée dans son appartement lyonnais, perquisitionné en urgence par une équipe locale mandatée par commission rogatoire. Yannick Osmont, quarante-sept ans, ancien militaire, reconverti dans la sécurité privée puis, plus discrètement, dans ce que les documents appelaient pudiquement le « renseignement économique », avait perçu, sur les dix-huit derniers mois, plusieurs virements réguliers d'une société-écran domiciliée à Fribourg, elle-même identifiée depuis des mois par la cellule financière comme l'un des ultimes vaisseaux encore à flot de l'empire coulé de Hugues Vallier. Kratos n'existait plus officiellement. Kratos continuait pourtant de payer ses hommes, dans l'ombre, avec la discipline d'une organisation qui n'avait pas encore appris à mourir tout à fait.
+
+Clara relut le rapport deux fois, debout, le dos contre le mur froid du couloir de la gendarmerie, pendant que dehors la nuit tombait sur le lac avec cette lenteur particulière aux soirs d'été montagnard, où la lumière semble vouloir s'attarder par pure politesse.
+
+Ainsi, l'homme aperçu à Genève, celui qui semblait épier Prieur depuis les marges de l'enquête depuis le chapitre 10, travaillait bel et bien pour le compte de ce qui restait de l'organisation de Vallier. Et cet homme venait d'être tué, avec une précision d'horloger, mis en scène de manière à renvoyer sa propre surveillance comme on renvoie une gifle. Ce n'était plus seulement la police qui traquait Nathanaël Prieur à travers les archives, les registres, les signatures d'initiales et les hôtels vides. C'étaient désormais deux meutes distinctes, lancées sur la même piste, l'une armée de commissions rogatoires et de laboratoires d'analyse, l'autre de curarisants et de rétroviseurs volés — et rien ne garantissait qu'elles ne finiraient pas, un jour prochain, par se croiser sur le même homme, au même endroit, au même instant.
+
+Ferrière la rejoignit dans le couloir, une tasse de café tiède dans chaque main, en tendit une à Clara sans un mot.
+
+« Alors, dit-il après un silence, on a un homme traqué par nous, traqué par ses anciens employeurs, et qui, en plus de ça, n'était peut-être pas seul quand il a fait condamner Reiller en 2014.
+
+— Résumé exact.
+
+— Ça fait beaucoup de monde autour d'un seul homme.
+
+— C'est bien ce qui m'inquiète », dit-elle, et elle regarda par la fenêtre du couloir la masse noire du Grand Colombier qui achevait de se fondre dans la nuit, comme un animal patient attendant, immobile, que quelque chose vienne enfin rompre son silence. Un homme acculé de tous côtés ne devient pas prudent. Il devient imprévisible. Et de tout ce qu'elle avait appris sur Nathanaël Prieur depuis dix-sept jours, c'était bien la seule certitude qui ne demandait aucune analyse graphologique pour s'imposer : un homme comme lui, pris entre deux feux, ne fuirait pas indéfiniment. Il choisirait, tôt ou tard, de frapper le premier.
