@@ -4,7 +4,7 @@
 
 - Tomes 1 à 4 : mentionnés comme déjà écrits (non présents dans ce dépôt — à ajouter si les fichiers sources sont fournis).
 - Tome 5 — *La Treizième Passagère* : texte de référence intégral sauvegardé dans `reference/Tome_5_La_Treizieme_Passagere.txt` (≈47 200 mots, 24 chapitres) pour assurer la continuité narrative des tomes suivants.
-- Tome 6 — *Le Sixième Couvert* : **en cours d'écriture**, fichier `Tome_6_Le_Sixieme_Couvert.md`.
+- Tome 6 — *Le Sixième Couvert* : **24 chapitres rédigés, relecture de cohérence effectuée** — en attente de la notation indépendante ≥ 9/10 avant clôture définitive. Fichier `Tome_6_Le_Sixieme_Couvert.md`.
 
 ## Tome 6 — Le Sixième Couvert
 
@@ -36,8 +36,12 @@ Objectif de la série éditoriale pour ce tome : 24 chapitres, ~3 200 mots chacu
 | 18 | Le piège à quatre couleurs | ~3 000 |
 | 19 | Ce que Grimaldi portait seul depuis vingt-deux ans | ~2 940 |
 | 20 | Le visage du jardin | ~2 915 |
+| 21 | Le codicille | ~3 380 |
+| 22 | La piste d'Hyères | ~3 025 |
+| 23 | L'homme qui souriait toujours | ~3 160 |
+| 24 | Un autre jardin | ~2 975 |
 
-**Total actuel : ≈ 60 900 mots / 76 800 (20 / 24 chapitres).**
+**Total final : ≈ 73 000 mots / 76 800 visés (24 / 24 chapitres — tome complet).**
 
 Remarque honnête : les chapitres visent ~3 200 mots mais varient de ±300 mots selon les besoins narratifs de chaque scène — un compte mot-à-mot exact briserait le rythme des scènes. Écart total acceptable à ce stade.
 
@@ -67,20 +71,26 @@ Note de session (chapitres 17-20) : **second grand twist officiel du tome posé 
 - Moments embarrassants / drôles (ch. 17-20) : fouille maladroite du sac d'Ambrosini révélant une liaison sentimentale secrète de Chastagner (ch. 17) ; sonnerie de dessin animé de la nièce Chloé interrompant Ferrière en pleine conférence de presse solennelle, devenue virale (ch. 18) ; Ambrosini atterrissant en plein gâteau d'anniversaire lors de l'attentat (ch. 19) ; volcan de bicarbonate explosant dans la salle de bain de la sœur de Ferrière (ch. 20).
 - Mensonge / enjeu (ch. 17-20) : lettre testamentaire de Fabrègue révélant le mécanisme des virements « AX-4 » via Ardennes Financial Trust (ch. 17) ; simulation par Fabrègue lui-même de sa propre disparition pour se mettre à l'abri (ch. 20) ; confession de Grimaldi sur l'accident de 2004 et le chantage subi depuis 2011 (ch. 19) ; identification d'Hugues Vallier comme bénéficiaire final de la fiducie luxembourgeoise, en pleine soirée de gala médiatisée organisée onze mois plus tôt — soit à la date du massacre de Roquemarine (ch. 20).
 - **Second grand twist majeur (chapitres 18-19)** : le piège à quatre couleurs désigne la version d'information confiée uniquement à Grimaldi. Ce n'est cependant pas une trahison délibérée : Grimaldi confesse être la cible d'un chantage vieux de quinze ans (depuis 2011), lié à l'accident mortel provoqué par son fils Thibault en 2004 et à son propre classement du dossier Vernasque en 2004. La fuite technique du mas de Salernes provient d'un carnet personnel photographié par un employé infiltré dans un restaurant où il dîne régulièrement — pas d'une trahison active. Ce rebondissement culmine, en fin de ch. 20, par l'identification d'Hugues Vallier (groupe Vallier) comme bénéficiaire final de toute l'organisation du « Jardinier ».
+- Suspense / action (ch. 21-24) : enlèvement d'Élise Cordier à Six-Fours-les-Plages puis sa localisation in extremis dans le coffre d'un véhicule abandonné (ch. 21) ; attentat/enlèvement déjoué et prise d'otage improvisée sur le tarmac de l'aérodrome privé d'Hyères lors de l'interpellation de Vallier, avec leurre (faux Vallier) et otage relâchée in extremis (ch. 22) ; fuite médiatique et effervescence de la presse devant le commissariat (ch. 22-23) ; confrontation directe avec Vallier en garde à vue, production d'un enregistrement audio compromettant (ch. 23).
+- Moments embarrassants / drôles (ch. 21-24) : confusion d'Ambrosini avec un homonyme du graphologue judiciaire (ch. 21) ; catastrophe du hamster échappé chez la sœur de Ferrière (ch. 21) ; chute d'Ambrosini sur le tarmac devant Vallier menotté (ch. 22) ; méprise d'une journaliste prenant Ferrière pour le porte-parole du parquet (ch. 22) ; bouillabaisse renversée par Ambrosini (ch. 23) ; coming-out assumé de Chastagner présentant son compagnon Nicolas à l'équipe (ch. 23) ; Ambrosini pris pour « le commissaire Vasseur » par une chaîne internationale (ch. 24) ; poulet brûlé par Ferrière lors d'un week-end en famille (ch. 24) ; quiproquo de Samir invitant par erreur un ancien collègue de Clara à un dîner (ch. 24).
+- **Preuve matérielle contre Vallier (ch. 21)** : maître Fabrègue produit un codicille confidentiel rédigé à Genève en 2017, dont l'annexe porte des initiales manuscrites « H.V. » authentifiées, reliant un versement daté du lendemain exact de l'assassinat du maire Issaurat à Kratos Protection International (« prestation de jardinage exceptionnelle »). Combinée au témoignage de Renaud Castellan (formalisé ch. 21) et à celui d'Élise Cordier — la femme intimidée par Grimaldi en 2004, retrouvée vivante après un enlèvement — ce faisceau de preuves permet l'ouverture d'une instruction judiciaire formelle contre Vallier.
+- **Arrestation de Vallier (ch. 22)** : interception réussie à l'aérodrome d'Hyères malgré un leurre (un avocat du groupe, sosie approximatif, envoyé en éclaireur) et une prise d'otage improvisée par les hommes de Kratos, désamorcée sur ordre de Vallier lui-même — révélant un homme qui calcule son image jusque dans la défaite. Vallier prévient Clara, dans la voiture, que « d'autres jardins » existent.
+- **Dénouement judiciaire (ch. 23)** : Vallier nie tout ordre direct mais un enregistrement audio (retrouvé chez son chef de la sécurité Damien Reyssac de Kratos) l'incrimine formellement la veille du massacre de Roquemarine. Grimaldi choisit de se constituer prisonnier volontairement pour les faits de 2004/2013 plutôt que d'accepter un sursis offert par le procureur général — geste de rédemption qui clôt son arc. Fils secondaires refermés : Yamina Bennaceur (veuve Vernasque) engage une action civile, Xavier Delombre coopère, Fontanier entame une thérapie de couple, Chastagner assume publiquement sa relation avec Nicolas.
+- **Annonce choc de fin de tome (ch. 24), amorçant le tome 7** : trois semaines plus tard, malgré l'arrestation de Vallier, un signe d'intimidation (bouquet de fleurs symbolique envoyé à Castellan) confirme que l'organisation Kratos/Ardennes Financial Trust n'a pas été intégralement démantelée. Un soir, Ferrière appelle Clara au sujet d'une nouvelle scène de crime près du lac du Bourget (Chambéry) : cinq morts autour d'une table dressée à l'identique de Roquemarine — sauf que le carton nominatif de la sixième place, restée vide, porte cette fois le nom de Clara Vasseur elle-même, écrit dans la même calligraphie que la menace laissée chez Élise Cordier. Cliffhanger volontairement non résolu, à explorer dès le chapitre 1 du tome 7.
+
+### Corrections apportées lors de la relecture finale (chapitres 1-24)
+
+- Chapitre 23 : incohérence corrigée — le compagnon de Chastagner (lettres retrouvées ch. 17, adressées à « Nicolas ») avait été présenté par erreur comme une compagne lors de la scène de coming-out ; corrigé pour rester cohérent avec l'indice posé au ch. 17 (Chastagner est en couple avec un homme, Nicolas).
+- Chapitre 23 : l'enregistrement audio incriminant Vallier avait été daté par erreur « onze mois plus tôt » (formule réservée, dans tout le tome, au tunnel du Fréjus/tome 5) ; corrigé en « la veille du massacre de la bastide », cohérent avec le contenu même de l'enregistrement.
+- Répétition de l'âge « quarante et un ans » utilisée pour quatre personnages différents (Marc Théron, Thibault Grimaldi, Élodie Ravier, Élise Cordier) : corrigée pour Élodie Ravier (38 ans) et Élise Cordier (43 ans), en conservant Théron et Thibault Grimaldi (dont l'âge sert un calcul narratif précis lié à 2004).
+- Vérification effectuée : pas de doublon de paragraphe ni de double astérisque de saut de scène sur l'ensemble du fichier ; noms de nouveaux personnages (Élise Cordier, Damien Reyssac, Bernard Escoffier, Frédéric Aubanel, Yamina Bennaceur, maître Solange Vergnes) sans collision avec les personnages des chapitres 1-20.
 
 ### Reste à faire
 
-- Chapitres 21 à 24 (4 chapitres, ~15 900 mots) — se concentrer sur la confrontation avec Hugues Vallier (ou sa tentative d'y échapper), la sécurisation des preuves et témoignages nécessaires (Fabrègue, Castellan, la fille de Fabrègue, la femme intimidée en 2004 par Grimaldi — encore à localiser et protéger), le sort judiciaire de Grimaldi, et l'annonce choc de fin de tome amorçant le tome 7.
-- Ne plus introduire de nouveau grand twist officiel : les deux exigés par la méthodologie sont posés (ch. 8 et ch. 18-19). Les chapitres 21-24 peuvent en revanche contenir un choc final de dénouement (ex. : fuite, arrestation manquée ou réussie de Vallier, sacrifice d'un personnage) sans que cela ne compte comme un troisième twist obligatoire.
-- Localiser et protéger la femme intimidée par Grimaldi en 2004 (fil ouvert ch. 19, demande explicite du fils Thibault).
-- Sécuriser le témoignage de Renaud Castellan contre Vallier (il a vu son visage lors d'une réunion en 2004, ch. 20, mais craint pour sa vie et celle de sa famille).
-- Obtenir le témoignage complet de Fabrègue, retrouvé vivant dans le Lubéron (ch. 20), y compris ce qu'il n'a « jamais osé écrire, même dans cette lettre ».
-- Construire le lien matériel et incontestable entre Hugues Vallier et un acte criminel précis, condition posée par Grimaldi lui-même (ch. 20) pour qu'une arrestation ne se solde pas par un non-lieu retentissant.
-- Poursuivre l'équilibre humour/embarras déjà relancé aux chapitres 5-20 ; continuer à répartir régulièrement scènes comiques et scènes gênantes sur le reste du tome (voir méthodologie dans `CLAUDE.md`).
-- Relecture ligne par ligne complète une fois les 24 chapitres écrits : cohérence, anachronismes, fuites de spoiler, trous logiques.
-- Annonce choc de fin de tome, amorçant le tome 7.
-- **Validation finale par agent indépendant** (voir `CLAUDE.md`) : une fois le tome complet et relu, faire noter le manuscrit compilé par un agent lancé sans le contexte de rédaction. Ne jamais s'auto-attribuer la note. Objectif ≥ 9/10 avant de considérer le tome terminé et de démarrer le tome 7. Non applicable tant que le tome n'est pas terminé.
-- Export Word final : **non réalisable depuis cet environnement** — cette session tourne dans un conteneur cloud isolé sans accès au système de fichiers Windows local de l'utilisateur (`C:\Users\mchfalmi\...`). Le manuscrit sera fourni via le dépôt GitHub et/ou envoyé directement en pièce jointe le moment venu ; l'utilisateur devra l'enregistrer lui-même à l'emplacement souhaité sur sa machine.
+- **Tome 6 est désormais complet : 24/24 chapitres, ≈ 73 000 mots.** Reste uniquement l'étape de validation finale.
+- **Validation finale par agent indépendant** (voir `CLAUDE.md`) : notation honnête du manuscrit compilé par un agent sans contexte de rédaction. Objectif ≥ 9/10. Si note < 9/10, corriger puis renoter jusqu'à l'obtenir, avant de considérer le tome terminé et de démarrer le tome 7.
+- Export Word final : **non réalisable depuis cet environnement** — cette session tourne dans un conteneur cloud isolé sans accès au système de fichiers Windows local de l'utilisateur (`C:\Users\mchfalmi\...`). Le manuscrit sera fourni via le dépôt GitHub et/ou envoyé directement en pièce jointe ; l'utilisateur devra l'enregistrer lui-même à l'emplacement souhaité sur sa machine.
+- Une fois la note ≥ 9/10 obtenue, démarrer le tome 7 en ouvrant directement sur la scène choc des dernières lignes du tome 6 (nouvelle scène de crime au lac du Bourget, carton nominatif au nom de Clara Vasseur), sans jamais résoudre ce cliffhanger dans un prologue.
 
 ## Méthodologie (résumé)
 
