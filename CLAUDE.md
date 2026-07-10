@@ -10,6 +10,30 @@ En particulier, et sans que cela dispense de lire la section complète : **l'ouv
 
 **Le titre de chaque nouveau tome doit lui aussi produire un effet immédiat.** Avant de l'arrêter, générer plusieurs propositions et ne retenir que celle qui est à la fois **hyper attractive, énigmatique, et qui déclenche un vrai réflexe de « Waouh, il faut absolument que je lise ça »** dès la couverture — pas un titre simplement correct ou descriptif. S'inspirer du meilleur de ce qui a déjà fonctionné dans la série (*La Treizième Passagère*, *Le Sixième Couvert*) : un détail concret, chiffré ou objet, rendu inquiétant par un simple déplacement de sens, plutôt qu'un titre abstrait ou générique du type « Le Secret du Jardinier ». Le titre doit lui-même fonctionner comme une énigme miniature liée à l'intrigue, dont le sens exact ne se révèle pleinement qu'en cours de lecture.
 
+## Style narratif : l'inspiration Victor Hugo (aucune trace d'IA dans le texte)
+
+L'exigence de l'utilisateur est explicite : la prose doit se lire comme celle d'un romancier, pas comme un texte généré. Le modèle stylistique de référence, à étudier et à faire vivre dans l'écriture, est **Victor Hugo** — non pas comme un pastiche daté, mais comme un ensemble de techniques concrètes à transposer dans un polar contemporain :
+
+- **Rythme délibérément inégal.** Hugo alterne de longues phrases amples, à subordonnées empilées, qui montent en cascade vers un point culminant, avec des phrases très courtes, sèches, qui tombent comme un couperet juste après. Ne jamais laisser un chapitre rouler à une seule vitesse de phrase : après une longue période descriptive ou analytique, faire suivre une phrase de trois ou quatre mots qui frappe.
+- **L'antithèse comme architecture, jamais comme réflexe.** Hugo construit ses romans entiers sur de grandes oppositions (misère/grandeur, ombre/lumière, la bête et l'ange dans *Notre-Dame de Paris*). Utiliser l'antithèse à l'échelle d'une scène ou d'un chapitre — faire succéder une scène de faste à une scène de détresse, un personnage lumineux à un personnage souterrain — plutôt que comme une béquille de phrase répétée mécaniquement (voir la liste des tics à bannir ci-dessous : « pas X, mais Y » n'est un procédé hugolien que lorsqu'il est rare et structurant, jamais lorsqu'il revient toutes les deux pages).
+- **Vocabulaire précis et incarné, jamais vague.** Hugo ne dit jamais « un bâtiment » ou « quelque chose d'inquiétant » : il nomme, avec une précision presque architecturale, la matière, la texture, l'âge des choses (« cette masse de pierre noircie par les siècles »). Chaque sensation, chaque lieu, chaque objet décrit dans le tome doit être nommé avec cette même précision concrète — jamais par une comparaison floue du type « quelque chose qui ressemblait à… ».
+- **Les lieux portent un sens, ils ne sont jamais un simple décor.** Comme la cathédrale dans *Notre-Dame de Paris* ou les égouts de Paris dans *Les Misérables*, chaque lieu important du tome (la bastide, le tribunal, le commissariat, le domaine viticole) doit porter une charge symbolique liée aux thèmes du roman — la justice, la mémoire, la vérité enfouie — et non se réduire à un fond neutre pour l'action.
+- **La théorie hugolienne du grotesque, appliquée à la méthodologie du tome.** Dans sa préface de *Cromwell*, Hugo théorise le mélange volontaire du sublime et du grotesque, du tragique et du comique, comme la marque du drame moderne. C'est exactement ce que la méthodologie de cette série exige déjà (scènes macabres et scènes drôles entremêlées) — s'appuyer consciemment sur ce principe pour que l'alternance horreur/humour soit organique et nécessaire, jamais un simple changement de registre mécanique annoncé par la narration.
+- **Digressions et réflexions morales, avec parcimonie.** Hugo interrompt parfois le récit pour une réflexion sur la justice, la société, la conscience humaine. Autoriser, une ou deux fois par tome maximum et à un moment pivot seulement (jamais en routine), une brève incursion réflexive — narrateur ou personnage — sur le sens de la justice, de la culpabilité ou du pardon. Jamais un sermon : une phrase ou un court paragraphe qui élève le propos sans ralentir l'intrigue.
+- **Anaphore et emphase rythmique, utilisées avec parcimonie.** Répéter un mot ou une structure en tête de phrases successives peut construire un crescendo saisissant dans une scène de tension maximale — un procédé à réserver aux moments qui le méritent vraiment, pas à généraliser.
+
+### Tics d'écriture à bannir absolument (liste vivante, à enrichir)
+
+Ces constructions, identifiées comme des marqueurs stylistiques mécaniques et répétitifs (« ça sonne l'IA ») par les agents indépendants et par l'utilisateur, ne doivent **plus apparaître du tout**, pas seulement être limitées :
+
+- « pas [X], mais [Y] » utilisé comme réflexe de phrase toutes les deux pages (par opposition à une vraie antithèse hugolienne, rare et structurante — voir ci-dessus).
+- « quelque chose qui ressemblait à… » et toute comparaison floue du même type (« une sorte de… », « comme si… » utilisé en série).
+- « ce moment de légèreté qui contrastait avec… » et toute formule qui explique/annonce elle-même la structure de la scène (contraste, respiration, bascule) au lieu de la faire vivre sans la commenter.
+- « sentant que… », « sentant [émotion physique] » en construction participiale répétée.
+- « frisson glacé/familier qui parcourt la nuque/l'échine », « malgré elle/lui » en fin de phrase réflexe, doublets d'intensification (« plus X encore, plus Y encore »), « cette certitude glaciale qui ne devait plus rien à l'intuition ».
+
+Le test à appliquer en cours d'écriture : si une tournure a déjà été utilisée deux fois dans les cinquante pages précédentes, la reformuler entièrement plutôt que la répéter une troisième fois.
+
 ## Structure d'un tome
 
 - Chaque tome compte **24 chapitres** d'environ **3 200 mots** chacun (±300 mots tolérés selon les besoins narratifs d'une scène), pour un total visé d'environ **76 800 mots**. Ce format ne change pas d'un tome à l'autre.
