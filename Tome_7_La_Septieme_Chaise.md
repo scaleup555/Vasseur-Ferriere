@@ -1163,3 +1163,192 @@ Il mit quelques secondes à comprendre ce qu'elle lui montrait. Puis son visage,
 Personne, à l'époque, n'avait jugé utile de le photographier de plus près. Personne n'avait jugé utile de le coter, de le saisir, de seulement le nommer.
 
 Il était resté là, sur cette étagère, tout ce temps — visible sur un cliché archivé au sous-sol d'un bâtiment gris, entre deux boîtes de carton scellées, attendant, avec une patience qui n'appartenait à aucune loi connue de la physique des objets inertes, que quelqu'un consentît enfin à le regarder.
+
+
+## Chapitre 14 — Ce que taisait Delcasse
+
+La route vers Décines traversait d'abord les faubourgs est de Lyon, puis se délestait peu à peu de la ville, comme un vêtement trop lourd qu'on abandonne pièce après pièce sur le bas-côté — le béton cédait la place aux pavillons, les pavillons aux jardins, et les jardins, enfin, à cette platitude industrieuse de la banlieue lyonnaise où rien ne semblait jamais s'être passé, où rien, précisément pour cette raison, ne pouvait plus tout à fait être exclu.
+
+Ferrière conduisait vite. Trop vite, sans doute, pour une route où les ronds-points se succédaient avec la régularité d'un chapelet, mais Clara ne dit rien. Elle regardait par la vitre les entrepôts défiler, les enseignes de commerces de gros, un centre équestre à l'abandon dont l'enseigne, à demi décrochée, pendait comme une dent cariée au-dessus d'un portail rouillé. Onze années de carrière lui avaient appris à reconnaître, dans le silence d'un coéquipier, la différence entre la concentration et l'effroi. Celui de Ferrière tenait des deux.
+
+« Vous croyez qu'il va parler ? demanda-t-il enfin, alors qu'ils longeaient un canal dont l'eau, verte et immobile, semblait porter la lumière du soir comme un plateau.
+
+— Il a passé onze ans à se demander si on viendrait un jour lui poser la question. On ne débarque pas comme ça dans la vie d'un homme qui attend. On l'y trouve déjà installé. »
+
+Elle ne précisa pas que ce chiffre — onze ans — était aussi le sien. Elle n'était pas certaine que la coïncidence fût un hasard, ni que Ferrière, s'il la remarquait, sût quoi en faire.
+
+La maison de Delcasse se trouvait au bout d'une impasse tranquille, un pavillon des années soixante-dix à la façade crépie d'un beige presque effacé, avec un jardinet net, méticuleux, où des rangs de poireaux montaient en ligne aussi droite qu'un rapport bien tenu. Un homme cultivait ce genre de rigueur, songea Clara, soit parce qu'il l'avait toujours eue, soit parce qu'il avait besoin, désormais, de la retrouver quelque part.
+
+C'est en se garant qu'ils la virent.
+
+Une femme, la trentaine, blouson de toile beige, sac en bandoulière lourd de matériel, se tenait devant la haie de thuyas qui bordait la propriété, un enregistreur à la main, en train de photographier discrètement la boîte aux lettres.
+
+Ferrière coupa le moteur. « Ça, dit-il, ce n'est pas une voisine. »
+
+Clara descendit sans répondre. Onze années de métier ne suffisaient pas toujours à empêcher le cœur de se serrer un peu, dans ces instants où l'improbable se matérialisait à l'endroit précis où on ne l'attendait pas — mais elle avait appris à ne jamais montrer ce serrement, et son visage, lorsqu'elle s'avança vers l'inconnue, n'affichait qu'une neutralité professionnelle, presque ennuyée.
+
+« Vous cherchez quelque chose ? »
+
+La femme sursauta, glissa aussitôt l'enregistreur dans sa poche avec un réflexe qui trahissait davantage l'habitude que la culpabilité, et répondit d'une voix ferme, un peu trop rapide :
+
+« Camille Ostier. Journaliste indépendante. Et vous, si je peux me permettre, vous n'avez pas franchement la tête de quelqu'un qui vend des panneaux photovoltaïques. »
+
+C'est à cet instant précis, tandis que Clara sortait sa carte et que Ferrière contournait le véhicule pour la rejoindre, que le drame — car c'en fut un, au sens le plus étroitement domestique du terme — se noua.
+
+Le brigadier Théo Lanvin, posté depuis le matin en couverture discrète à quinze mètres de là, dans une camionnette banalisée dont le seul défaut était d'être garée depuis six heures au même endroit, avait suivi la scène avec une tension croissante. Il avait vu une femme rôder près du domicile d'un ancien commissaire impliqué dans une affaire rouverte, muni d'un sac dont le contenu lui était inconnu et d'un appareil qu'il avait, dans la pénombre du rétroviseur, pris pour tout autre chose qu'un dictaphone. Il avait vu, surtout, sa commissaire s'en approcher seule. Cela suffit. Il jaillit de la camionnette avec la détermination d'un homme qui a répété toute sa vie ce moment sans jamais avoir eu l'occasion de le vivre.
+
+« Police nationale ! Ne bougez plus ! »
+
+Sa voix porta jusqu'au bout de l'impasse, fit aboyer un chien deux jardins plus loin, et figea sur place un livreur qui remontait la rue à vélo.
+
+« Lanvin, dit Clara, sans même se retourner. Ce n'est pas nécessaire. »
+
+Mais Lanvin, dans l'élan qui le portait depuis le déclic de l'alerte, n'entendit rien, ou plutôt entendit tout, sauf cela. Il brandit sa plaque à bout de bras avec la solennité d'un chevalier dégainant une épée dans une cérémonie qu'il aurait été seul à célébrer, et lança, d'une traite, la sommation dans son intégralité réglementaire :
+
+« Madame, je suis le brigadier Lanvin, officier de police judiciaire en exercice, agissant dans le cadre de la protection rapprochée de madame la commissaire Vasseur. Je vous somme de déposer votre sac au sol, mains visibles, et de vous identifier sans délai, faute de quoi je procéderai à votre interpellation en application des dispositions du code de procédure pénale relatives au flagrant délit et à la légitime défense d'autrui. »
+
+Il y eut un silence. Un silence si complet que le vent, dans les thuyas, parut s'en excuser.
+
+Camille Ostier le regarda comme on regarde un phénomène naturel dont on n'est pas certain qu'il soit dangereux ou simplement ridicule — un geyser, une éruption de rire contenu — et répondit, d'une voix devenue soudain glaciale :
+
+« Le code de procédure pénale ne comporte pas de disposition relative à la légitime défense d'autrui, monsieur l'agent. Ça, c'est le code pénal, article 122-5. Et pour votre gouverne, j'ai un master de droit, avant d'avoir un dictaphone. »
+
+Lanvin, décontenancé, mais fidèle à une formation qu'aucune remarque juridique ne pouvait entamer, insista, avec la même componction :
+
+« Je vous demande de déposer votre sac au sol. »
+
+Elle le déposa. Avec une lenteur théâtrale, elle plaça également, à côté du sac, son enregistreur, son téléphone, un paquet de mouchoirs et, pour faire bonne mesure, un tube de baume à lèvres, comme pour signifier qu'elle livrait à la police française l'inventaire complet et dérisoire de sa dangerosité.
+
+« Voilà, dit-elle. Fouillez. Vous trouverez peut-être un carnet de notes. Attention, il mord. »
+
+Ferrière avait porté la main à sa bouche pour dissimuler quelque chose qui n'était ni tout à fait une toux ni tout à fait un rire, et qui échoua, de toute façon, à passer pour l'une ou pour l'autre. Clara, elle, ne souriait pas — mais quelque chose, dans le pli qui se creusait au coin de ses lèvres, disait assez qu'elle aurait aimé pouvoir se le permettre.
+
+« Lanvin. Ça suffit. C'est une journaliste. »
+
+Le brigadier se redressa, la plaque toujours à la main, la posture soudain moins martiale, comme un ballon qu'on dégonfle avec application pour ne pas faire de bruit.
+
+« Je… j'ai cru, commissaire, que… »
+
+« Vous avez fait votre travail, dit Clara, avec une froideur qui n'était pas tout à fait un reproche, mais qui n'était pas non plus une absolution. Vous le referez mieux la prochaine fois. »
+
+Camille Ostier, en ramassant ses affaires une à une avec une précision rageuse, articula, sans lever les yeux :
+
+« Je veux des excuses. Des vraies. Pas un "circulez, y'a rien à voir". Parce que sinon, ce petit numéro — la plaque, la sommation en trois articles, le sac au sol devant la haie de monsieur Delcasse qui, soit dit en passant, nous regarde probablement derrière son rideau depuis cinq bonnes minutes — ce petit numéro, je le raconte dans mon prochain épisode. Avec les noms. »
+
+Lanvin pâlit, regarda Clara, qui hocha la tête d'un geste bref — celui d'un chef qui accorde une sanction avant qu'on ne la lui réclame.
+
+« Mademoiselle, dit-il, la voix soudain redevenue humaine, débarrassée de tout l'appareil réglementaire qui l'avait alourdie, je vous prie de bien vouloir m'excuser. Sincèrement. »
+
+Elle le considéra un instant, comme on soupèse un fruit encore vert pour décider s'il vaut la peine d'attendre, puis hocha la tête à son tour. « Bon. On efface. Cette fois. »
+
+C'est alors seulement, l'incident refermé, que Clara put enfin poser la question qui, depuis le premier instant, occupait le centre exact de son attention.
+
+« Madame Ostier. Que faites-vous ici ? »
+
+*
+
+Elle l'apprit dans le jardin de Delcasse lui-même, sous un noisetier dont les feuilles, déjà lourdes de l'été, filtraient la lumière du soir en pièces mobiles et dorées sur la table de fer forgé où l'ancien commissaire, sorti sur le pas de sa porte à l'appel de sa sonnette, avait fini par les inviter tous les trois, sans grand enthousiasme mais sans hostilité non plus — l'accueil résigné d'un homme qui savait, depuis longtemps déjà, que ce jour finirait par arriver.
+
+Camille Ostier travaillait depuis huit mois sur une série de podcasts consacrés aux erreurs judiciaires anciennes. Elle avait épluché la presse lyonnaise de 2014, retrouvé le nom de Delcasse au bas d'une dépêche de l'AFP, croisé une adresse via l'annuaire d'une association d'anciens de la police municipale.
+
+« Ce n'est pas sorcier, dit-elle, presque agacée qu'on pût s'en étonner. C'est du travail de journaliste. Le genre qui ne fait pas les gros titres, mais qui finit par tout retrouver. »
+
+Et puis elle sortit, de son sac miraculé, une pochette plastifiée contenant plusieurs feuillets.
+
+« Il y a une semaine, j'ai reçu un colis. Sans expéditeur. Enveloppe kraft, cachet de Chambéry — oui, je sais ce que ça évoque, croyez bien que je m'en suis étouffée avec mon café — contenant des photocopies du dossier Chambon. Pas tout. Des extraits. Mais des extraits que je n'avais trouvés nulle part ailleurs, ni dans les archives de presse, ni dans les minutes du procès auxquelles j'ai eu accès. »
+
+Elle tendit une feuille à Clara.
+
+C'était la photocopie d'un rapport de constatation, manuscrit, non signé, non daté sur la copie elle-même, décrivant la position du corps d'Aurélie Chambon — et, en marge, une précision que Clara n'avait jamais lue nulle part, y compris dans le dossier original tel qu'elle s'en souvenait : les chaussures de la victime, une paire d'escarpins bleu marine, avaient été retrouvées non pas éparses au pied du lit, comme le rapport officiel le mentionnait, mais alignées côte à côte au pied du lit, pointes tournées vers la porte, lacets — pour l'une d'elles, à lanière — soigneusement rentrés à l'intérieur, comme rangées par une main qui n'avait rien d'affolé.
+
+Clara sentit sa gorge se nouer d'une manière qu'elle ne chercha pas à nommer.
+
+Ce détail-là n'avait jamais été rendu public. Elle en était certaine, avec la certitude particulière de celle qui avait, jadis, elle-même tenu ce dossier entre ses mains sans jamais y trouver mention de chaussures alignées. Un détail de ce genre, dans une scène de crime, servait précisément à cela : à filtrer les faux aveux, les mythomanes qui se dénonçaient après chaque affaire médiatisée. On le gardait pour soi. On ne le couchait, parfois, que dans des annexes qu'on égarait ensuite, volontairement ou non.
+
+« Qui vous a envoyé ça ? demanda-t-elle.
+
+— Si je le savais, dit Camille Ostier, je ne serais pas en train de rôder devant les haies des anciens commissaires en me faisant passer les menottes par un charmant jeune homme trop zélé. » Un regard vers Lanvin, qui étudiait ses chaussures avec un intérêt soudain intense. « Je n'en sais rien. Mais celui ou celle qui a fait ça avait accès à des pièces que même moi, avec mes relations, je n'ai jamais pu consulter. »
+
+Clara garda la photocopie un instant de plus dans sa main, comme pour en peser le poids réel, au-delà du poids du papier.
+
+« Je vais devoir la confisquer, dit-elle enfin. Pour l'enquête. »
+
+« J'ai des copies, répondit la journaliste, avec un sourire qui n'était ni triomphant ni amer, seulement fatigué. J'en ai toujours. »
+
+*
+
+Yvon Delcasse ne dit pas grand-chose tant que Camille Ostier resta là. Il attendit, avec une patience de vieux fonctionnaire habitué aux silences des réunions interminables, qu'elle eût rassemblé ses affaires — pour de bon, cette fois — et qu'elle eût promis, sur un ton qui laissait entendre qu'elle reviendrait de toute façon, de le tenir informé si elle apprenait quoi que ce soit d'utile.
+
+Puis il referma le portillon derrière elle, revint s'asseoir, et pendant un long moment il ne fit que regarder ses mains, posées à plat sur la table, comme deux objets qui ne lui appartenaient plus tout à fait.
+
+C'était un homme grand, encore, malgré les années, mais dont la carrure semblait avoir été taillée pour un corps plus jeune, et qui flottait à présent dans cette ossature comme un manteau trop large hérité d'un frère disparu. Le visage était creusé de rides profondes, verticales, celles qu'on ne gagne pas en souriant. Une pipe, éteinte depuis longtemps à en juger par l'odeur froide qui s'en dégageait encore, traînait au bord de la table, à côté d'un cendrier qu'il n'utilisait visiblement plus.
+
+« Vous vous demandez pourquoi je cultive des poireaux », dit-il, sans lever les yeux, avec l'ombre d'un sourire qui n'atteignit jamais tout à fait ses lèvres.
+
+« Pas vraiment, non.
+
+— Parce qu'un poireau, commissaire, ça pousse droit si on le sème droit. Ça ne ment pas. Ça ne se rétracte pas. Ça ne revient pas, vingt ans plus tard, vous dire que vous vous êtes trompé. »
+
+Il finit par lever les yeux, et Clara y lut, sans surprise, la trace intacte d'une question qui n'avait jamais cessé de se poser.
+
+« Vous vous souvenez de moi, commissaire Delcasse ? »
+
+« Je me souviens d'une gamine de vingt-quatre ans, dit-il, qui débarquait dans mon bureau un soir de novembre 2014 avec une agrandissement photographique sous le bras, et qui m'expliquait, avec une assurance que je n'avais jamais vue chez un stagiaire — que je n'ai plus jamais revue depuis, d'ailleurs, chez personne —, que la crête papillaire numéro trois correspondait, sur onze points caractéristiques, au majeur droit de Thomas Reiller. Je me souviens de vos yeux, ce soir-là. On aurait dit que vous veniez de trouver l'équation d'un univers entier. »
+
+Il se tut, chercha sa pipe des yeux sans la prendre, comme un geste ancien que le corps réclamait encore.
+
+« Vous savez ce que c'était, l'affaire Chambon, à Lyon, en 2014 ? Vous étiez trop jeune pour vraiment le sentir de l'intérieur. Trois semaines de une, dans le Progrès. Le maire qui passait à la télé pour dire que la ville n'était plus sûre. Le procureur — Berthommier, vous ne l'avez pas connu, il est mort depuis — qui me convoquait tous les deux jours pour me demander où j'en étais, en tapotant son bureau du bout des doigts, comme s'il pouvait faire sortir un coupable du bois de la table à force de le marteler. Il ne voulait pas la vérité, commissaire. Il voulait un nom. Vite. »
+
+« Et vous lui avez donné celui de Reiller.
+
+— Vous me l'avez donné, corrigea-t-il, sans agressivité, avec une lassitude presque douce. Moi, j'avais des doutes. Je les ai même écrits — vous avez dû le voir, dans le dossier, ma note du 3 décembre. Une empreinte partielle, onze points, sur un support qui avait pris l'humidité de la salle de bains attenante. J'ai demandé une contre-expertise. On me l'a refusée, faute de temps, faute de budget, faute — disons-le — de volonté. Et vous étiez si sûre de vous. Si précise. Vous parliez de cette empreinte comme d'autres parlent d'un être aimé. J'ai fini par croire que mon doute n'était que l'inertie d'un homme trop vieux pour la certitude d'une jeune femme trop brillante. »
+
+Le silence, entre eux, dura. Un merle, quelque part dans le noisetier, se mit à chanter avec une insistance presque comique, comme s'il ignorait tout du poids de la conversation qu'il ponctuait.
+
+« Reiller est mort en 2023, dit enfin Delcasse, sans que Clara ait eu besoin de le demander. Vous le savez ?
+
+— Je sais qu'il est mort. Je ne sais pas comment.
+
+— Une chute. Dans l'escalier de la coursive, à la maison d'arrêt de Villefranche, un soir de mars, vers deux heures du matin. Seul. Pas de témoin — ou plutôt si, un codétenu, deux cellules plus loin, qui a entendu un bruit et rien de plus. L'enquête interne a conclu à un accident. Un malaise, peut-être, ou une chute banale dans le noir. » Il marqua un temps. « Il avait déposé, quinze jours plus tôt, une nouvelle demande de réexamen. Vous trouverez ça troublant, ou vous n'y verrez qu'une coïncidence de plus dans une vie qui n'en a pas manqué. Moi, je n'ai jamais su trancher. Je n'ai jamais eu ce luxe. »
+
+Clara nota, sur son carnet, la date approximative, le lieu, sans un mot, tandis que Ferrière, à côté d'elle, avait cessé tout mouvement, y compris celui, presque mécanique jusque-là, de faire tourner son stylo entre ses doigts.
+
+« Une dernière chose, commissaire Delcasse. Vous êtes-vous jamais demandé si quelqu'un, en dehors de nous, s'intéressait à ce dossier ? »
+
+Il la regarda longuement, et un soulagement ténu se déplaça sur son visage, celui d'un homme qui attendait cette question depuis des années sans jamais avoir eu l'occasion de la formuler à voix haute.
+
+« Il y a eu un homme, dit-il. Ça devait être 2017, ou peut-être 2018 — je ne saurais plus vous dire précisément, les années se ressemblent trop, à cet âge, pour qu'on les distingue avec certitude. Il s'est présenté un matin à mon ancien bureau, au commissariat central. J'étais encore en poste, alors, mais plus sur cette affaire — elle était close depuis longtemps, classée, jugée, enterrée. Il a demandé à me voir personnellement. Il a dit qu'il était de la famille de Reiller. Un cousin, je crois, ou quelque chose d'approchant — il n'a jamais été très précis sur ce point, et moi, je n'ai pas insisté, parce que je ne voulais pas rouvrir une plaie qui, à l'époque, me paraissait cicatrisée. »
+
+« À quoi ressemblait-il ?
+
+— Jeune. Enfin — plus jeune que moi, en tout cas, la trentaine peut-être. Le visage émacié, presque maladif, avec des yeux très clairs, très mobiles, qui semblaient tout enregistrer sans jamais rien laisser paraître en retour. Poli. D'une politesse presque déplacée, celle qu'on réserve normalement à un professeur ou à un juge. Et il parlait — comment dire — il parlait comme un livre. »
+
+« Comme un livre ?
+
+— Des phrases entières, construites, sans une hésitation, sans un de ces mots creux qu'on emploie tous pour se donner le temps de réfléchir. Comme s'il avait répété son discours, ou pire — comme s'il n'avait jamais eu besoin de le répéter, parce que c'était simplement ainsi qu'il pensait. Il voulait consulter le dossier. J'ai refusé. Ce n'était pas à moi de l'autoriser, de toute façon, et je le lui ai dit. Il est resté un instant sans bouger, à me regarder, avec une intensité que je n'ai jamais oubliée, puis il m'a remercié — remercié, alors que je venais de l'éconduire — et il est parti. Je n'ai jamais retenu son nom. Je ne suis même pas certain qu'il me l'ait donné en entier. »
+
+« Rien d'autre ? Une carte, un document, un contact ? »
+
+Delcasse secoua la tête, lentement, avec le regret sincère d'un homme qui aurait aimé pouvoir offrir davantage.
+
+« Rien. Juste ce visage. Il revient parfois, la nuit, quand je n'arrive pas à dormir — ce qui, depuis onze ans, m'arrive plus souvent que je ne le voudrais. »
+
+*
+
+Ils repartirent alors que le soleil, déjà bas, incendiait les vitres des pavillons alignés le long de l'impasse, donnant à cette banlieue sans grâce une beauté brève et menteuse, celle des lieux qui, l'espace d'un couchant, feignent d'ignorer tout ce qui s'y est joué.
+
+Ferrière conduisait en silence, les mains crispées sur le volant plus qu'il n'était nécessaire pour une route droite et vide. Clara regardait défiler, par la vitre, les jardins clos les uns après les autres, songeant aux chaussures alignées, pointes vers la porte, et à cet homme au visage émacié qui parlait comme un livre — et dont elle ne parvenait pas à décider s'il appartenait à son passé ou déjà, sans qu'elle l'eût encore su reconnaître, à son présent.
+
+Son téléphone vibra alors qu'ils atteignaient le périphérique. Un message de la section identité judiciaire, signé du nom du graphologue mandaté trois jours plus tôt pour examiner la signature réduite à l'initiale « P », retrouvée sur le registre de consultation non déclarée du 12 avril 2016.
+
+Elle le lut deux fois, debout dans l'habitacle immobile, arrêtée à un feu que Ferrière, distrait, avait failli griller.
+
+Premiers éléments de comparaison graphologique, à titre strictement provisoire : l'échantillon écarte, avec un degré de confiance suffisant pour orienter l'enquête, l'hypothèse d'une identité à laquelle nous nous attendions. Analyse complémentaire nécessaire avant conclusion définitive. Vous appelle demain.
+
+Elle resta un long moment sans rien dire, le téléphone toujours dans sa main, tandis que le feu passait au vert et que Ferrière, enfin, redémarrait.
+
+« Du nouveau ? » demanda-t-il.
+
+Elle ne répondit pas tout de suite. Dehors, la nuit commençait à monter des fossés, lente et patiente, comme une eau qu'on ne voit jamais venir avant qu'elle n'ait déjà tout recouvert.
+
+« Ce n'est pas qui on pensait, dit-elle enfin. »
