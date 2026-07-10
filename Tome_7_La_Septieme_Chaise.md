@@ -1563,7 +1563,7 @@ Castaing, en 2014, générait ses numéros de sécurité sociale factices selon 
 
 « Ça veut dire, dit Chastagner en posant le tableau devant Clara et Ferrière, qu'on peut désormais identifier tous les autres numéros fabriqués par Castaing sur la même période. Pas seulement celui de Prieur. Tous les autres. »
 
-Ils étaient sept, en tout, générés entre 2013 et 2015, attribués à sept identités différentes, dont quatre correspondaient déjà à des dossiers classés, des morts naturelles, des existences éteintes sans bruit. Il en restait trois, actives, dont l'une appartenait officiellement à un certain Antoine Reversat, cinquante et un ans, domicilié — selon les fichiers les plus récents — dans une petite commune du Haut-Bugey.
+Ils étaient sept, en tout, générés entre 2013 et 2015, attribués à sept identités différentes, dont quatre correspondaient déjà à des dossiers classés, des morts naturelles, des existences éteintes sans bruit. Il en restait trois, actives, dont l'une appartenait officiellement à un certain Vincent Aubanel, cinquante et un ans, domicilié — selon les fichiers les plus récents — dans une petite commune du Haut-Bugey.
 
 « Ce n'est peut-être rien, dit Ferrière.
 
@@ -1601,7 +1601,7 @@ Un véhicule inconnu avait été repéré, à deux reprises en trois jours, gar�
 
 La décision fut prise dans l'heure : Castellan et Élise Cordier, la seconde témoin, jusqu'alors surveillés séparément selon un protocole standard, furent transférés le soir même vers un site de protection renforcée, dont l'adresse ne figurerait plus, à partir de cet instant, que dans trois dossiers physiques conservés hors réseau. Aucun contact n'avait eu lieu, aucune approche directe, aucun coup de feu — seulement une voiture garée deux fois de trop, et la vigilance ordinaire d'un homme en faction qui avait fait, ce jour-là, tout simplement son travail. Le dossier, épais depuis un tome entier, fut refermé avec la sobriété administrative des choses bien faites : un tampon, une date, une ligne dans un rapport que personne, sans doute, ne relirait jamais avec l'attention qu'elle méritait.
 
-Restait Prieur. Restait cette faille minuscule dans le granit de sa légende, ce numéro décalé d'une unité qui portait désormais un nom — Antoine Reversat — et une adresse dans le Haut-Bugey.
+Restait Prieur. Restait cette faille minuscule dans le granit de sa légende, ce numéro décalé d'une unité qui portait désormais un nom — Vincent Aubanel — et une adresse dans le Haut-Bugey.
 
 Le soir, en reprenant le dossier saisi chez Castaing, Chastagner tomba sur une facture ancienne, froissée, coincée depuis des années entre deux gabarits de cartes grises, adressée non pas à Castaing lui-même mais réglée par lui, pour le compte d'un client dont l'identité de commande correspondait, une fois encore, au numéro décalé. Une facture de travaux de couverture, datée de 2015, pour la réfection d'une toiture — et l'adresse des travaux, tracée à l'encre presque effacée, ne correspondait à aucun des domiciles connus de Nathanaël Prieur, ni à aucun de ceux qu'on avait, en dix-neuf jours d'enquête, réussi à lui prêter.
 
