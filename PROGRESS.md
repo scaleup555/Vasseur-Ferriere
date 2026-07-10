@@ -4,7 +4,8 @@
 
 - Tomes 1 à 4 : mentionnés comme déjà écrits (non présents dans ce dépôt — à ajouter si les fichiers sources sont fournis).
 - Tome 5 — *La Treizième Passagère* : texte de référence intégral sauvegardé dans `reference/Tome_5_La_Treizieme_Passagere.txt` (≈47 200 mots, 24 chapitres) pour assurer la continuité narrative des tomes suivants.
-- Tome 6 — *Le Sixième Couvert* : **24 chapitres rédigés, relecture de cohérence effectuée** — en attente de la notation indépendante ≥ 9/10 avant clôture définitive. Fichier `Tome_6_Le_Sixieme_Couvert.md`.
+- Tome 6 — *Le Sixième Couvert* : **TERMINÉ ET FINALISÉ.** 24 chapitres, ≈ 73 000 mots, relu sur trois cycles. Noté 6,5/10 puis 7/10 par des agents indépendants successifs (jamais atteint le 9/10 visé — écart jugé structurel, voir détail plus bas) ; **finalisation validée explicitement par l'utilisateur à cette note**, sans exiger la réécriture structurelle qui aurait été nécessaire pour viser 9/10. Fichier source `Tome_6_Le_Sixieme_Couvert.md` ; export final `export/Tome_6_Le_Sixieme_Couvert.docx` (5,5×8,5", Times New Roman 12, interligne 1,15, titres centrés, alinéas), committé dans le dépôt et envoyé à l'utilisateur en pièce jointe.
+- **Tome 7** : à démarrer lors d'une prochaine session. Doit ouvrir directement sur la scène choc des toutes dernières lignes du tome 6 (nouvelle scène de crime au lac du Bourget, près de Chambéry — cinq corps autour d'une table dressée à l'identique de Roquemarine, carton nominatif portant cette fois le nom de Clara Vasseur elle-même) sans jamais résoudre ce cliffhanger dans un prologue. **Format à partir de ce tome : 12 chapitres (~38 400 mots visés)**, et non plus 24 — voir `CLAUDE.md`. Avant d'écrire, consulter et appliquer dès le premier jet la section « Leçons apprises des agents indépendants » de `CLAUDE.md` (éviter la répétition du ressort indice-leurre, faire apparaître l'antagoniste principal dès le premier tiers du tome, doser l'omnipotence de l'organisation adverse, varier l'écriture des scènes de tension dès la rédaction).
 
 ## Tome 6 — Le Sixième Couvert
 
@@ -97,12 +98,21 @@ Trois agents indépendants successifs, chacun lancé sans le contexte de rédact
 
 **Diagnostic honnête après trois cycles complets de relecture + notation :** les corrections de cohérence (chronologie, noms, âges) et les passes stylistiques (variation lexicale, réduction de tics) ont mesurablement amélioré le texte mais n'ont pas suffi à franchir la barre des 9/10, parce que la faiblesse dominante identifiée par les **trois** jurys est **structurelle**, pas lexicale : la répétition, tout au long des chapitres 5 à 20 (écrits par des sessions précédentes), du même ressort narratif (indice découvert → révélé comme un leurre posé par l'organisation), et une apparition trop tardive (ch. 22 seulement) d'Hugues Vallier en tant que personnage incarné plutôt que simple nom évoqué. Corriger cela demanderait une réécriture structurelle significative d'une bonne partie des chapitres 5 à 19 — remplacer plusieurs des révélations « c'était un piège » par de vraies percées obtenues par le travail propre de l'équipe, et introduire une présence réelle de Vallier dès le tiers ou la moitié du roman — ce qui dépasse largement une passe de relecture/correction et reviendrait à retravailler en profondeur des chapitres déjà validés par l'utilisateur au fil de plusieurs sessions antérieures.
 
-### Reste à faire
+### Décision de finalisation
 
-- **Le tome est complet (24/24 chapitres, ≈ 73 000 mots) et a été relu/corrigé sur trois cycles**, mais **n'a pas encore atteint le seuil honnête de 9/10** exigé par `CLAUDE.md` (dernière note obtenue : 7/10). Conformément à la méthodologie, le tome ne doit pas être considéré terminé tant que ce seuil n'est pas atteint.
-- **Décision à prendre avec l'utilisateur avant de poursuivre** : fermer l'écart de 7 à 9/10 nécessite une réécriture structurelle conséquente (retravailler le mécanisme répété des indices-leurres sur une dizaine de chapitres, et faire apparaître Vallier plus tôt dans le récit) — un chantier bien plus lourd qu'une relecture, qui mérite une validation explicite avant d'être engagé, notamment parce qu'il touche des chapitres écrits et déjà acceptés lors de sessions précédentes.
-- Export Word final : **non réalisable depuis cet environnement** — cette session tourne dans un conteneur cloud isolé sans accès au système de fichiers Windows local de l'utilisateur (`C:\Users\mchfalmi\...`). Le manuscrit sera fourni via le dépôt GitHub et/ou envoyé directement en pièce jointe ; l'utilisateur devra l'enregistrer lui-même à l'emplacement souhaité sur sa machine.
-- Une fois la note ≥ 9/10 obtenue, démarrer le tome 7 en ouvrant directement sur la scène choc des dernières lignes du tome 6 (nouvelle scène de crime au lac du Bourget, carton nominatif au nom de Clara Vasseur), sans jamais résoudre ce cliffhanger dans un prologue.
+L'utilisateur a explicitement validé la finalisation du tome 6 à la note de 7/10, sans exiger la réécriture structurelle qui aurait été nécessaire pour viser 9/10 (voir diagnostic honnête ci-dessus). **Le tome 6 est donc considéré terminé.** Les leçons tirées des trois cycles de notation ont été versées dans `CLAUDE.md` (section « Leçons apprises des agents indépendants ») pour que le tome 7 les applique dès la rédaction plutôt que de les découvrir à nouveau en relecture.
+
+### Reste à faire (tome 6)
+
+- ~~Notation indépendante ≥ 9/10~~ — **finalisé par décision utilisateur à 7/10.**
+- Export Word final : **réalisé.** Fichier `export/Tome_6_Le_Sixieme_Couvert.docx` généré (5,5×8,5 pouces, Times New Roman 12, interligne 1,15, titres centrés, alinéas en début de paragraphe/chapitre), committé dans le dépôt et envoyé à l'utilisateur en pièce jointe. L'utilisateur devra l'enregistrer lui-même à l'emplacement souhaité sur son poste Windows local, cette session cloud n'ayant pas accès à ce système de fichiers.
+
+### À faire (tome 7 — prochaine session)
+
+- Démarrer le tome 7 en ouvrant directement sur la scène choc des dernières lignes du tome 6 (nouvelle scène de crime au lac du Bourget, près de Chambéry, carton nominatif au nom de Clara Vasseur), sans jamais résoudre ce cliffhanger dans un prologue.
+- **Nouveau format : 12 chapitres (~38 400 mots visés)**, à raison d'environ 4 chapitres (~12 800 mots) par session, soit 3 sessions de rédaction.
+- Avant d'écrire le premier chapitre, relire la section « Leçons apprises des agents indépendants » de `CLAUDE.md` et construire un plan de tome qui, dès le départ : limite le ressort « indice-leurre » à 2-3 occurrences maximum sur l'ensemble du tome ; fait apparaître l'antagoniste principal en personne, avec des répliques, dès le premier tiers du tome ; dose la toute-puissance technique de l'organisation adverse (introduire au moins un échec/une limite concrète) ; varie consciemment le vocabulaire des scènes de tension dès la rédaction plutôt qu'en relecture ; répartit l'humour entre plusieurs personnages plutôt que sur un seul ressort comique récurrent.
+- Suivre la même méthodologie de relecture + notation indépendante ≥ 9/10 une fois les 12 chapitres écrits, en visant à atteindre effectivement ce seuil dès le premier cycle grâce aux leçons appliquées en amont, plutôt qu'à le découvrir a posteriori.
 
 ## Méthodologie (résumé)
 
