@@ -8,6 +8,8 @@ Ce dépôt contient la série de romans policiers en français mettant en scène
 
 En particulier, et sans que cela dispense de lire la section complète : **l'ouverture du tome (chapitre 1) doit être totalement choquante pour le lecteur** — un effet de sidération réel dès les premières pages, pas une simple mise en place. Le tome 6 (six couverts dressés pour cinq morts et un carton nominatif macabre) est le niveau minimum à égaler ou dépasser, pas un plafond. Une ouverture qui se contente d'installer une ambiance ou une inquiétude diffuse, sans choc concret et visuel dès les premières pages, est un échec de cette exigence.
 
+**Le titre de chaque nouveau tome doit lui aussi produire un effet immédiat.** Avant de l'arrêter, générer plusieurs propositions et ne retenir que celle qui est à la fois **hyper attractive, énigmatique, et qui déclenche un vrai réflexe de « Waouh, il faut absolument que je lise ça »** dès la couverture — pas un titre simplement correct ou descriptif. S'inspirer du meilleur de ce qui a déjà fonctionné dans la série (*La Treizième Passagère*, *Le Sixième Couvert*) : un détail concret, chiffré ou objet, rendu inquiétant par un simple déplacement de sens, plutôt qu'un titre abstrait ou générique du type « Le Secret du Jardinier ». Le titre doit lui-même fonctionner comme une énigme miniature liée à l'intrigue, dont le sens exact ne se révèle pleinement qu'en cours de lecture.
+
 ## Structure d'un tome
 
 - Chaque tome compte **24 chapitres** d'environ **3 200 mots** chacun (±300 mots tolérés selon les besoins narratifs d'une scène), pour un total visé d'environ **76 800 mots**. Ce format ne change pas d'un tome à l'autre.
