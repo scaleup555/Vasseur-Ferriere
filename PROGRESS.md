@@ -5,7 +5,7 @@
 - Tomes 1 à 4 : mentionnés comme déjà écrits (non présents dans ce dépôt — à ajouter si les fichiers sources sont fournis).
 - Tome 5 — *La Treizième Passagère* : texte de référence intégral sauvegardé dans `reference/Tome_5_La_Treizieme_Passagere.txt` (≈47 200 mots, 24 chapitres) pour assurer la continuité narrative des tomes suivants.
 - Tome 6 — *Le Sixième Couvert* : **TERMINÉ ET FINALISÉ.** 24 chapitres, ≈ 73 000 mots, relu sur trois cycles. Noté 6,5/10 puis 7/10 par des agents indépendants successifs (jamais atteint le 9/10 visé — écart jugé structurel, voir détail plus bas) ; **finalisation validée explicitement par l'utilisateur à cette note**, sans exiger la réécriture structurelle qui aurait été nécessaire pour viser 9/10. Fichier source `Tome_6_Le_Sixieme_Couvert.md` ; export final `export/Tome_6_Le_Sixieme_Couvert.docx` (5,5×8,5", Times New Roman 12, interligne 1,15, titres centrés, alinéas), committé dans le dépôt et envoyé à l'utilisateur en pièce jointe.
-- **Tome 7 — *La Septième Chaise* : EN COURS.** 12 / 24 chapitres écrits (≈ 32 600 mots / 76 800 visés) lors de cette session. Ouvre directement sur la scène choc des toutes dernières lignes du tome 6 (nouvelle scène de crime à la villa Bellerive, lac du Bourget, près de Chambéry). Fichier source `Tome_7_La_Septieme_Chaise.md`. Reste à écrire : chapitres 13 à 24 lors d'une prochaine session, puis relecture ligne par ligne, notation indépendante ≥ 9/10, export Word. Voir section détaillée plus bas.
+- **Tome 7 — *La Septième Chaise* : 24 / 24 chapitres écrits (≈ 66 200 mots, en dessous des ~76 800 visés — voir remarque honnête plus bas), relecture ligne par ligne de cette session effectuée (tics bannis, doublons, collision de noms). Ouvre directement sur la scène choc des toutes dernières lignes du tome 6 (nouvelle scène de crime à la villa Bellerive, lac du Bourget, près de Chambéry) et se referme sur une nouvelle scène choc (Strasbourg, tournoi d'échecs) amorçant le tome 8. Fichier source `Tome_7_La_Septieme_Chaise.md`. Reste à faire : notation indépendante finale ≥ 9/10 (agent sans contexte de rédaction), corrections éventuelles, export Word. Voir section détaillée plus bas.
 
 ## Tome 7 — La Septième Chaise
 
@@ -78,14 +78,55 @@ Deux agents indépendants, chacun sans connaissance des notes de production (man
 
 **Reste noté par les deux jurys comme non corrigé à ce stade, à surveiller dans les chapitres 13-24** : absence encore d'un échec ou d'une limite concrète opposée à Prieur (toute-puissance à doser, cf. leçon du tome 6) ; empilement de coïncidences autour de la famille Reversat, à ne pas accentuer davantage ; la disparition de Prieur sans aucune trace administrative devra recevoir une explication vérifiable plutôt que rester un simple artifice romanesque.
 
+### Session 2 — chapitres 13 à 24 (tome porté à 24/24, terminé)
+
+Avant de reprendre l'écriture, deux incohérences réelles laissées par la session 1 ont été corrigées :
+- **Victimes de la villa Bellerive** : le ch. 1 laissait entendre que les cinq morts étaient Henri, Corinne, Mathieu et Anouk Vidalenc plus Simon Delacroix, alors que Mathieu est explicitement vivant et interrogé dès le ch. 3 (endettement). Corrigé : les cinq victimes sont Henri et Corinne Vidalenc, leur fille Anouk et son fiancé **Vincent Rambert** (nouveau personnage, 36 ans), et Simon Delacroix. Mathieu Vidalenc n'assistait pas au dîner (retenu à Lyon), ce qui est désormais précisé dès le ch. 1.
+- **Chronologie de Prieur** : la dernière phrase du ch. 12 évoquait « plus d'un quart de siècle » de patience, contredisant les onze ans établis partout ailleurs. Corrigé en « onze ans ».
+
+| Chapitre | Titre | Mots (approx.) |
+|---|---|---|
+| 13 | Ce que le dossier Chambon contenait | ~3 280 |
+| 14 | Le tuteur sans nom | ~3 110 |
+| 15 | L'enfant qui n'a pas grandi | ~3 080 |
+| 16 | L'homme au duplicata | ~2 990 |
+| 17 | Le bouquet de Castellan | ~2 895 |
+| 18 | Le rendez-vous de la rue Sainte-Hélène | ~2 960 |
+| 19 | Le sang de Villeurbanne | ~2 650 |
+| 20 | Le poids des aveux | ~2 420 |
+| 21 | L'otage | ~2 630 |
+| 22 | La dernière pièce | ~2 450 |
+| 23 | Ce qu'on doit aux morts | ~2 570 |
+| 24 | Le huitième roi | ~2 480 |
+
+**Total du tome (24/24 chapitres) : ≈ 66 200 mots.**
+
+**Remarque honnête sur la longueur** : le tome reste en dessous de l'objectif de ~76 800 mots (environ 86 % de la cible), malgré plusieurs passes d'allongement volontaire sur quasiment chaque chapitre de cette session. Les chapitres 9-12 (session 1) et 19-20, 22-24 (session 2) sont les plus courts. Ce n'est pas un sous-développement du contenu narratif — chaque exigence de genre est couverte — mais un déficit de longueur pure qui pourrait, si l'utilisateur le souhaite dans une session future, être comblé par un enrichissement ciblé de ces chapitres plutôt que par un ajout de contenu superflu.
+
+**Personnages/éléments nouveaux introduits en session 2 (à réutiliser à l'identique) :**
+- **Vincent Rambert**, 36 ans, fiancé d'Anouk Vidalenc, victime de la villa Bellerive (voir correction ci-dessus).
+- **Commandant Escudier**, supérieur hiérarchique de Clara lors de sa toute première enquête (affaire Chambon, 2014), aujourd'hui retraité à Vaux-en-Beaujolais.
+- **Association Trait d'Union**, tutorat bénévole à Lyon (14 rue Bugeaud), dirigée par **Brigitte Aumonier** ; **Mme Perrin**, éducatrice du foyer Sainte-Agnès (Oyonnax) où Prieur, alors enfant, a été placé.
+- **Identité réelle de Nathanaël Prieur : Yann Brossier**, né en 1985 à Oyonnax (Ain), fils de Régine Brossier (morte quand il avait 7 ans), placé en foyer, en fugue à 16 ans (2001) ; a usurpé, en 2013, l'identité administrative d'un nourrisson réellement né et mort en 1985 à Villeurbanne sous le nom de Nathanaël Prieur (acte de naissance authentique obtenu frauduleusement). Cousine éloignée localisée par recherche généalogique judiciaire : **Sylviane Brossier**, Bourg-en-Bresse. *(Attention : le nom de famille « Brossier » a été choisi précisément pour éviter toute collision avec Renaud **Castellan**, personnage déjà présent depuis le tome 6 — ne jamais utiliser « Castel » ou un nom proche de Castellan pour ce personnage.)*
+- **Marc Oberlin**, 44 ans, ancien militaire suisse, agent de Kratos Protection International chargé de surveiller Prieur (et non de l'assister) ; capturé ch. 16, révèle que Kratos et Prieur suivaient deux logiques totalement distinctes (financière pour Kratos/Foncière du Bourget, personnelle pour Prieur) qui ont convergé par hasard sur la famille Vidalenc.
+- **Docteure Inès Pellisson**, spécialiste en biomécanique des chutes, dont la contre-expertise (ch. 19) établit que la mort d'Aurélie Chambon résulte d'une poussée délibérée et non d'une simple tentative de retenue — élément clé qui contredit la confession édulcorée de Prieur.
+- **Second grand twist du tome (ch. 13-16, avec vérité complète ch. 22)** : Nathanaël Prieur n'a pas seulement étudié le dossier Chambon en 2014 — il était l'auteur de la mort d'Aurélie Chambon en 2014 (l'affaire même qui a lancé la carrière de Clara), sous sa véritable identité de Yann Brossier, tuteur bénévole de la victime. Il a usurpé l'identité d'un nourrisson mort pour effacer toute trace de son passé et a passé onze ans à observer Clara, la seule à avoir jamais soupçonné la vérité sur cette mort.
+- **Limite concrète de l'antagoniste (conformément à la leçon du tome 6/session 1)** : Prieur est blessé par balle à l'épaule lors de la confrontation du ch. 18 (rue Sainte-Hélène) et échappe de justesse à la mort ; cette blessure le rend traçable, vulnérable, et conduit directement à sa capture ch. 22. Ce n'est pas un homme omnipotent : sa capture résulte d'un vrai travail d'enquête (recherche généalogique ADN, archives d'état civil, expertise biomécanique) et d'une erreur humaine de sa part (prise de risque en assistant en personne au procès Vallier, ch. 20), pas d'un coup de chance des enquêteurs.
+- **Résolution des fils ouverts** : mobile financier Kratos/Alderney Participations résolu comme logique distincte (ch. 16) ; agent genevois identifié et capturé (Oberlin, ch. 16) ; protection de Castellan et Cordier : attaque déjouée contre Castellan (ch. 17, commanditée par Solange Vergnes prise de panique, qui est ensuite arrêtée) ; dossier Louise Fantin (1994) officiellement rouvert et corrigé (ch. 23) ; procès Vallier conclu par une condamnation à perpétuité (ch. 23).
+- **Clôture du tome (ch. 24) et amorce du tome 8** : plus d'un mois après le retour de Clara à Paris, elle reçoit un colis anonyme contenant un roi d'échecs en bois clair (les trois pièces précédentes — cavalier, reine, roi noir — étaient toutes en bois sombre) accompagné d'une lettre d'une écriture différente de celle de Prieur, révélant qu'il « ne jouait pas seul » (payant ainsi le fil laissé en suspens depuis le ch. 11). Au même moment, Ferrière l'appelle : un massacre vient d'être découvert à Strasbourg, lors d'un tournoi international d'échecs — le champion de France et sept autres personnes, disposés sur un échiquier géant, avec une case centrale vide et un carton au nom de Clara. Un jeu d'échecs complet compte 32 pièces ; seules quatre sont à ce jour identifiées. Cliffhanger volontairement non résolu pour le tome 8, dont le titre pressenti est *Le Huitième Roi*.
+
+### Contrôle de cohérence effectué par la session d'écriture elle-même (avant notation indépendante)
+
+- Recherche systématique des tics bannis (`sentant [X]`, `malgré elle/lui` en fin de phrase, `frisson/décharge` + nuque/échine, `quelque chose qui ressemblait à`, `certitude glaciale`, `pas X, mais Y`) sur l'intégralité du fichier ch. 1-24, pas seulement les nouveaux chapitres. Occurrences réelles trouvées et corrigées dans les chapitres écrits cette session, plus deux résidus dans les chapitres de la session 1 (ch. 8) corrigés au passage.
+- Réduction du nombre d'antithèses « pas X, mais Y » sur les chapitres 13-24 : ramenées à seulement deux occurrences réellement structurantes (le deuil de l'enfant que Prieur aurait pu être, ch. 15 ; la confession de Prieur sur la nature de son attachement à Aurélie, ch. 18), le reste reformulé.
+- Vérification de l'absence de doublons de paragraphes et de sauts de scène (`*`) dupliqués sur l'ensemble du fichier ; un doublon d'astérisque trouvé au ch. 13 (introduit par cette session) et corrigé.
+- Vérification des collisions de noms propres entre tous les personnages du tome 7 et ceux des tomes 5 et 6 : collision réelle détectée et corrigée (« Castel », patronyme d'origine de Prieur, trop proche de « Castellan », personnage du tome 6 toujours actif dans ce tome — renommé « Brossier »).
+
 ### Reste à faire (tome 7)
 
-- Écrire les chapitres 13 à 24 (~12 chapitres, viser ~38 400 mots, en comblant si possible l'écart de longueur observé sur les chapitres 8-12 de cette session).
-- Développer le second grand twist majeur du tome autour de l'identité réelle de Prieur avant 2014 et de son lien avec l'affaire Aurélie Chambon (2014) — à situer plutôt en deuxième moitié du tome, sans le confondre avec le premier grand twist déjà posé (ch. 9-10, le contrat Kratos/Argonaute).
-- Localiser et confronter Prieur, actuellement en fuite (disparu ch. 11).
-- Résoudre les fils ouverts : mobile financier Alderney Participations/Kratos (a-t-il un lien direct avec Prieur ou s'agit-il de deux logiques distinctes qui ont convergé par hasard sur la famille Vidalenc, comme envisagé ch. 7 ?) ; identité et sort de l'agent genevois aperçu ch. 10 ; protection de Renaud Castellan et Élise Cordier (tome 6, toujours sous protection).
-- Une fois les 24 chapitres écrits : relecture ligne par ligne, notation indépendante ≥ 9/10 (agent indépendant, sans le contexte de rédaction), export Word final (5,5×8,5", Times New Roman 12, interligne 1,15, titres centrés, alinéas) dans `export/Tome_7_La_Septieme_Chaise.docx`.
-- Fin de tome : annonce choc amorçant le tome 8, conformément à la méthodologie.
+- Notation indépendante finale ≥ 9/10 (agent indépendant, sans le contexte de rédaction) — **à faire**.
+- Corrections éventuelles en fonction du retour du jury, puis nouvelle notation si nécessaire.
+- Export Word final (5,5×8,5", Times New Roman 12, interligne 1,15, titres centrés, alinéas) dans `export/Tome_7_La_Septieme_Chaise.docx`, committé et envoyé à l'utilisateur — **à faire**. L'utilisateur devra l'enregistrer lui-même sur son poste Windows local (`C:\Users\...`), cette session cloud n'ayant pas accès à ce système de fichiers.
 
 ## Tome 6 — Le Sixième Couvert
 
