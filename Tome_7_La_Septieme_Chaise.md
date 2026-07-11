@@ -1865,3 +1865,92 @@ Personne, ce soir-là, ne trouva la force de plaisanter comme à l'accoutumée �
 « Nous l'avons fait, dit-il, levant son verre d'un geste sobre que tous imitèrent presque aussitôt. Pas parfaitement. Pas sans blessures, ni physiques ni autres. Mais nous l'avons fait, et Aurélie Chambon, après onze ans de silence, va enfin obtenir la vérité qu'elle mérite. »
 
 Clara leva son propre verre en dernier, le regard perdu un instant vers la fenêtre de l'auberge, au-delà de laquelle les collines du Lyonnais s'assombrissaient déjà sous les premières étoiles du soir, et songea que cette victoire, aussi réelle et aussi durement acquise fût-elle, ne ressemblait en rien à celles qu'elle avait pu connaître au cours de sa carrière — non pas un triomphe sur un ennemi anonyme, mais la fin douloureuse d'une histoire qui l'avait, sans qu'elle le sache jamais, accompagnée depuis le tout premier jour de sa vie professionnelle.
+
+
+Chapitre 23 — Ce qu'on doit aux morts
+
+Prieur survécut à son opération d'urgence, pratiquée dans la nuit suivant son transfert à l'hôpital Édouard-Herriot, et sortit du bloc opératoire dans un état que les médecins qualifièrent de « stable mais fragile » — une formule que Clara trouva, en l'entendant, étrangement fidèle à l'homme lui-même, dont l'existence tout entière semblait s'être bâtie sur cet équilibre précaire entre la survie et l'effondrement. Placé sous surveillance policière renforcée dès sa sortie de réanimation, il ne prononça, au cours des jours suivants, plus un seul mot sur les événements de la fromagerie de Sainte-Consorce, laissant à ses avocats commis d'office le soin de préparer une défense dont l'issue, songea Clara, importerait moins, en définitive, que la vérité déjà établie par l'enquête.
+
+Le dossier Aurélie Chambon fut officiellement rouvert dans la semaine suivante, requalifié d'accident en homicide volontaire sur la base conjointe de la confession partielle obtenue à la fromagerie et de l'expertise biomécanique de la docteure Pellisson. La mère d'Aurélie, retrouvée après plusieurs années de silence dans une maison de retraite de la banlieue lyonnaise, reçut la nouvelle avec une dignité que Clara, chargée de la lui annoncer en personne, ne devait jamais oublier.
+
+« Onze ans que j'attendais qu'on me dise enfin la vérité, dit la vieille femme, ses mains tremblantes serrant celles de Clara avec une force inattendue. Onze ans qu'on me répétait qu'elle s'était donné la mort, alors que je savais, moi, au fond de moi, que ma fille n'aurait jamais fait une chose pareille. Merci, commissaire. Merci d'avoir cru, il y a onze ans, ce que personne d'autre n'a voulu croire. »
+
+*
+
+Clara n'oublia pas, au milieu de cette clôture judiciaire tournée tout entière vers Aurélie Chambon, le premier fil qu'elle avait tiré à son arrivée à la villa Bellerive — celui de Louise Fantin, la jeune gouvernante noyée dans le lac du Bourget trente et un ans plus tôt, dont la mort avait été classée à la hâte pour protéger la respectabilité d'une famille influente. Elle demanda, avant de quitter définitivement Chambéry, que le dossier de 1994 soit officiellement rouvert au regard des éléments recueillis au fil de l'enquête — le témoignage tardif d'Odette Mercier, ancienne femme de chambre ayant vu Édouard Vidalenc courir vers les communs la nuit du drame, et la confession de l'adjudant honoraire Roger Peyssac sur la promotion accélérée obtenue en échange d'une clôture rapide.
+
+« Le parquet de Chambéry a accepté de rouvrir l'instruction, confirma Farge, quelques jours plus tard, en apportant elle-même la nouvelle à Clara avec une satisfaction manifeste. Édouard Vidalenc étant décédé depuis longtemps, aucune poursuite pénale ne sera plus possible contre lui. Mais le rapport de 1994 sera officiellement corrigé, et la famille de Louise Fantin, retrouvée dans le Jura, recevra une reconnaissance officielle de l'erreur commise à l'époque. Ce n'est pas une réparation complète, commissaire. Mais c'est plus que ce que cette famille espérait encore recevoir, après tant d'années de silence.
+— Ce sera suffisant, dit Clara, avec une conviction sereine. La vérité ne répare jamais tout, Farge. Mais elle vaut toujours mieux que le silence qui l'a précédée. »
+
+Quant à Peyssac, dont l'âge et la fragilité rendaient toute poursuite pénale ni réaliste ni véritablement souhaitable aux yeux du parquet, il reçut la visite d'un simple rappel administratif à ses obligations de témoin — une sanction symbolique, mais dont Farge rapporta qu'il l'avait accueillie, dans sa maison de retraite d'Aix-les-Bains, avec un soulagement presque plus vif que celui d'une absolution complète.
+
+*
+
+Le procès de Hugues Vallier s'acheva, deux semaines plus tard, par une condamnation à la réclusion criminelle à perpétuité assortie d'une période de sûreté de vingt-deux ans, une sentence que le parquet général qualifia, dans un communiqué prudent, de « à la hauteur de la gravité exceptionnelle des faits ». Solange Vergnes, extradée depuis la Suisse quelques jours après son interpellation manquée à l'aéroport de Genève, plaida coupable de complicité et de blanchiment, obtenant en échange une peine allégée qui ne satisfit entièrement personne au sein de l'équipe, mais que Clara accueillit néanmoins comme une clôture judiciaire acceptable d'un dossier qui avait, déjà, suffisamment accaparé les ressources de la justice.
+
+Le verdict fut annoncé lors d'une conférence de presse conjointe du parquet et du ministère de l'Intérieur, à laquelle Clara assista aux côtés du procureur de Chambéry — celui-là même dont la gaffe involontaire, des semaines plus tôt, avait confirmé malgré lui que le nom de Clara figurait sur l'un des cartons de la villa Bellerive. L'homme, visiblement déterminé à racheter cette maladresse initiale, avait préparé sa déclaration avec un soin méticuleux, relisant ses notes à voix basse jusqu'à l'ultime seconde précédant sa prise de parole.
+
+Il s'en sortit, cette fois, avec une dignité presque exemplaire — jusqu'à ce qu'une journaliste, en fin de conférence, lui demande s'il souhaitait ajouter un mot personnel sur le courage de la commissaire Vasseur, et qu'il réponde, dans un élan d'enthousiasme mal maîtrisé, que Clara avait fait preuve d'un « sang-froid absolument incroyable, digne des plus grands enquêteurs de fiction » — une comparaison qui, reprise en boucle par les réseaux sociaux dans les heures suivantes, valut à Clara le surnom affectueux mais tenace de « la Maigret des Alpes » pendant plusieurs semaines, à son plus grand embarras et au plus grand amusement de toute son équipe.
+
+« Je crois que je préférais encore le premier scandale, commissaire, dit Ambrosini, hilare, en lui montrant son téléphone couvert de messages moqueurs de la part de collègues de tout le pays. Au moins, celui-là ne vous suivait pas jusque dans les couloirs du commissariat de Draguignan.
+— Je vous interdis formellement de m'appeler ainsi devant les stagiaires, Ambrosini, dit Clara, mi-amusée mi-exaspérée, ce qui ne fit naturellement qu'encourager le capitaine à répéter le surnom à la moindre occasion pour le reste de la semaine. »
+
+Renaud Castellan et Élise Cordier, tous deux libérés de leur dispositif de protection policière une fois la menace définitivement écartée, organisèrent conjointement, à l'initiative spontanée d'Élise Cordier, un dîner de remerciement auquel toute l'équipe fut conviée — occasion pour Poivre, le labrador facétieux d'Élise, de renouer avec Ferrière une complicité culinaire dont ce dernier jura, cette fois, de se tenir prudemment éloigné dès l'entrée du salon.
+
+« Je préfère rester debout toute la soirée, dit-il, en riant, plutôt que de m'approcher à nouveau d'un plat chaud en présence de ce chien.
+— Une sage décision, lieutenant, dit Élise Cordier, en lui servant néanmoins un verre de vin avec une affection sincère. Mais je crains que Poivre n'ait déjà repéré votre position depuis la cuisine. »
+
+*
+
+Mathieu Vidalenc, informé en détail de la conclusion de l'enquête lors d'un entretien que Clara tint à mener elle-même malgré son emploi du temps chargé, accueillit la nouvelle avec un mélange de soulagement et d'une tristesse qui, elle le savait, ne le quitterait sans doute jamais tout à fait.
+
+« Il paiera pour ce qu'il a fait ? demanda-t-il, une dernière fois, comme s'il avait besoin d'entendre cette confirmation formulée à voix haute plutôt que lue dans un communiqué de presse.
+— Il paiera, dit Clara, avec une conviction qu'elle savait désormais fondée sur des preuves irréfutables plutôt que sur une simple promesse d'espoir. Le procès s'ouvrira dans les prochains mois, monsieur Vidalenc. Vous serez tenu informé de chaque étape, comme je vous l'avais promis. »
+
+Il la remercia, avec une émotion contenue, avant d'ajouter, presque timidement : « J'ai contacté Antoine Reversat, la semaine dernière. Le demi-frère de mon père. Nous nous sommes rencontrés à Aix, pour un café. » Un sourire fragile, mais réel, traversa son visage marqué par le deuil. « Il ne reste peut-être plus grand-chose de ma famille, commissaire. Mais il en reste, malgré tout, quelque chose. »
+
+*
+
+Antoine Reversat lui-même, dont l'atelier de restauration d'Annecy avait retrouvé, au fil des semaines, une clientèle sereine une fois son innocence pleinement établie, envoya à Clara une lettre manuscrite qu'elle conserva longtemps parmi ses papiers personnels, davantage que dans le dossier officiel de l'enquête. « Je ne pensais pas, à mon âge, retrouver une famille que je croyais définitivement perdue, écrivait-il. Vous n'y êtes pour rien directement, commissaire, mais sans votre enquête, je n'aurais jamais su que ce fauteuil que j'avais restauré, sans le savoir, appartenait à des gens de mon propre sang. Il y a une justice étrange dans cette histoire, quelque part entre l'horreur et la grâce, que je ne sais pas encore comment nommer. » Élodie Charvet, la couturière de Bourg-en-Bresse, lui adressa à son tour un mot bref mais chaleureux, accompagné d'un carré de tissu brodé de ses initiales — un geste de réconciliation avec un métier qu'un inconnu avait, l'espace de quelques semaines terrifiantes, détourné à son insu.
+
+*
+
+Ce fut Mme Perrin, l'ancienne éducatrice du foyer Sainte-Agnès, qui offrit à Clara, quelques jours plus tard, la conclusion la plus inattendue de toute cette affaire, en lui téléphonant de sa propre initiative après avoir appris, par la presse, l'issue de l'enquête.
+
+« Je voulais vous remercier, commissaire, dit-elle, d'une voix émue. Pas pour avoir arrêté Yann — je ne sais toujours pas comment je dois me sentir à ce sujet, et je crois que je ne le saurai jamais tout à fait. Mais pour avoir pris le temps de comprendre qui il avait été, avant de devenir ce qu'il est devenu. Trop de gens, dans ce métier, se contentent du monstre qu'on leur présente à la fin. Vous avez cherché l'enfant qu'il y avait avant. Cela compte, commissaire. Même si cela ne change rien à ce qu'il a fait. »
+
+Clara, touchée par cet appel plus qu'elle ne l'aurait imaginé, lui promit de la tenir informée du déroulement du procès à venir — une promesse qu'elle savait, cette fois encore, en mesure de tenir pleinement.
+
+*
+
+De retour à Chambéry pour une dernière semaine de finalisation administrative avant le retour de l'équipe vers leurs affectations respectives, Clara profita d'une soirée plus calme pour réunir, une dernière fois avant la dispersion, l'ensemble de ceux qui avaient traversé avec elle cette épreuve — Ferrière, Farge, Ambrosini, Chastagner et Nicolas, Lanvin, Sorel de passage entre deux missions.
+
+« Je voudrais proposer un toast, dit Ambrosini, se levant avec une solennité que son verre de vin bon marché contredisait quelque peu. À Lanvin, dont le zèle protocolaire nous a valu vingt-quatre combinaisons de ski et une réputation durable auprès du fournisseur de gilets pare-balles de Savoie. »
+
+Lanvin, rougissant sous les rires généraux, tenta une réplique digne qui ne fit qu'amplifier l'hilarité collective. « Ces combinaisons ont parfaitement isolé du froid lors de la surveillance nocturne du tribunal, capitaine. Je maintiens que c'était un choix judicieux, à défaut d'être le bon.
+— À Farge, poursuivit Ambrosini, dont le courage sous la contrainte d'un homme armé restera, je l'espère, un exemple cité dans tous les futurs manuels de formation.
+— À Ferrière, continua Farge à son tour, dont la daube provençale demeure, à ce jour, l'adversaire le plus redoutable qu'il ait affronté au cours de cette enquête. »
+
+Ferrière leva les mains en signe de reddition amusée, et le rire qui parcourut la tablée, sincère et libérateur, porta en lui toute la légèreté que ces semaines d'horreur leur avaient si longtemps refusée.
+
+Chastagner, qui avait passé une bonne partie du repas silencieux aux côtés de Nicolas, leva à son tour son verre, la voix teintée d'une émotion qu'il maîtrisait habituellement mieux devant l'équipe. « Je voudrais porter un toast à quelque chose de plus sérieux, dit-il, avant de se raviser presque aussitôt avec un sourire désarmé. Non, en fait, je crois que nous avons eu assez de sérieux ces dernières semaines. Je porte plutôt un toast à Nicolas, dont les tartes ont probablement sauvé plus de vies, sur cette enquête, que n'importe quel gilet pare-balles.
+— Je prends note de cette reconnaissance officielle, dit Nicolas, en riant, et je compte bien la faire valoir la prochaine fois que Loïc essaiera de m'empêcher de venir vous rendre visite en pleine opération sensible. »
+
+Sorel, arrivé en cours de soirée après avoir bouclé les derniers rapports administratifs de l'opération de Sainte-Consorce, se joignit à la tablée avec un sourire rare chez cet homme habituellement si sobre dans ses manifestations d'émotion. « Je n'avais pas dirigé une opération aussi éprouvante depuis des années, dit-il, en acceptant le verre que lui tendait Farge. Mais je n'avais pas non plus, depuis longtemps, travaillé avec une équipe capable d'un tel dévouement collectif. Ce fut un honneur, commissaire. Sincèrement. »
+
+Clara le remercia d'un signe de tête ému, incapable, pour une fois, de trouver les mots à la hauteur de la gratitude qu'elle éprouvait envers chacun des visages réunis autour de cette table.
+
+Clara, observant son équipe rassemblée dans cette dernière soirée savoyarde, sentit monter en elle une gratitude qu'elle ne chercha pas à formuler à voix haute, préférant la laisser simplement irradier dans le sourire qu'elle offrit, tour à tour, à chacun de ceux qui l'avaient accompagnée jusqu'au bout de cette traque — sachant, sans pouvoir se l'expliquer entièrement, que cette famille recomposée par l'épreuve ne se dissoudrait jamais tout à fait, quoi que l'avenir leur réserve encore.
+
+*
+
+Elle rentra à Paris trois jours plus tard, un vendredi soir, par le premier train qu'elle avait pu trouver après la clôture des dernières formalités administratives de l'enquête. Samir l'attendait sur le quai de la gare de Lyon, Dostoïevski dans son panier de transport posé à ses pieds, arborant une pancarte manuscrite dont le message — « Bienvenue à la commissaire la plus tenace de France » — lui arracha un rire si sincère qu'elle sentit, pour la première fois depuis des semaines, la tension accumulée quitter enfin ses épaules tout entières.
+
+« Tu es ridicule, dit-elle, en se jetant dans ses bras avec une émotion qu'elle ne chercha nullement à contenir davantage.
+— Je sais, dit-il, en la serrant contre lui avec une force qui en disait plus long que n'importe quelle déclaration. Mais tu es rentrée. C'est tout ce qui compte, ce soir. »
+
+Dostoïevski, extrait de son panier avec les précautions d'usage, se frotta contre les jambes de Clara avec un empressement qui trahissait, à sa manière féline, la même joie que celle qui illuminait le visage de Samir — et Clara, portant enfin son chat dans ses bras tandis qu'ils quittaient tous trois le quai bondé, songea que c'était précisément pour des instants aussi simples que celui-ci qu'elle continuait, malgré tout, d'affronter chaque nouvelle horreur que ce métier lui imposait.
+
+Ce soir-là, avant de s'endormir enfin dans son propre lit pour la première fois depuis près d'un mois, elle reçut un dernier message de Farge, resté fidèle à leur habitude désormais bien établie d'échanger, chaque soir, une brève nouvelle de la journée. « Le roi d'échecs a été formellement authentifié par le laboratoire, disait le message. Même atelier lyonnais, même bois, datation compatible avec les trois autres pièces. Trente-deux pièces au total dans un jeu complet, commissaire. Nous n'en avons trouvé que trois. Dormez bien, malgré tout. »
+
+Clara reposa son téléphone sur la table de chevet, et s'endormit, cette nuit-là, avec l'image tenace de ce roi de bois sombre encore emballé dans son papier de soie, se demandant, sans pouvoir chasser tout à fait cette pensée avant que le sommeil ne l'emporte enfin, ce qu'il adviendrait des vingt-neuf pièces qui manquaient encore à l'appel.
