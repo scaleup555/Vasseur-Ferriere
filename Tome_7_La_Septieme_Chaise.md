@@ -1100,3 +1100,110 @@ Le silence qui suivit cette phrase ne fut rompu que par la sonnerie discrète du
 « Le laboratoire de Lyon vient de confirmer la faisabilité du profil, dit-il lentement, en choisissant ses mots avec un soin manifeste. Résultat définitif attendu sous soixante-douze heures. » Il marqua une pause, son regard croisant celui de Clara avec une intensité inhabituelle chez lui. « Mais ils ont aussi confirmé autre chose, en vérifiant leurs propres registres de conservation. Quelqu'un a consulté ce dossier d'archives, en personne, au greffe de Lyon, voilà exactement quatre ans. Sous une autorisation de recherche universitaire délivrée au nom du Docteur Nathanaël Prieur. »
 
 Dehors, la neige continuait de tomber sur le lac immobile, et Clara, en fixant ce nom désormais familier inscrit noir sur blanc dans un registre de consultation, comprit avec une certitude glacée qu'elle n'avait plus besoin d'attendre le résultat du laboratoire pour savoir ce que celui-ci allait confirmer : l'homme qu'ils traquaient n'avait jamais cessé, en onze années, de revenir contempler la scène de son premier crime — et elle, sans le savoir, en avait fait depuis le premier jour la gardienne silencieuse.
+
+
+Chapitre 14 — Le tuteur sans nom
+
+Mathieu Vidalenc se présenta au commissariat sans rendez-vous, un peu avant huit heures du matin, le visage marqué par des nuits que le sommeil ne semblait plus traverser, et demanda à voir Clara avec une insistance que le planton de garde jugea suffisamment sincère pour l'autoriser, exceptionnellement, à patienter dans le couloir plutôt que dans la rue glacée.
+
+« Je ne viens pas vous parler de mes dettes, commissaire, dit-il d'emblée, une fois assis face à elle, tordant entre ses doigts un gobelet de café qu'il ne buvait pas. Je sais que vous avez déjà tout vérifié à ce sujet, et que vous savez désormais que je n'ai rien à voir avec ce qui est arrivé à ma famille. Je viens vous parler d'autre chose. De quelque chose qui me ronge depuis onze jours et que je n'ai réussi à dire à personne, pas même à mon psychiatre. »
+
+Il marqua une longue pause, les mâchoires serrées par un effort visible. « Je devais dîner avec eux, ce soir-là. J'avais annulé au dernier moment, pour un rendez-vous professionnel qui, à la réflexion, aurait très bien pu attendre le lendemain. Je me suis disputé avec mon père au téléphone, une heure avant l'heure du dîner, à propos de cette histoire de succession que vous connaissez déjà. Je lui ai raccroché au nez, commissaire. C'est la dernière chose que je lui ai dite. Et je suis vivant, aujourd'hui, uniquement parce que j'étais trop en colère contre lui pour venir manger à sa table. »
+
+Clara le laissa pleurer sans l'interrompre, reconnaissant dans ce désarroi la forme particulière de culpabilité qu'elle avait déjà observée chez d'autres survivants, au fil de sa carrière — cette conviction irrationnelle mais tenace que l'absence, aussi fortuite fût-elle, constituait en elle-même une forme de trahison.
+
+« Vous n'êtes coupable de rien, monsieur Vidalenc, dit-elle enfin, avec une fermeté qu'elle voulait aussi réconfortante que possible. Ni de votre dispute, ni de votre absence. Vous êtes seulement vivant, et c'est la seule chose, dans ce dossier, qui ressemble encore à une bonne nouvelle.
+— Alors aidez-moi à comprendre pourquoi, dit-il, en relevant vers elle un regard soudain plus dur. Pourquoi ma sœur et pas moi. Pourquoi Vincent, qui n'avait jamais rien fait à personne. Je veux savoir qui a décidé ça, commissaire. Et je veux être présent quand vous l'arrêterez. »
+
+Elle ne put lui promettre cette dernière chose, mais lui assura, avec une sincérité qu'elle mesura à chaque mot, qu'il serait informé avant quiconque en dehors de son équipe le jour où l'enquête toucherait à sa conclusion — une promesse qu'elle nota elle-même, une fois Mathieu Vidalenc reparti, comme une dette supplémentaire à honorer avant la fin de cette affaire.
+
+*
+
+Le photographe amateur qui avait immortalisé, en 2013, la soirée annuelle des bénévoles de l'association Trait d'Union s'appelait Marcel Ithier, un ancien professeur de lettres à la retraite qui avait consacré vingt ans de sa vie à photographier gratuitement les événements de son quartier, et qui reçut la visite de Farge dans son petit appartement de la Croix-Rousse avec l'enthousiasme un peu perdu d'un homme heureux, pour une fois, de retrouver une utilité concrète à des cartons entiers de négatifs qu'il n'avait jamais eu le cœur de jeter.
+
+« J'ai tout numérisé, moi-même, il y a quelques années, pour mes petits-enfants, dit-il, en installant un vieux disque dur externe sur la table de sa cuisine avec une lenteur de précaution qui trahissait son âge. Cela me prendra un moment pour retrouver l'année exacte, capitaine. Vous dites 2013 ? »
+
+Il fallut près de deux heures de recherche méthodique, ponctuées par les commentaires nostalgiques de M. Ithier sur chacun des visages qu'il croisait au fil de son archive, avant qu'une photographie ne surgisse enfin, prise lors d'une soirée de fin d'année dans une salle des fêtes du sixième arrondissement, où une trentaine de bénévoles souriants posaient devant un buffet dressé avec les moyens modestes d'une association caritative.
+
+« Là, dit M. Ithier, en pointant un doigt tremblant vers le troisième rang, un peu en retrait des autres. Je me souviens de ce garçon, maintenant que vous le mentionnez. Il n'aimait pas beaucoup les photographies, celui-là. Il détournait toujours légèrement le visage, comme s'il redoutait quelque chose. J'avais mis ça, à l'époque, sur le compte d'une timidité excessive. »
+
+Farge photographia le cliché sous plusieurs angles et l'envoya immédiatement à Clara, qui l'ouvrit avec une appréhension qu'elle ne chercha pas à dissimuler devant Ferrière. Le résultat, cependant, se révéla décevant autant que troublant : le jeune homme, effectivement tourné de trois quarts, le visage partiellement masqué par l'ombre d'un lustre suspendu, offrait une silhouette générale compatible avec la description d'Escudier — grand, mince, cheveux bruns coupés court — mais aucun trait suffisamment net pour permettre une identification formelle, ni par comparaison directe avec les photographies plus récentes de Nathanaël Prieur, ni même par les logiciels de reconnaissance faciale que Chastagner tenta, en vain, d'appliquer à l'image.
+
+« Il a passé deux ans dans cette association sans jamais se laisser photographier de face, dit Ferrière, en observant le cliché avec une frustration manifeste. Ce n'est pas de la timidité, Clara. C'est une discipline. Un homme qui construit sa propre disparition avec autant de méthode qu'il construit, aujourd'hui, ses mises en scène.
+— Ou un homme qui savait déjà, à vingt ans, que sa photographie deviendrait un jour un problème », dit Clara, songeuse, en agrandissant l'image sur son écran jusqu'à ce que les pixels eux-mêmes se dissolvent en une brume grise inutile.
+
+*
+
+Pendant que Farge poursuivait ses recherches à la Croix-Rousse, Ferrière et Chastagner s'étaient attelés, depuis le commissariat, à une tâche plus ingrate encore : ratisser, année par année, les registres d'inscription de l'université Lumière Lyon II pour la filière de psychologie, entre 2010 et 2013, à la recherche d'un étudiant prénommé Nathan dont le nom de famille resterait, par définition, à découvrir.
+
+« Il y a quatre-vingt-douze étudiants inscrits en licence de psychologie sur cette période dont le prénom pourrait correspondre, en comptant les variantes orthographiques, dit Chastagner, les yeux rougis par des heures passées devant l'écran. Nathan, Nathanaël, Jonathan, Nathanael sans tréma. J'ai croisé chacun de ces noms avec les registres d'état civil, les annuaires téléphoniques d'époque, les réseaux sociaux archivés. Aucun ne correspond à un homme grand, brun, disparu de toute existence documentée après 2013.
+— Ce qui signifierait, dit Ferrière, en se massant les paupières d'un geste épuisé, que notre homme n'était même pas inscrit sous ce prénom. Qu'il assistait aux cours sans être officiellement étudiant. Une carte volée, empruntée, falsifiée — il existait, dans les grands amphithéâtres de l'époque, suffisamment d'anonymat pour qu'un auditeur libre passe inaperçu pendant des mois, voire des années, sans jamais être inscrit nulle part.
+— Ou alors, dit Chastagner, plus lentement, comme s'il hésitait encore à formuler une pensée qui le troublait lui-même, il n'existait tout simplement pas encore, à l'époque, sous quelque nom que ce soit qui puisse être retrouvé dans une administration française. Ce ne serait pas la première fois, Ferrière, qu'un homme sans identité légale se construise une existence par fragments, en empruntant ici une carte d'étudiant, là un badge d'accès, sans jamais laisser la moindre trace officielle avant le jour où il choisit, enfin, de devenir quelqu'un aux yeux de l'État. »
+
+Cette hypothèse, aussi vertigineuse fût-elle, rejoignait avec une cohérence inquiétante l'absence totale de passé administratif déjà constatée pour Nathanaël Prieur, et Clara, en écoutant le compte rendu de cette impasse méthodique, sentit se confirmer une intuition qu'elle n'avait pas encore osé formuler à voix haute : l'homme qu'ils traquaient n'avait peut-être jamais eu, avant 2014, la moindre existence légale à retracer — seulement une vie vécue en marge de tous les registres, jusqu'au jour où il avait choisi, avec la même minutie qu'il appliquait désormais à ses mises en scène, de s'inventer un état civil taillé sur mesure.
+
+*
+
+Ce fut au cours de cette même visite que Farge découvrit, presque par hasard, en consultant les registres comptables que Mme Aumonier lui avait remis de bonne grâce pour faciliter l'enquête, une anomalie qui allait, pendant près d'une journée entière, détourner l'attention de l'équipe vers une piste qui se révéla finalement sans lien avec le massacre de la villa Bellerive.
+
+Un des membres du conseil d'administration de l'association, un notable local nommé Frédéric Vasseur — homonymie que Clara accueillit avec un rire nerveux bienvenu au milieu d'une enquête aussi éprouvante — avait supervisé, entre 2016 et 2019, une série de virements dont la destination finale ne correspondait à aucune dépense associative répertoriée, pour un montant cumulé avoisinant les soixante mille euros.
+
+« Aucun lien de parenté avec vous, j'imagine, commissaire », plaisanta Ambrosini, qui venait d'apprendre la nouvelle avec un enthousiasme non dissimulé pour cette coïncidence patronymique, tandis que Farge organisait, dans l'heure, l'audition de ce Vasseur homonyme, convoqué au commissariat avec une célérité qui trahissait l'espoir, vite déçu par la suite, de tenir enfin un fil solide.
+
+L'audition, menée conjointement par Clara et Farge, débuta par une dénégation véhémente qui céda, en moins de vingt minutes, sous le poids des relevés bancaires que Chastagner avait patiemment reconstitués.
+
+« Je n'ai tué personne, dit Frédéric Vasseur, un homme d'une cinquantaine d'années au visage soudain décomposé, les mains agrippées au bord de la table comme pour s'empêcher de s'effondrer entièrement. Je vous en supplie, croyez-moi, je n'ai jamais fait de mal à qui que ce soit. J'ai simplement... » Il s'interrompit, la gorge nouée, avant de reprendre dans un souffle presque inaudible. « J'ai simplement détourné une partie des dons destinés à l'association, pendant trois ans, pour financer le traitement de ma fille. Une maladie rare, commissaire, un protocole expérimental que la sécurité sociale ne prenait pas en charge, dans une clinique suisse hors de prix. Je comptais rembourser. Je compte toujours rembourser, chaque centime, dès que ma situation le permettra. »
+
+Le silence qui suivit cette confession portait cette qualité particulière, à la fois pathétique et désarmante, des aveux qui révèlent moins une noirceur qu'une détresse ordinaire poussée jusqu'à son point de rupture — et Clara, en observant cet homme effondré devant elle, songea que la vérité, décidément, prenait rarement la forme qu'on attendait d'elle.
+
+« Votre fille va-t-elle mieux ? demanda-t-elle enfin, d'une voix radicalement adoucie.
+— Elle est en rémission depuis huit mois, dit-il, les yeux brusquement inondés de larmes. Le traitement a fonctionné, commissaire. C'est la seule chose au monde dont je ne regrette absolument rien. »
+
+L'alibi de Vasseur pour la nuit du massacre — une garde de nuit à l'hôpital pédiatrique de Lyon, confirmée par une dizaine d'infirmières et par les caméras de surveillance de l'établissement — se révéla, comme celui de Cattelan avant lui, irréprochable, réduisant définitivement cette piste à ce qu'elle était réellement : un délit réel mais entièrement étranger au massacre de la villa Bellerive, une nouvelle démonstration que la vérité d'une enquête criminelle avançait rarement en ligne droite, mais par une succession de fausses portes qu'il fallait néanmoins ouvrir, une à une, pour ne rien laisser au hasard.
+
+« Vous devrez régulariser votre situation avec la justice, monsieur Vasseur, dit Clara en clôturant l'audition, mais je ne vous cache pas que votre dossier n'occupera pas la priorité de mes services dans les jours qui viennent. » Elle marqua une pause, et ajouta, avec une sincérité qui la surprit elle-même : « Et je suis heureuse, pour votre fille. »
+
+*
+
+Elle profita de la courte accalmie qui suivit cette audition pour appeler Samir, installée sur le rebord d'une fenêtre du commissariat d'où l'on apercevait, entre deux toits d'ardoise, un mince ruban du lac déjà noirci par le crépuscule.
+
+« Comment va Dostoïevski chez ta sœur ? demanda-t-elle, davantage pour s'accorder deux minutes d'ordinaire que par réelle inquiétude féline.
+— Il a fait tomber le sapin de Noël de ma nièce hier soir, dit Samir, avec un rire dans lequel elle perçut, malgré tout, la fatigue de l'attente. Trois fois. Ma sœur commence à comprendre pourquoi je ne le laisse jamais chez elle plus de quarante-huit heures d'ordinaire.
+— Dis-lui que je rembourserai les boules cassées.
+— Elle préférerait que tu rentres, Clara. Moi aussi, si je suis honnête. » Un silence bref suivit, que Samir rompit avec une prudence manifeste. « Ça avance ?
+— Ça recule, en un sens, dit-elle, choisissant ses mots avec soin. Nous remontons plus loin que je ne l'avais imaginé. Jusqu'à ma toute première affaire, Samir. Jusqu'à avant que je te connaisse, même.
+— Alors je suppose que je ne peux rien faire d'autre que t'attendre, encore, dit-il, sans reproche dans la voix, seulement une tendresse patiente qui, plus que n'importe quel argument, lui donna la force de raccrocher sans céder aux larmes qu'elle sentait poindre depuis le début de cette conversation.
+— Encore un peu, dit-elle. Je te le promets. »
+
+*
+
+De retour au commissariat en fin d'après-midi, Clara trouva Lanvin en pleine négociation téléphonique avec le service traiteur chargé d'approvisionner la salle de commandement, une mission qu'il avait prise tellement à cœur, depuis la découverte accidentelle qu'Ambrosini détestait profondément les sandwichs au thon, qu'il avait établi un tableau de rotation des menus digne d'un état-major.
+
+« Brigadier, dit Ambrosini en entrant, une lueur amusée dans le regard, je commence à me demander si votre dévouement pour ma protection rapprochée ne concerne pas davantage mon estomac que ma sécurité personnelle.
+— Un homme mal nourri est un homme moins vigilant, capitaine, répondit Lanvin avec un sérieux imperturbable qui, comme toujours, désamorça instantanément toute tentative de moquerie. C'est écrit dans le manuel, à la section sept, alinéa trois.
+— Il n'existe aucun manuel avec un tel alinéa, Lanvin, dit Farge, en riant ouvertement cette fois.
+— Il devrait, capitaine. Je compte le proposer à ma hiérarchie, une fois cette affaire close. »
+
+Cette légèreté, aussi brève fût-elle, ne dura que le temps que Chastagner referme la porte de la salle de commandement derrière lui, le visage marqué d'une gravité qui fit taire instantanément toutes les conversations.
+
+« Le laboratoire de Lyon vient d'appeler, dit-il, la voix tendue par l'urgence de la nouvelle qu'il s'apprêtait à annoncer. Le profil ADN issu du prélèvement sous-unguéal de 2014 a été établi. » Il déposa sur la table un rapport qu'il venait manifestement d'imprimer à la hâte, les mains tremblant légèrement malgré son calme habituel. « Ils ont comparé ce profil à celui que nous avons pu extraire, voilà deux jours, d'un verre laissé par Prieur dans la chambre 214 de son hôtel. »
+
+Il laissa un silence s'installer, un silence que personne, dans cette pièce, n'osa rompre par une question dont chacun redoutait déjà, au fond, de connaître la réponse.
+
+« Concordance formelle, dit-il enfin. Le profil génétique retrouvé sous l'ongle d'Aurélie Chambon en 2014 correspond, avec une probabilité d'erreur inférieure à un sur plusieurs milliards, à celui de l'homme que nous connaissons sous le nom de Nathanaël Prieur. »
+
+Clara resta un long moment silencieuse, le regard fixé sur ce document qui confirmait, noir sur blanc, ce qu'elle redoutait et espérait à la fois depuis la découverte du dossier Chambon — la certitude, enfin établie sur une base scientifique incontestable, que l'homme qui la traquait aujourd'hui avait été présent, physiquement, au moment de la mort de la toute première victime dont elle avait eu la charge d'établir la vérité.
+
+« Ce n'est pas une preuve de meurtre, dit-elle enfin, s'efforçant de maintenir la rigueur d'analyse que la gravité du moment exigeait plutôt que de céder à l'émotion qui menaçait de la submerger entièrement. Ce fragment cutané aurait pu se déposer lors d'un contact tout à fait anodin, une accolade, une bousculade. Un bon avocat plaidera cela sans hésiter. Mais combiné au reste — sa disparition de l'association deux mois avant la mort d'Aurélie, sa consultation du dossier d'archives voilà quatre ans, son absence de toute existence administrative documentée avant 2014 — ce résultat transforme une hypothèse en quasi-certitude. »
+
+Elle se leva, s'approcha de la fenêtre, contemplant le lac que la nuit tombante commençait déjà à effacer dans une obscurité uniforme. « Il faut retrouver son identité d'origine, dit-elle, sans se retourner. Pas celle de Nathanaël Prieur — celle d'avant. Celle du garçon qui s'est présenté un jour, en 2012, à l'association Trait d'Union, sous le seul prénom de Nathan, et qui a disparu deux mois avant qu'Aurélie Chambon ne meure. Cet homme n'est pas né en 2014, Ferrière. Il s'est simplement réinventé, cette année-là, sous un nom qui n'était pas le sien. Et je veux savoir pourquoi il en avait besoin — parce que je crois, avec une certitude que je ne peux pas encore justifier entièrement, que la réponse à cette question éclairera tout le reste. »
+
+*
+
+L'appel de Sorel, reçu alors que l'équipe rangeait déjà les dossiers de la journée, ramena brutalement l'enquête vers un autre de ses fils encore ouverts. « Rien à signaler concernant Castellan et Cordier, dit-il, depuis Draguignan, où il continuait de superviser à distance la protection des deux témoins du dossier Vallier. Le dispositif tient, mais je n'aime pas cette accalmie, Clara. Un bouquet de fleurs déposé anonymement devant chez Castellan, la semaine du procès Vallier, et plus rien depuis. C'est le genre de silence qui, dans mon expérience, précède rarement une paix durable.
+— Toujours aucune trace de l'agent genevois ? demanda Clara, songeant à cet homme aperçu dans une voiture de location suisse, disparu depuis sans laisser d'adresse.
+— Aucune, dit Sorel. Ni sur le territoire français, ni dans les fichiers de la police fédérale suisse que Chastagner a pu consulter par commission rogatoire. Soit il a quitté le pays, soit il se terre quelque part avec une discipline qui n'appartient qu'aux professionnels les mieux formés. Je penche pour la seconde hypothèse, personnellement. Les hommes de Kratos ne disparaissent jamais tout à fait, ils changent seulement de vent. »
+
+Clara raccrocha avec la conviction renouvelée que l'enquête, loin de se refermer sur une seule menace, en portait désormais deux, distinctes mais peut-être appelées, tôt ou tard, à se rejoindre : celle, intime et vertigineuse, d'un homme obsédé par elle depuis onze ans ; et celle, plus froide, plus institutionnelle, des derniers vestiges d'une organisation criminelle que l'arrestation de Vallier n'avait affaiblie qu'en apparence.
+
+Dehors, la nuit était complètement tombée sur Chambéry, et dans le silence retrouvé de la salle de commandement, chacun des membres de l'équipe mesura, sans avoir besoin de le formuler à voix haute, l'ampleur nouvelle que venait de prendre une enquête qui, onze jours plus tôt, avait commencé par la découverte d'une simple réplique de vêtement sur un mannequin de vitrine.
