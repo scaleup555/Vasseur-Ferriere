@@ -1380,3 +1380,106 @@ Ambrosini, encore auréolé de la gloire discrète de sa mésaventure dans les a
 Nicolas, en resservant une part de tarte à Lanvin qui n'avait pourtant pas encore terminé la précédente, observa toute la scène avec un sourire attendri, celui d'un homme qui avait fini, au fil des mois, par comprendre que cette étrange famille recomposée d'enquêteurs constituait, pour Chastagner, un soutien aussi indispensable que n'importe quel lien du sang.
 
 Ce moment de répit collectif, aussi bref fût-il, permit à Clara de mesurer, en observant son équipe rassemblée autour d'une table improvisée, combien le chemin parcouru depuis la découverte du mannequin de la villa Bellerive avait, paradoxalement, resserré des liens que l'horreur de l'enquête aurait pu, en d'autres circonstances, distendre entièrement. Elle songea, en portant à ses lèvres un verre de vin qu'elle n'avait pas prévu de boire ce soir-là, qu'il lui restait désormais un nom, un visage d'enfant, et une trajectoire de vie brisée à opposer à l'homme qui la traquait — et qu'elle ignorait encore si cette connaissance nouvelle suffirait à le faire tomber, ou si elle ne ferait, au contraire, que le rendre plus dangereux encore, désormais qu'il n'avait plus rien à cacher.
+
+
+Chapitre 17 — Le bouquet de Castellan
+
+La journée avait débuté, avant même que le drame de Fréjus ne vienne l'assombrir, par l'une de ces péripéties administratives dont Lanvin, seul parmi l'équipe, semblait capable de générer avec une constance presque scientifique. Chargé de réceptionner une livraison de nouveaux gilets pare-balles renforcés destinés à l'ensemble du dispositif de protection de Clara, le jeune brigadier avait, par une confusion de bons de commande dont il porta seul la responsabilité avec une contrition exemplaire, réceptionné à la place vingt-quatre combinaisons de ski destinées à un club sportif de Courchevel.
+
+« J'ai vérifié trois fois le numéro de commande, commissaire, se défendit-il devant Clara, qui contemplait avec un mélange de fatigue et d'amusement la pile de combinaisons fluorescentes empilées dans le couloir du commissariat. Le fournisseur a manifestement inversé deux chiffres de son côté.
+— Nous ferons donc face à Nathanaël Prieur habillés comme une équipe olympique de ski alpin, dit Ambrosini, qui venait d'arriver de Draguignan et découvrait la scène avec un ravissement non dissimulé, en enfilant sur-le-champ l'une des combinaisons par-dessus son uniforme. Je dois dire, brigadier, que le jaune fluorescent vous va particulièrement bien.
+— Les vrais gilets arrivent demain, commissaire, je vous le promets, dit Lanvin, écarlate, tandis que Farge photographiait discrètement la scène pour, avoua-t-elle sans vergogne, l'archiver dans ses souvenirs les plus précieux de cette enquête. »
+
+Cette parenthèse comique, aussi dérisoire fût-elle, s'effaça brutalement de l'esprit de chacun lorsque, quelques heures plus tard, l'alerte en provenance de Fréjus vint rappeler à toute l'équipe la gravité de ce qui continuait de se jouer, en toile de fond, autour du procès Vallier à venir.
+
+À Fréjus, où Renaud Castellan vivait toujours sous protection policière discrète depuis les événements du printemps précédent, la nouvelle de l'arrestation d'Oberlin à Lyon n'avait mis que quelques heures à produire une onde de choc que personne, à Chambéry, n'avait anticipée avec suffisamment de célérité.
+
+L'appel parvint à Clara un peu après vingt-deux heures, alors qu'elle s'apprêtait enfin à céder à quelques heures de sommeil qu'elle savait, par expérience, insuffisantes mais nécessaires. Le brigadier chargé de la protection rapprochée de Castellan, la voix hachée par l'urgence, décrivit une scène que Clara connaissait déjà par cœur pour l'avoir vécue, à quelques variantes près, à plusieurs reprises au cours de cette même enquête.
+
+« Un homme a tenté de s'introduire dans la propriété, commissaire, dit-il, tandis que des bruits de course résonnaient nettement à l'arrière-plan de la communication. Nous l'avons repéré grâce au dispositif de vidéosurveillance installé après l'épisode du bouquet, il y a trois semaines. Il a franchi le grillage côté jardin, armé d'un couteau, et se dirigeait vers la fenêtre de la chambre de M. Castellan lorsque nos hommes sont intervenus. »
+
+Clara, déjà debout et rhabillée avant même d'avoir raccroché, réveilla Ferrière d'un simple message et rejoignit, dans l'heure qui suivit, la salle de commandement où Chastagner, alerté à son tour, établissait déjà une liaison vidéo directe avec les gendarmes mobilisés sur place à Fréjus.
+
+Sur l'écran principal de la salle de commandement, l'image granuleuse et verdâtre de la caméra thermique montrait la propriété de Castellan comme un paysage lunaire, chaque forme vivante réduite à une tache blanche incandescente sur un fond d'ombres uniformes. Clara vit distinctement la silhouette de l'intrus se figer un instant près du grillage, comme s'il hésitait encore, avant de reprendre sa progression vers la maison avec une détermination qui lui noua l'estomac.
+
+« Il est presque à la fenêtre, murmura Chastagner, une main crispée sur le bord de la table. Où sont vos hommes, brigadier ?
+— En position depuis le début, monsieur, dit la voix crachotante du brigadier dans le haut-parleur. Nous attendions qu'il s'engage pleinement avant d'intervenir, pour ne prendre aucun risque de le voir rebrousser chemin et recommencer une autre nuit. »
+
+L'attente, bien que ne durant en réalité que quelques secondes, parut à Clara s'étirer sur une durée insupportable, jusqu'à ce que deux silhouettes supplémentaires surgissent soudain du bord du cadre, plaquant l'intrus au sol dans un fracas de branchages et un cri étouffé qui traversa distinctement le haut-parleur de la salle de commandement. L'assaut, tel qu'il se déroula sous leurs yeux par l'intermédiaire des caméras thermiques du dispositif, se solda en quelques instants à peine par la maîtrise de l'intrus, plaqué au sol dans les massifs de lauriers-roses du jardin après une brève lutte au cours de laquelle un des gendarmes reçut une entaille superficielle à l'avant-bras — blessure sans gravité, mais suffisante pour rappeler à toute l'équipe, une fois de plus, l'extrême dangerosité des hommes que cette affaire continuait de mettre sur leur chemin.
+
+« Suspect maîtrisé, arme neutralisée, annonça enfin le brigadier, la voix encore essoufflée par l'effort de l'intervention. On l'embarque, commissaire. »
+
+Clara relâcha, seulement à cet instant, une respiration qu'elle ignorait avoir retenue depuis le début de la transmission, et échangea avec Ferrière un regard chargé d'un soulagement qu'aucun mot n'aurait su exprimer plus justement.
+
+« Castellan va bien ? demanda Clara, la gorge serrée, tandis que l'image tremblante montrait le témoin, hébété, évacué en robe de chambre vers un véhicule blindé stationné devant la propriété.
+— Secoué, mais indemne, commissaire, confirma le brigadier. Sa fille dormait chez sa mère cette nuit, par chance. »
+
+*
+
+L'interrogatoire de l'assaillant, mené dès le lendemain matin dans les locaux de la gendarmerie de Fréjus, révéla une identité et un mobile qui, loin d'apaiser les craintes de Clara, confirmèrent au contraire une hypothèse qu'elle redoutait depuis la veille au soir. L'homme, un ancien légionnaire reconverti dans la sécurité privée nommé Grégoire Aubry, refusa dans un premier temps de coopérer, avant de céder, en fin de matinée, devant la perspective d'une qualification pénale aggravée qui menaçait de le maintenir en détention pour le reste de sa vie active.
+
+« On m'a payé pour l'intimider, dit-il enfin, le regard fuyant. Pas pour le tuer — juste pour lui rappeler qu'un témoin qui parle trop finit toujours par le regretter, d'une manière ou d'une autre. Le couteau n'était qu'un accessoire de persuasion, commissaire. Je ne l'aurais jamais réellement utilisé.
+— Un couteau de vingt centimètres pointé vers la fenêtre d'un homme endormi n'est jamais un simple accessoire, monsieur Aubry, dit Clara, sans céder d'un pouce à la justification qu'il tentait manifestement de construire. Qui vous a payé ? »
+
+Aubry détourna le regard vers le mur nu de la salle d'interrogatoire, ses doigts tambourinant nerveusement sur la table métallique, et Clara reconnut, dans cette hésitation prolongée, la même arithmétique silencieuse qu'elle avait observée chez des dizaines d'hommes avant lui : celle qui consiste à évaluer, seconde après seconde, combien d'années de prison vaut réellement une loyauté envers un employeur qui ne se soucierait jamais, en retour, de venir le sortir de sa cellule.
+
+« Vous avez une famille, monsieur Aubry ? demanda-t-elle, changeant de tactique avec la souplesse d'une enquêtrice aguerrie aux silences des hommes les plus endurcis.
+— Un fils, dit-il, la voix soudain plus rauque. Douze ans. Sa mère ne me laisse le voir qu'un week-end sur deux.
+— Alors réfléchissez à combien de week-ends sur deux il vous restera si vous sortez de cette pièce sans avoir parlé, dit Clara, avec une froideur calculée qui, à en juger par l'affaissement visible des épaules de l'homme, atteignit précisément sa cible. »
+
+Un long silence précéda sa réponse, suffisamment long pour que Clara comprenne qu'il pesait encore, à cet instant précis, le poids relatif de sa loyauté contre celui de sa propre liberté.
+
+« Une avocate, dit-il enfin. Genevoise. Je ne connais que son prénom de code — "l'Alouette". Le contact s'est fait par un intermédiaire, comme toujours dans ce métier. Mais le virement provenait d'un compte que je peux vous indiquer, si cela peut alléger ma peine. »
+
+Le compte en question, retracé dans l'heure par Chastagner avec l'aide du parquet financier, remontait effectivement, par une série d'intermédiaires soigneusement disposés, jusqu'à une structure luxembourgeoise associée de longue date à Solange Vergnes — la preuve matérielle, enfin obtenue, que l'avocate genevoise, prise de panique après l'arrestation d'Oberlin et redoutant que Castellan ne l'implique directement lors du procès Vallier à venir, avait choisi de commanditer elle-même, dans l'urgence, une opération d'intimidation dont l'amateurisme relatif tranchait nettement avec le professionnalisme habituel de l'organisation qu'elle avait longtemps servie.
+
+« Elle panique, dit Ferrière, en refermant le dossier avec une satisfaction sombre. Une femme qui panique commet des erreurs qu'un professionnel aguerri ne commettrait jamais. Cette tentative maladroite pourrait bien être ce qui la fera tomber, finalement, plus sûrement que n'importe quelle enquête méthodique. »
+
+Un mandat d'arrêt international fut délivré contre Solange Vergnes dans la journée, avec le concours des autorités suisses — une procédure dont Clara savait, par expérience des lenteurs de la coopération judiciaire transfrontalière, qu'elle prendrait sans doute plusieurs semaines à porter ses fruits, mais qui referma néanmoins, avec une netteté satisfaisante, le dernier volet purement financier de cette enquête à double fond.
+
+*
+
+Ce fut au retour de cette mission éclair à Fréjus, où Clara et Ferrière avaient tenu à se rendre en personne pour rassurer Castellan et coordonner le renforcement définitif de sa protection, qu'un incident d'un tout autre registre vint alléger, l'espace d'une soirée, la tension accumulée depuis la veille.
+
+Élise Cordier, l'autre témoin protégé de l'affaire Vallier, avait insisté pour recevoir Clara et Ferrière à dîner avant leur départ, en signe de gratitude pour leur protection continue depuis son enlèvement du printemps précédent — une invitation que Clara, malgré la fatigue, jugea impossible à décliner sans blesser une femme dont le courage avait tant compté dans la résolution du tome précédent.
+
+Le dîner, préparé avec un soin manifeste, faillit cependant tourner à la catastrophe lorsque Ferrière, en voulant aider à débarrasser un plat de daube encore fumant, renversa l'intégralité de son contenu sur le carrelage de la cuisine, provoquant chez le jeune chien de la maison — un labrador surexcité prénommé Poivre — un enthousiasme culinaire qui manqua de peu de le rendre malade avant que Ferrière n'ait eu le temps de reprendre le contrôle de la situation.
+
+« Je crois, dit Élise Cordier, entre deux éclats de rire qu'elle ne chercha nullement à réprimer, que je devrais désormais confier la garde de mon service en porcelaine à n'importe qui d'autre que la police nationale, lieutenant.
+— Je plaide coupable, dit Ferrière, à quatre pattes sur le carrelage avec une serpillière, sous le regard mi-amusé mi-consterné de Clara. Ajoutez cela à mon dossier disciplinaire, si vous le souhaitez. Négligence caractérisée en matière de daube provençale. »
+
+Poivre, quant à lui, profita de la confusion générale pour subtiliser un morceau de pain resté sans surveillance sur la table, provoquant une nouvelle vague d'hilarité qui, pour la première fois depuis plusieurs jours, permit à Clara de rire sans arrière-pensée, sans le poids constant de l'enquête pesant sur chacun de ses gestes.
+
+Une fois le calme revenu et le carrelage rendu à sa propreté initiale, Élise Cordier se fit plus grave, servant le café dans un silence que Clara sentit chargé d'une question qu'elle hésitait visiblement à poser. « Vous croyez que cet homme, celui qui traque votre commissaire, a un rapport avec ce que j'ai vécu, moi ? finit-elle par demander, en fixant Clara par-dessus sa tasse. Avec Grimaldi, avec Vallier, avec tout ce cauchemar du printemps dernier ?
+— Non, dit Clara, avec une franchise qu'elle jugea plus respectueuse qu'un mensonge rassurant. Ce sont deux histoires différentes qui se sont trouvées, par le plus mauvais des hasards, empilées l'une sur l'autre. Mais je comprends que, de votre point de vue, elles se ressemblent suffisamment pour se confondre en une seule et même terreur.
+— C'est exactement cela, dit Élise Cordier, avec un soulagement visible d'avoir enfin pu formuler cette angoisse à voix haute. Merci de ne pas avoir prétendu le contraire. »
+
+*
+
+Le dossier complet du foyer Sainte-Agnès, réclamé par voie judiciaire quelques jours plus tôt, parvint à Chambéry le lendemain matin, sous la forme d'une épaisse chemise de carton que Farge déposa sur le bureau de Clara avec la solennité d'une relique. Parmi les évaluations scolaires et les rapports éducatifs sans grand relief, un document retint immédiatement l'attention de Clara : une évaluation psychologique rédigée en 1997 par le pédopsychiatre consultant du foyer, alors que Yann Castel venait tout juste d'avoir douze ans.
+
+« "L'enfant présente une intelligence remarquablement au-dessus de la moyenne, associée à une difficulté persistante à établir des liens affectifs stables avec ses pairs", lut Clara à voix haute, Ferrière penché par-dessus son épaule. "Il investit de manière disproportionnée les relations avec les adultes qu'il perçoit comme dignes de confiance, au point de développer, envers ceux-ci, un attachement dont l'intensité dépasse largement le cadre habituel de la relation éducative. Recommandation : surveiller l'évolution de ce trait, qui pourrait, à l'âge adulte, se manifester par des formes de dépendance affective problématiques si aucun accompagnement approprié n'est mis en place." »
+
+Un second document, plus inattendu encore, accompagnait cette évaluation : une photocopie d'un dessin d'enfant, réalisé par Yann Castel à l'âge de onze ans dans le cadre d'un atelier thérapeutique, représentant un échiquier géant sur lequel des silhouettes humaines miniatures tenaient lieu de pièces — et, au centre exact du plateau, une seule pièce dessinée avec un soin disproportionné par rapport au reste du croquis, un cavalier noir, cerné d'un trait appuyé plusieurs fois comme pour en souligner l'importance.
+
+« Mme Perrin lui avait appris à jouer aux échecs, se souvint Farge, en consultant ses propres notes de l'entretien téléphonique. Elle me l'a mentionné en passant, je n'y avais pas prêté suffisamment attention sur le moment. Elle disait que c'était le seul moment de la semaine où il semblait véritablement en paix — deux adversaires, des règles claires, un vainqueur et un vaincu désignés sans ambiguïté possible. Un ordre que la vie, par ailleurs, ne lui avait jamais offert. »
+
+Clara contempla longuement ce dessin d'enfant, ce cavalier noir cerné avec une insistance presque obsessionnelle par la main d'un garçon de onze ans, et comprit, avec un vertige renouvelé, que l'objet retrouvé sur les genoux du mannequin à la villa Bellerive n'était pas un simple accessoire de mise en scène, mais l'écho fidèle, trente ans plus tard, de la seule pièce du jeu à laquelle cet enfant abandonné s'était jamais identifié — celle qui avance en biais, qui contourne les obstacles que les autres pièces affrontent de face, et qui frappe toujours là où l'adversaire, aveuglé par les lignes droites du plateau, ne l'attend pas.
+
+« Il a passé sa vie entière à se déplacer comme un cavalier, dit-elle enfin, en refermant le dossier. Jamais en ligne droite. Toujours par le biais qu'on n'attend pas. »
+
+*
+
+Le lendemain, avant de reprendre la route vers Chambéry, Clara reçut un appel du procureur général chargé du dossier Vallier, qui l'informa que le procès, initialement prévu pour le mois suivant, venait d'être avancé de plusieurs semaines à la demande du parquet, précisément en raison de la fragilisation soudaine de la défense consécutive à l'arrestation d'Oberlin et au mandat visant Vergnes.
+
+« Cela signifie, dit-elle à Ferrière une fois raccroché, en reprenant place dans le véhicule qui les ramenait vers la Savoie, que Castellan devra témoigner dans les prochaines semaines, sous une protection renforcée que je veux irréprochable. Et cela signifie aussi, Ferrière, que nous n'avons plus le luxe du temps que nous pensions encore avoir pour traquer Prieur. Le procès Vallier va rouvrir tous les projecteurs sur cette affaire, et je crains que la lumière ne pousse notre homme à agir plus vite, plutôt qu'à se terrer davantage. »
+
+Elle contempla, par la vitre du véhicule, le paysage provençal qui défilait déjà vers les premiers contreforts alpins, songeant que cette affaire, décidément, ne connaîtrait jamais de répit véritable — seulement de brefs instants de grâce, comme ce dîner chez Élise Cordier, arrachés de haute lutte à une horreur qui, elle le savait désormais avec certitude, n'avait pas encore livré son dernier mot.
+
+À leur retour au commissariat de Chambéry, tard dans la soirée, ils trouvèrent Lanvin fièrement posté à l'accueil, vêtu non pas de son uniforme habituel mais d'une combinaison de ski jaune fluorescent flambant neuve, un gilet pare-balles enfilé par-dessus avec un sérieux qui rendait la juxtaposition plus comique encore.
+
+« Les vrais gilets sont arrivés cet après-midi, commissaire, annonça-t-il, radieux, en désignant du menton la pile de cartons rangés derrière lui. J'ai pensé qu'il serait dommage de laisser les combinaisons se perdre. Elles isolent remarquablement bien du froid, pour la surveillance de nuit.
+— Brigadier, dit Clara, épuisée mais incapable de réprimer un sourire sincère devant ce spectacle inattendu, vous êtes officiellement l'homme le plus lumineux de tout le groupement de Savoie, au sens propre comme au figuré.
+— Je prends cela comme un compliment, commissaire, dit Lanvin, avec une fierté qui, une fois de plus, désamorça d'un coup toute la tension d'une journée pourtant chargée d'épreuves. »
+
+Elle monta se coucher ce soir-là avec, pour la première fois depuis le début de cette enquête, l'impression fugace que malgré l'ombre grandissante de Prieur et les manœuvres désespérées des derniers vestiges de Kratos, quelque chose comme une famille véritable avait fini par se former, chapitre après chapitre, autour d'elle — et que cette famille-là, quoi qu'il advienne, ne la laisserait jamais affronter seule ce qu'il restait encore à traverser.
