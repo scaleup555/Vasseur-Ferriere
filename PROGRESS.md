@@ -6,6 +6,87 @@
 - Tome 5 — *La Treizième Passagère* : texte de référence intégral sauvegardé dans `reference/Tome_5_La_Treizieme_Passagere.txt` (≈47 200 mots, 24 chapitres) pour assurer la continuité narrative des tomes suivants.
 - Tome 6 — *Le Sixième Couvert* : **TERMINÉ ET FINALISÉ.** 24 chapitres, ≈ 73 000 mots, relu sur trois cycles. Noté 6,5/10 puis 7/10 par des agents indépendants successifs (jamais atteint le 9/10 visé — écart jugé structurel, voir détail plus bas) ; **finalisation validée explicitement par l'utilisateur à cette note**, sans exiger la réécriture structurelle qui aurait été nécessaire pour viser 9/10. Fichier source `Tome_6_Le_Sixieme_Couvert.md` ; export final `export/Tome_6_Le_Sixieme_Couvert.docx` (5,5×8,5", Times New Roman 12, interligne 1,15, titres centrés, alinéas), committé dans le dépôt et envoyé à l'utilisateur en pièce jointe.
 - Tome 7 — *La Septième Chaise* : **TERMINÉ ET FINALISÉ.** 24/24 chapitres, ≈ 68 300 mots (en dessous des ~76 800 visés — écart documenté honnêtement, voir détail plus bas). Relu ligne par ligne (tics bannis, doublons, collision de noms). Noté 5/10 puis 7/10 puis **9/10** par trois agents indépendants successifs, avec correction réelle du manuscrit à chaque cycle — **seuil de 9/10 honnête atteint dès le troisième cycle**, sans validation de complaisance ni abaissement du seuil. Ouvre directement sur la scène choc des toutes dernières lignes du tome 6 (villa Bellerive, lac du Bourget) et se referme sur une nouvelle scène choc (tournoi d'échecs de Strasbourg) amorçant le tome 8, dont le titre pressenti est *Le Huitième Roi*. Fichier source `Tome_7_La_Septieme_Chaise.md`. Reste à faire : export Word final.
+- Tome 8 — *Le Huitième Roi* : **EN COURS.** 12/24 chapitres, ≈ 31 000 mots (session 1). Ouvre directement sur la scène choc des toutes dernières lignes du tome 7 (massacre du tournoi d'échecs de Strasbourg). Contrôle indépendant intermédiaire effectué (2 agents, 7,5/10 chacun) et corrections appliquées — voir détail plus bas. Fichier source `Tome_8_Le_Huitieme_Roi.md`. Reste à faire : chapitres 13 à 24, relecture finale, notation indépendante ≥ 9/10, export Word.
+
+## Tome 8 — Le Huitième Roi
+
+Scène choc d'ouverture directement enchaînée sur les toutes dernières lignes du tome 7 : découverte, au Palais de la Musique et des Congrès de Strasbourg, de huit corps disposés sur un échiquier géant tracé au sol selon la position exacte du dix-huitième coup de la Partie immortelle (Anderssen contre Kieseritzky, 1851) — le roi blanc reçu par Clara à son domicile parisien ayant été livré dans le même quart d'heure que la découverte du massacre.
+
+Objectif du tome : 24 chapitres, ~3 200 mots chacun, ~76 800 mots au total.
+
+### Chapitres écrits (session 1 — 12/24)
+
+| Chapitre | Titre | Mots (approx.) |
+|---|---|---|
+| 1 | Le roi blanc joue en premier | ~3 270 |
+| 2 | Le pseudonyme du lecteur passionné | ~3 130 |
+| 3 | L'homme qui n'avait jamais existé | ~2 400 |
+| 4 | La consultante | ~2 780 |
+| 5 | Le prénom que Prieur n'avait jamais prononcé | ~2 450 |
+| 6 | L'alibi de la Krutenau | ~2 550 |
+| 7 | La maison de la rue des Vignerons | ~2 400 |
+| 8 | Le chalet du Blanru | ~2 300 |
+| 9 | La sœur qu'on ne voyait jamais | ~2 400 |
+| 10 | La cave de la rue du Blaireau | ~2 270 |
+| 11 | L'asile du plateau des Corbeaux | ~2 210 |
+| 12 | Mat en trois coups | ~2 350 |
+
+**Total à l'issue de cette session : ≈ 31 000 mots / 76 800 visés (12 / 24 chapitres).**
+
+Remarque honnête, conforme au diagnostic des deux jurys indépendants : la majorité des chapitres de cette session restent en dessous de la fourchette de tolérance ±300 mots (2 900-3 500 mots) visée par `CLAUDE.md`. Une passe d'enrichissement ciblé a déjà été appliquée aux deux chapitres les plus courts (7 et 9, ajout de scènes narratives réelles — débriefing sur la faille de protection, entretien avec la psychiatre de Solène Rochas) suite au contrôle intermédiaire ; l'écart résiduel pourra être résorbé plus largement lors de la relecture finale une fois les 24 chapitres écrits, comme cela avait été fait pour le tome 7.
+
+### Personnages et éléments introduits (à réutiliser à l'identique dans les chapitres suivants)
+
+- **Capitaine Mathias Woehrlé**, SRPJ de Strasbourg, chef d'enquête local, connaissance intime de sa région (localise la maison familiale des Rochas rue du Blaireau, l'ancien asile du plateau des Corbeaux, le carillon de la cathédrale). Allié de confiance de l'équipe, accompagnera l'équipe à Paris pour la suite du tome.
+- **Bertrand Ossenat**, archiviste de la Fédération française des échecs, identifie la Partie immortelle (ch. 1) et révèle une correspondance ancienne avec un « lecteur passionné » (ch. 2), fil qui mène à Éloïse Rochas.
+- **Maxime Aurousseau**, 34 ans, champion de France d'échecs en titre, victime principale du massacre de Strasbourg (case du roi noir).
+- **Yannick Fabron**, grand maître international, faux suspect (rivalité sportive réelle avec Aurousseau, alibi vérifié — ch. 2).
+- **Aymard Ferrandi** (sponsor, victime du massacre) et son associé **Julien Kastner**, faux suspect innocenté par un alibi vérifiable à Baden-Baden (ch. 3).
+- **Marie-Hélène Aubry**, chroniqueuse télévisée, victime du « sacrifice de la dame » (ch. 7), assassinée chez sa mère à Illkirch après une faille humaine (et non technique) du dispositif de protection.
+- **Achille Muller**, agent de l'Office national des forêts, localise le chalet du Blanru puis la maison familiale des Rochas.
+- **Capitaine Yannick Sorel** et **brigadier-chef Bastien Ricci** (personnages récurrents des tomes 6/7), en renfort à Strasbourg pour les interventions tactiques.
+- **Docteur Aloïs Kempf**, chirurgien mis en cause (à tort sur le plan judiciaire, à raison sur le plan moral) dans la mort de Bérénice Rochas en [onze ans avant le présent], menacé par lettre par Éloïse trois ans avant le début du tome.
+- **Docteure Anne-Sophie Reber**, psychiatre ayant suivi Solène Rochas, apporte l'éclairage clinique du trouble délirant partagé (« folie à deux »).
+- **Éloïse Rochas**, 32 ans, historienne des échecs et archiviste du club de Strasbourg, présentée à l'équipe comme consultante experte dès le chapitre 4 — **antagoniste principale du tome**, ancienne correspondante non revendiquée de Nathanaël Prieur (rencontrée lors d'une conférence, une douzaine d'années avant le présent), agissant par vengeance pour la mort de sa mère Bérénice Rochas (erreur médicale jamais réparée par la justice, non-lieu). Alibi de Colmar en apparence inattaquable (soixante-dix témoins, vidéo, péage horodaté) — clarifié par la suite : elle n'a pas exécuté le massacre de ses propres mains. Échappe de justesse à deux interventions (rue du Blaireau ch. 10, asile du plateau des Corbeaux ch. 11) ; en fuite à la fin de la session.
+- **Solène Rochas**, 27 ans, sœur cadette d'Éloïse (même mère, pères différents), suivie en psychiatrie depuis l'adolescence, séquestrée par sa sœur depuis plusieurs jours pour être forcée d'assister au massacre de Strasbourg et d'en « hériter » la vocation — retrouvée et secourue rue du Blaireau (ch. 10), victime et non complice active.
+
+### Éléments de genre déjà en place (tome 8, ch. 1-12)
+
+- **Ouverture choc** (ch. 1) : huit morts disposés selon une partie d'échecs historique réelle (la Partie immortelle), synchronisée avec la réception du roi blanc chez Clara — jugée par les deux jurys au moins aussi forte que celle du tome 7.
+- **Antagoniste incarnée en dialogue dès le ch. 4** (appel téléphonique masqué du « disciple » de Prieur) **et en personne dès le même chapitre** (Éloïse Rochas présentée comme consultante) — conforme à la leçon du tome 7 d'introduire l'antagoniste dès le premier tiers du tome.
+- **Faux suspects variés**, résolus par des mécanismes distincts (Fabron par témoin + relevé téléphonique ; Kastner par un alibi de dîner d'affaires vérifiable) plutôt que par la répétition mécanique accusation/aveu honteux/alibi signalée après le tome 7.
+- **Ressort « indice-leurre » quasiment abandonné** : les avancées reposent sur un vrai travail d'enquête (analyse de résine de pin sur un fragment de tissu ch. 7, explicitement présenté comme « une vraie erreur » du tueur et non un indice disposé ; traçage bancaire luxembourgeois ch. 8 ; décryptage d'un disque dur par faille de génération de clé ch. 12).
+- **Scènes d'action/macabres** (au moins 5) : découverte du massacre de Strasbourg (ch. 1) ; meurtre de Marie-Hélène Aubry (ch. 7) ; raid nocturne du chalet du Blanru (ch. 8) ; poursuite, coup reçu par Ferrière, et sauvetage de Solène rue du Blaireau (ch. 10) ; raid de l'ancien asile du plateau des Corbeaux, fuite d'Éloïse par une fenêtre (ch. 11).
+- **Scènes embarrassantes/drôles**, réparties entre plusieurs personnages : sonnerie de dessin animé d'Ambrosini en pleine conférence de presse, devenue virale (ch. 2) ; nom de code « Tour de Babel » de Lanvin (ch. 3) ; dîner à la winstub et remontrance de la patronne (ch. 3) ; boue jusqu'aux genoux d'Ambrosini et menace de photo (ch. 7) ; gaffe du fleuriste de Lanvin révélée par la surveillance de l'antagoniste (ch. 12) ; mésaventure du chenil de chasse de Lanvin à l'asile (ch. 11).
+- **Limite concrète de l'antagoniste posée tôt** (conformément à la leçon des tomes 6/7) : Éloïse perd son « instrument » (Solène, secourue), laisse échapper un fragment de tissu par erreur, échoue à droguer sa fuite sans se faire repérer, fuit par une fenêtre plutôt que d'affronter une confrontation directe.
+- **Digression réflexive hugolienne** (une par tome, à un moment pivot) : méditation de Clara sur la justice, la patience et la vengeance devant le mur de photographies de l'asile du plateau des Corbeaux (ch. 11).
+- **Second grand twist du tome, amorcé dès ce premier bloc** (et non réservé aux derniers chapitres) : l'antagoniste n'est pas un « disciple » anonyme mais une correspondante ancienne et non revendiquée de Prieur, agissant par un deuil familial jamais réparé par la justice — mécanisme distinct de celui des tomes 6 (commanditaire financier) et 7 (l'antagoniste est l'auteur du tout premier crime de Clara).
+- **Mensonges et enjeux** : alibi de Colmar en apparence inattaquable ; séquestration de Solène dissimulée à tous ; surveillance de l'équipe entière (Ferrière, Farge, Lanvin, Ambrosini, Chastagner) documentée sur le disque dur chiffré, révélée ch. 12 — menace personnelle désormais étendue à l'ensemble du cercle proche de Clara, pas seulement à elle-même.
+- **Chronologie interne** : le tome 8 s'ouvre la nuit même où s'achève le tome 7 (plus d'un mois après le retour de Clara à Paris). Les chapitres 1 à 12 couvrent environ onze à douze jours consécutifs. **Ancienneté de Clara dans la police : onze ans, fixée par le tome 6 — confirmée sans dérive dans ce bloc** (saluée par les deux jurys indépendants).
+
+### Contrôle indépendant intermédiaire — chapitres 1 à 12 (premier contrôle tous-les-12-chapitres, voir `CLAUDE.md`)
+
+Deux agents indépendants, chacun sans connaissance des notes de production (manuscrit des ch. 1-12 seul, plus les tomes 5, 6 et 7 pour vérifier la cohérence), ont noté ce premier bloc comme le ferait un jury de prix littéraire policier, sur un travail à mi-parcours :
+
+- **Jury n°1 : 7,5/10.** Points forts confirmés : ouverture choc au moins aussi forte que le tome 7, antagoniste incarnée dès le ch. 4, ressort indice-leurre quasiment abandonné, fausses pistes variées, humour bien réparti, limite concrète de l'antagoniste posée tôt, second twist amorcé avec une avance confortable, tics bannis très largement maîtrisés (« sentant » : 1 occurrence réelle ; « malgré elle/lui » : 1 occurrence atténuée ; « frisson glacé », « certitude glaciale », « quelque chose qui ressemblait à » : absents). Faiblesses détectées : incohérence chronologique arithmétique au ch. 9 (« six jours » sans utilisation de la carte/du téléphone, présenté comme coïncidant avec « deux jours avant le massacre » — les deux affirmations étaient incompatibles une fois le nombre de jours réellement écoulés depuis le massacre reconstitué) ; surusage de l'antithèse « pas X, mais Y » (dix occurrences relevées) ; déficit de longueur généralisé (dix chapitres sur douze en dessous de la fourchette) ; un doublon intégral du chapitre 9 détecté en cours de relecture (corrigé avant la fin de la session, confirmé absent lors de la vérification finale du jury).
+- **Jury n°2 : 7,5/10.** Mêmes points forts confirmés indépendamment, avec une mention particulière pour la tenue rigoureuse du repère « onze ans » (aucune dérive, contrairement au tome 7) et pour le dosage réaliste des capacités de l'antagoniste (montage luxembourgeois explicitement qualifié de « minimal » par le texte lui-même, contrastant avec le réseau Kratos du tome 7). Faiblesses détectées : la même incohérence des « six jours »/« deux jours avant le massacre » (ch. 9) ; le repère « sept jours » recopié sans être recalculé entre le ch. 10 (compte à rebours du calendrier du chalet) et le ch. 12 (cérémonie parisienne), risquant de semer la confusion sur la nature de ces deux délais distincts ; dix occurrences de « pas X, mais Y », soit près d'une par chapitre ; léger décalage d'un jour entre « avant-hier » et « deux jours avant le massacre » au ch. 2 ; déficit de longueur généralisé ; réserve sur la proximité du moteur psychologique d'Éloïse Rochas avec celui de Prieur (deuil non réparé → esthétisation de la vengeance), à ne pas laisser devenir une redite complète dans les chapitres 13-24.
+
+**Corrections apportées immédiatement après ces deux notations (avant de poursuivre l'écriture, conformément à la règle de `CLAUDE.md`)** :
+- Incohérence « six jours »/« deux jours avant le massacre » (ch. 9) corrigée : la seconde mention, contradictoire, a été retirée et remplacée par un ancrage cohérent sur la date du trajet en taxi rapporté par Lanvin au même chapitre — les trois mentions de « six jours » (taxi, relevé bancaire, captivité de Solène) sont désormais mutuellement cohérentes.
+- Décalage d'un jour au ch. 2 (« avant-hier » / « deux jours avant le massacre ») corrigé : reformulé en « ce matin même, quelques heures à peine après le massacre », cohérent avec le reste de la chronologie du chapitre.
+- Risque de confusion entre les deux comptes à rebours de « sept jours » (ch. 10 et ch. 12) clarifié par l'ajout d'un passage explicite au ch. 12 distinguant le délai fixé par Éloïse elle-même (calendrier du chalet) de celui, extérieur et fortuit, de la cérémonie parisienne.
+- Antithèses « pas X, mais Y » : ramenées de quatorze occurrences réelles à deux sur l'ensemble des douze chapitres (conservées uniquement les deux plus structurantes : la nature de la menace au ch. 1, la localisation finale de la menace au ch. 12), le reste entièrement reformulé.
+- Tic résiduel « sentant [X] » (ch. 2, « sentant sous son pied ») corrigé.
+- Chapitres 7 et 9, parmi les plus courts, étoffés par du contenu narratif réel (débriefing sur la faille de protection ayant coûté la vie à Marie-Hélène Aubry ; entretien avec la psychiatre de Solène Rochas éclairant cliniquement la dynamique des deux sœurs) plutôt que par du remplissage descriptif.
+- Vérification anti-doublon complète effectuée sur l'ensemble du fichier : aucun autre doublon détecté après correction.
+
+### Reste à faire (tome 8)
+
+- Chapitres 13 à 24 restant à écrire (prochaine session), avec pour fil directeur immédiat la confrontation à Paris lors de la cérémonie de reconnaissance nationale, dans un délai désormais fixé à sept jours à la fin du ch. 12.
+- Point de vigilance explicite pour la session suivante : ne pas laisser le moteur psychologique d'Éloïse Rochas (deuil non réparé par la justice → esthétisation de la vengeance) devenir une simple redite de celui de Prieur — le jury n°2 a signalé ce risque de proximité excessive entre les deux antagonistes consécutifs de la série.
+- Poursuivre l'étoffement des chapitres les plus courts lors de la relecture finale (une fois les 24 chapitres écrits), comme cela avait été fait pour le tome 7.
+- Relecture ligne par ligne complète + notation indépendante finale ≥ 9/10 (une fois les 24 chapitres écrits).
+- Export Word final.
 
 ## Tome 7 — La Septième Chaise
 
